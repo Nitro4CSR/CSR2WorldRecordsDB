@@ -28,17 +28,17 @@ Alpine_A110_2018,Alpine A110,,3,483,1274,363/4.0,3.02,0/100,9.069,8.518,INFO,htt
 AstonMartin_DB5Classic_1964,Aston Martin DB5 (E.C. Level 0),,0,481,1049,283/6.4,4.54,0/100,9.548,9.541,INFO,https://www.youtube.com/watch?v=ADotipMiIRM,🃏JOKER86
 AstonMartin_DB5Classic_1964_EC,Aston Martin DB5 (E.C. Level 50),,3,481,1469,347/5.1,3.87,0/100,8.709,8.670,INFO,https://www.youtube.com/watch?v=ehIEySuw9Gs,Ѕᴄᴀɴᴛᴇʀ
 Audi_TTRSPlusCoupe_2014,Audi TT RS,,1,483,699,321/5.9,4.83,0/100,10.224,10.021,INFO,https://www.youtube.com/watch?v=GgO1Gm48lyk,L I B E
-BMW_M235iCoupe_2014,BMW M235i Coupé (E.C. Level 0),,1,484,687,276/6.4,3.08,10/90,10.237,9.976,INFO,https://www.youtube.com/watch?v=dcS3A3oyPWw,Kouzoulos
-BMW_M235iCoupe_2014_EC,BMW M235i Coupé (E.C. Level 50),(Nitrous‚ Transmission & Tires S5),3,470,1480,190/5.0,5.00,0/100,8.824,8.792,INFO,https://www.youtube.com/watch?v=pLvQ1NAP5nE,wტlfαѕt⓱ᴵᵀᴬ
-BMW_Z4MCoupeCrew_2006,Daniel's BMW Z4 M Coupe,,P3,,,,NaN,,NaN,NaN,,,
+BMW_M235iCoupe_2014,BMW 2014 M235i Coupé (E.C. Level 0),,1,484,687,276/6.4,3.08,10/90,10.237,9.976,INFO,https://www.youtube.com/watch?v=dcS3A3oyPWw,Kouzoulos
+BMW_M235iCoupe_2014_EC,BMW 2014 M235i Coupé (E.C. Level 50),(Nitrous‚ Transmission & Tires S5),3,470,1480,190/5.0,5.00,0/100,8.824,8.792,INFO,https://www.youtube.com/watch?v=pLvQ1NAP5nE,wტlfαѕt⓱ᴵᵀᴬ
+BMW_Z4MCoupeCrew_2006,Daniel's BMW 2006 Z4 M,,P3,,,,NaN,,NaN,NaN,,,
 Ferrari_250GTOClassic_1962,Ferrari 250 GTO (E.C. Level 0),,0,481,1404,230/4.0,4.72,0/100,8.839,8.570,INFO,https://www.youtube.com/watch?v=Nt5RMWzvsRc,eLGeZoOo
 Ferrari_250GTOClassic_1962_EC,Ferrari 250 GTO (E.C. Level 50),,3,481,1523,242/4.0,4.47,0/100,8.601,8.315,INFO,https://www.youtube.com/watch?v=C97391kMwYU,Ѕᴄᴀɴᴛᴇʀ
 Ford_F150SVTRaptor_2014,Ford F-150 SVT Raptor (E.C. Level 0),,3,481,773,332/6.4,5.00,8/92,10.104,9.921,INFO,https://www.youtube.com/watch?v=lf1JOhOKcl4,BISBIS ☯
 Ford_F150SVTRaptor_2014_EC,Ford F-150 SVT Raptor (E.C. Level 50),,3,481,1362,353/5.5,4.71,0/100,8.925,8.839,INFO,https://www.youtube.com/watch?v=Ny7wy19CEfA,Ѕᴄᴀɴᴛᴇʀ
 Ford_FocusRS_2017,Ford Focus RS,,1,483,732,337/5.2,3.16,56/44,10.157,9.965,INFO,https://www.youtube.com/watch?v=ytDH_I_H0NQ,Ѕᴄᴀɴᴛᴇʀ
 Ford_FocusRSElite_2017,Altay's Ford Focus RS,,P3,,,,NaN,,NaN,NaN,,,
-Honda_CivicTypeR_2017,Honda Civic Type R,,3,483,694,341/6.0,2.60,1/99,10.232,9.004,INFO,https://www.youtube.com/watch?v=y2MMzELjJb8,BISBIS ☯
-Honda_CivicTypeRElite_2017,Rico's Honda Civic Type R,,P3,,,,NaN,,NaN,NaN,,,
+Honda_CivicTypeR_2017,Honda 2017 Civic Type R,,3,483,694,341/6.0,2.60,1/99,10.232,9.004,INFO,https://www.youtube.com/watch?v=y2MMzELjJb8,BISBIS ☯
+Honda_CivicTypeRElite_2017,Rico's Honda 2017 Civic Type-R,,P3,,,,NaN,,NaN,NaN,,,
 Hyundai_VelosterTurboRSpecARK_2014,Hyundai Ark Performance Veloster,,2,484,969,344/5.9,4.70,0/100,9.676,9.155,INFO,https://www.youtube.com/watch?v=84W6QDWdprE,฿̣ŪḶḶ₹ΞÐ
 Landrover_RangeRoverEvoqueCoupeCrewRecycled_2016,Land Rover Range Rover Evoque,,2,485,815,339/6.1,2.27,0/100,9.961,9.708,INFO,https://www.youtube.com/watch?v=dj2Y2E9IrHc,HULK
 Landrover_RangeRoverEvoqueCoupeCrew_2016,Shana's Land Rover Range Rover Evoque,,P3,485,900,358/6.2,2.27,0/100,9.791,9.513,INFO,https://www.youtube.com/watch?v=FgrkiZCacpg,Ѕᴄᴀɴᴛᴇʀ
@@ -66,26 +66,26 @@ Audi_RS5CoupeRewardRecycled_2020,Audi RS 5 Coupé 2020,(Nitrous Stage 5),4,576,1
 Audi_RS5CoupeReward_2020,Audi RS 5 Coupé 2020,(Nitrous Stage 5),P4,576,1061,50/6.0,2.00,53/47,7.763,7.650,INFO,https://www.youtube.com/watch?v=QZNJ-937FEs,eLGeZoOo
 Audi_RS5Coupe_2014,Audi RS 5 Coupé (E.C. Level 0),,2,581,621,371/5.3,3.45,100/0,8.799,8.693,INFO,https://www.youtube.com/watch?v=D82zx5EHsbw,ƊąɧƖıą
 Audi_RS5Coupe_2014_EC,Audi RS 5 Coupé (E.C. Level 50),,4,581,844,419/5.6,2.91,100/0,8.241,8.223,INFO,https://www.youtube.com/watch?v=JeAkrp1Hbl4,eLGeZoOo
-BMW_ACSchnitzerM2Coupe_2016,BMW ACS2 Sport,,4,583,803,423/5.9,3.57,0/100,8.317,8.181,INFO,https://www.youtube.com/watch?v=uxlHovmuVlA,BISBIS ☯
+BMW_ACSchnitzerM2Coupe_2016,BMW M2 by AC Schnitzer,,4,583,803,423/5.9,3.57,0/100,8.317,8.181,INFO,https://www.youtube.com/watch?v=uxlHovmuVlA,BISBIS ☯
 BMW_ACSchnitzerZ4_2019,BMW ACS4,,4,585,997,185/4.9,2.82,0/100,7.802,7.726,,https://www.youtube.com/watch?v=jiUQUzuFvdY,
-BMW_M3E92CoupeGTSRewardRecycled_2011,BMW LB M3 GTS,,4,584,628,395/5.9,3.57,11/89,8.742,8.413,INFO,https://www.youtube.com/watch?v=Z3mDQlqMjeM&t=84s,BISBIS ☯
-BMW_M3E92CoupeGTSReward_2011,BMW LB M3 GTS,,P4,584,653,417/5.9,3.55,12/88,8.679,8.351,INFO,https://www.youtube.com/watch?v=Z3mDQlqMjeM,🃏JOKER86
-BMW_M3E92CoupeGTSElite_2011,Rico's BMW LB M3 GTS,,P4,,,,NaN,,NaN,NaN,,,
-BMW_LBM4CoupeCrewRecycled_2014,BMW LB M4 Coupé,,3,585,697,404/5.6,3.29,1/99,8.553,8.307,INFO,https://www.youtube.com/watch?v=6YOT5Dlzays,StArScReAm88it
-BMW_LBM4CoupeCrew_2014,Amelia's BMW LB M4 Coupé,,P4,585,716,417/5.9,3.31,0/100,8.506,8.243,INFO,https://www.youtube.com/watch?v=-zWWlsLauEE,BARRETT50CAL
-BMW_M2CoupeG87RewardRecycled_2023,BMW M2 (G87) Coupé,(Install ONLY the uncommon fusions in Stage 1‚ 2‚ 3 and 4 to Nitrous),4,581,1060,225/5.3,2.00,0/100,7.697,7.391,INFO,https://www.youtube.com/watch?v=LhN-G2aSoPU,Josantzu w/l swap 🔄
-BMW_M2CoupeG87Reward_2023,BMW M2 (G87) Coupé,(Don't install fusions in Stages 5 and 6 of the Nitrous upgrade),P4,581,1104,150/4.0,2.00,0/100,7.586,7.234,INFO,https://www.youtube.com/watch?v=6-ZcywURNsc,ち卄乇工Ｋ卄卂
-BMW_M2G87MPerformance_2023,BMW M2 (G87) Coupé ''M Performance'',,P4,581,1104,150/4.0,2.00,0/100,7.586,7.232,INFO,https://www.youtube.com/watch?v=l4AJp6erEuw,Darth Piner
-BMW_M2Competition_2018,BMW M2 Competition,,3,580,909,366/5.6,3.82,0/100,8.085,7.955,INFO,https://www.youtube.com/watch?v=Y5vTQZjs19o,HULK
-BMW_M3TouringRewardRecycled_2022,BMW M3 Touring (G81) Competition,,4,581,1007,338/5.9,2.54,0/100,7.826,7.750,INFO,https://www.youtube.com/watch?v=srg_r9qwjeo,Darth Piner
-BMW_M3TouringReward_2022,BMW M3 Touring (G81) Competition,,P4,581,1038,354/5.9,2.54,0/100,7.749,7.682,,https://www.youtube.com/watch?v=pMk7-9lFecU,
-BMW_M4CoupeRewardRecycled_2021,BMW M4 Competition (G82),,4,581,1007,338/5.9,2.54,0/100,7.826,7.744,INFO,https://www.youtube.com/watch?v=RDlwiEzThVk,eLGeZoOo
-BMW_M4CoupeReward_2021,BMW M4 Competition (G82),,P4,581,1038,354/5.9,2.54,0/100,7.749,7.684,INFO,https://www.youtube.com/watch?v=5c9f62tkcvQ,eLGeZoOo
-BMW_M4CoupeMPerformance_2021,BMW M4 Coupé (G82) ''M Performance'',,P4,581,1059,186/4.1,2.00,0/100,7.703,7.666,INFO,https://www.youtube.com/watch?v=ZUEirtkDUKM,ᏃooᏨar
-BMW_M4Coupe_2014,BMW M4 Coupé,,2,580,698,371/5.3,4.99,0/100,8.614,8.429,INFO,https://www.youtube.com/watch?v=wjEqStYFkuk,疯狂的卡拉恰
-BMW_RBM3E92RewardRecycled_2011,BMW Rocket Bunny M3 GTS (E92),,5,581,1121,188/4.0,3.81,0/100,7.548,7.501,,https://www.youtube.com/watch?v=oM7FV8YphYo,
-BMW_RBM3E92Reward_2011,BMW Rocket Bunny M3 GTS (E92),,P5,581,1143,188/4.0,3.78,0/100,7.493,7.449,,https://www.youtube.com/watch?v=oM7FV8YphYo,
-BMW_Z4_2019,BMW Z4 M40i,,3,585,845,404/5.6,4.68,0/100,8.180,7.841,INFO,https://www.youtube.com/watch?v=wIKR_DTJmq0,ᎪᴅʀᴇɴᴀᏞ⁸⁸⁸
+BMW_M3E92CoupeGTSRewardRecycled_2011,BMW 2011 LB M3 GTS,,4,584,628,395/5.9,3.57,11/89,8.742,8.413,INFO,https://www.youtube.com/watch?v=Z3mDQlqMjeM&t=84s,BISBIS ☯
+BMW_M3E92CoupeGTSReward_2011,BMW 2011 LB M3 GTS,,P4,584,653,417/5.9,3.55,12/88,8.679,8.351,INFO,https://www.youtube.com/watch?v=Z3mDQlqMjeM,🃏JOKER86
+BMW_M3E92CoupeGTSElite_2011,Rico's BMW 2011 LB M3 GTS,,P4,,,,NaN,,NaN,NaN,,,
+BMW_LBM4CoupeCrewRecycled_2014,BMW 2014 LB M4 Coupé,,3,585,697,404/5.6,3.29,1/99,8.553,8.307,INFO,https://www.youtube.com/watch?v=6YOT5Dlzays,StArScReAm88it
+BMW_LBM4CoupeCrew_2014,Amelia's BMW 2014 LB M4 Coupé,,P4,585,716,417/5.9,3.31,0/100,8.506,8.243,INFO,https://www.youtube.com/watch?v=-zWWlsLauEE,BARRETT50CAL
+BMW_M2CoupeG87RewardRecycled_2023,BMW 2023 M2 Coupé,(Install ONLY the uncommon fusions in Stage 1‚ 2‚ 3 and 4 to Nitrous),4,581,1060,225/5.3,2.00,0/100,7.697,7.391,INFO,https://www.youtube.com/watch?v=LhN-G2aSoPU,Josantzu w/l swap 🔄
+BMW_M2CoupeG87Reward_2023,BMW 2023 M2 Coupé,(Don't install fusions in Stages 5 and 6 of the Nitrous upgrade),P4,581,1104,150/4.0,2.00,0/100,7.586,7.234,INFO,https://www.youtube.com/watch?v=6-ZcywURNsc,ち卄乇工Ｋ卄卂
+BMW_M2G87MPerformance_2023,BMW 2023 M2 Coupé ''M Performance'',,P4,581,1104,150/4.0,2.00,0/100,7.586,7.232,INFO,https://www.youtube.com/watch?v=l4AJp6erEuw,Darth Piner
+BMW_M2Competition_2018,BMW 2018 M2 Competition,,3,580,909,366/5.6,3.82,0/100,8.085,7.955,INFO,https://www.youtube.com/watch?v=Y5vTQZjs19o,HULK
+BMW_M3TouringRewardRecycled_2022,BMW 2022 M3 Touring Competition,,4,581,1007,338/5.9,2.54,0/100,7.826,7.750,INFO,https://www.youtube.com/watch?v=srg_r9qwjeo,Darth Piner
+BMW_M3TouringReward_2022,BMW 2022 M3 Touring Competition,,P4,581,1038,354/5.9,2.54,0/100,7.749,7.682,,https://www.youtube.com/watch?v=pMk7-9lFecU,
+BMW_M4CoupeRewardRecycled_2021,BMW 2021 M4 Competition,,4,581,1007,338/5.9,2.54,0/100,7.826,7.744,INFO,https://www.youtube.com/watch?v=RDlwiEzThVk,eLGeZoOo
+BMW_M4CoupeReward_2021,BMW 2021 M4 Competition ,,P4,581,1038,354/5.9,2.54,0/100,7.749,7.684,INFO,https://www.youtube.com/watch?v=5c9f62tkcvQ,eLGeZoOo
+BMW_M4CoupeMPerformance_2021,BMW 2021 M4 Coupé ''M Performance'',,P4,581,1059,186/4.1,2.00,0/100,7.703,7.666,INFO,https://www.youtube.com/watch?v=ZUEirtkDUKM,ᏃooᏨar
+BMW_M4Coupe_2014,BMW 2014 M4 Coupé,,2,580,698,371/5.3,4.99,0/100,8.614,8.429,INFO,https://www.youtube.com/watch?v=wjEqStYFkuk,疯狂的卡拉恰
+BMW_RBM3E92RewardRecycled_2011,BMW 2011 Rocket Bunny M3 GTS,,5,581,1121,188/4.0,3.81,0/100,7.548,7.501,,https://www.youtube.com/watch?v=oM7FV8YphYo,
+BMW_RBM3E92Reward_2011,BMW 2011 Rocket Bunny M3 GTS,,P5,581,1143,188/4.0,3.78,0/100,7.493,7.449,,https://www.youtube.com/watch?v=oM7FV8YphYo,
+BMW_Z4_2019,BMW 2019 Z4 M40i,,3,585,845,404/5.6,4.68,0/100,8.180,7.841,INFO,https://www.youtube.com/watch?v=wIKR_DTJmq0,ᎪᴅʀᴇɴᴀᏞ⁸⁸⁸
 Chevrolet_CamaroSS_2016,Chevrolet Camaro SS (E.C. Level 0),,2,584,656,371/5.3,3.40,35/65,8.673,8.483,INFO,https://www.youtube.com/watch?v=ZmCvfOqgb9k,L I B E
 Chevrolet_CamaroSS_2016_EC,Chevrolet Camaro SS (E.C. Level 50),,4,584,737,413/5.7,3.23,13/87,8.473,7.750,INFO,https://www.youtube.com/watch?v=QLq7Z79kFFQ,_ 丹_ㄗ口ㄗ∞  ¹²
 Chevrolet_CorvetteZR1Classic_1970,Chevrolet Corvette (C3) ZR1 (E.C. Level 0),,0,581,520,279/4.0,2.59,0/100,9.043,7.901,INFO,,eLGeZoOo
@@ -106,8 +106,8 @@ Ford_MustangGTPremium_2015,Ford Mustang GT Premium (E.C. Level 0),,2,581,686,368
 Ford_MustangGTPremium_2015_EC,Ford Mustang GT Premium (E.C. Level 50),,4,581,930,386/5.5,2.42,21/79,8.022,8.021,INFO,https://www.youtube.com/watch?v=3UrVtP4nhA4,иєχтєяα
 Ford_MustangGTPremiumElite_2015,Altay's Ford Mustang GT Premium,,P4,,,,NaN,,NaN,NaN,,,
 Ford_MustangMach1_2021,Ford Mustang Mach 1,,4,585,1000,218/4.5,2.00,0/100,7.796,7.758,INFO,https://www.youtube.com/watch?v=yB01O4PQRdI,🃏JOKER86
-Honda_CivicTypeRVaris_2017,Honda Varis Civic Type R (E.C. Level 0),,4,581,1008,329/5.6,3.15,7/93,7.827,7.669,INFO,https://www.youtube.com/watch?v=46Zit4u9pzk,Nick🔃Racer😎Z🔥S9➕
-Honda_CivicTypeRVaris_2017_EC,Honda Varis Civic Type R (E.C. Level 50),,4,581,1031,329/5.6,3.12,0/100,7.769,7.368,INFO,https://www.youtube.com/watch?v=jRreYv77yZw,sǝpɐlqメ逆刄
+Honda_CivicTypeRVaris_2017,Honda 2017 Varis Civic Type R (E.C. Level 0),,4,581,1008,329/5.6,3.15,7/93,7.827,7.669,INFO,https://www.youtube.com/watch?v=46Zit4u9pzk,Nick🔃Racer😎Z🔥S9➕
+Honda_CivicTypeRVaris_2017_EC,Honda 2017 Varis Civic Type R (E.C. Level 50),,4,581,1031,329/5.6,3.12,0/100,7.769,7.368,INFO,https://www.youtube.com/watch?v=jRreYv77yZw,sǝpɐlqメ逆刄
 Hyundai_ElantraNRewardRecycled_2022,Hyundai Elantra N,,3,581,954,188/4.0,2.00,0/100,7.967,7.715,,https://www.youtube.com/watch?v=FN4Dfc-amWI&t=70s,
 Hyundai_ElantraNReward_2022,Hyundai Elantra N,,P3,581,976,188/4.0,2.00,0/100,7.910,7.664,,https://www.youtube.com/watch?v=FN4Dfc-amWI,
 Kia_StingerGTS_2020,Kia Stinger GT,,4,582,789,379/4.7,5.00,0/100,8.361,8.217,INFO,https://www.youtube.com/watch?v=NFW31E1ubgM,_ 丹_ㄗ口ㄗ∞  ¹²
@@ -167,21 +167,21 @@ Bentley_ContinentalGTV8SF8_2014,Bentley BR9 (FnF),,P5,675,1769,432/5.9,2.95,0/10
 BMW_i8RewardSilver_2017,BMW ACS8,,5,673,1083,320/5.1,3.59,2/98,11.527,11.517,INFO,https://www.youtube.com/watch?v=v9-boK4JsZ4,иєχтєяα
 BMW_i8RewardHoliday_2017,BMW ACS8 (Prismatic),,P5,673,1100,352/5.5,3.56,4/96,11.493,11.474,INFO,https://www.youtube.com/watch?v=TLIuA_VwyN0,疯狂的卡拉恰
 BMW_i8Reward_2017,BMW ACS8,,P5,673,1126,328/6.2,3.37,10/90,11.440,11.433,INFO,,ƊąɧƖıą
-BMW_i8RewardRecycled_2017,BMW i8,,5,673,1152,315/5.5,2.55,4/96,11.401,11.324,INFO,https://www.youtube.com/watch?v=FQuSB-338j4,₦Ø₦₦Ø ₦λ₦₦ł™
-BMW_i8Elite_2017,Rico's BMW i8,,P5,,,,NaN,,NaN,NaN,,,
-BMW_LBi8RewardRecycled_2017,BMW LB i8,,5,673,1103,225/4.9,3.84,28/72,11.509,11.483,INFO,https://www.youtube.com/watch?v=lviw26ihZH0,ƊąɧƖıą
-BMW_LBi8Reward_2017,BMW LB i8,,P5,673,1126,232/4.9,3.84,28/72,11.463,11.426,INFO,https://www.youtube.com/watch?v=M1Gp1dflmNE,ƊąɧƖıą
+BMW_i8RewardRecycled_2017,BMW 2014 i8,,5,673,1152,315/5.5,2.55,4/96,11.401,11.324,INFO,https://www.youtube.com/watch?v=FQuSB-338j4,₦Ø₦₦Ø ₦λ₦₦ł™
+BMW_i8Elite_2017,Rico's BMW 2014 i8,,P5,,,,NaN,,NaN,NaN,,,
+BMW_LBi8RewardRecycled_2017,BMW 2017 LB i8,,5,673,1103,225/4.9,3.84,28/72,11.509,11.483,INFO,https://www.youtube.com/watch?v=lviw26ihZH0,ƊąɧƖıą
+BMW_LBi8Reward_2017,BMW 2017 LB i8,,P5,673,1126,232/4.9,3.84,28/72,11.463,11.426,INFO,https://www.youtube.com/watch?v=M1Gp1dflmNE,ƊąɧƖıą
 BMW_M3SportEvoE30_1990,BMW 1990 M3 Sport Evolution,,P5,673,1740,188/4.0,2.00,0/100,10.243,NaN,,,
-BMW_M4CSLRewardRecycled_2022,BMW M4 (G82) CSL,,5,673,1681,188/4.0,3.15,100/0,10.333,10.063,INFO,https://www.youtube.com/watch?v=8TIcEVkaRvA,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ
-BMW_M4CSLReward_2022,BMW M4 (G82) CSL,,P5,673,1713,188/4.0,3.15,100/0,10.278,10.013,INFO,https://www.youtube.com/watch?v=qootjd_DAaI,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ
-BMW_M4GTS_2016,BMW M4 GTS,,5,673,992,237/4.9,4.18,0/100,11.716,11.676,INFO,https://www.youtube.com/watch?v=ywayci2LhWA,ƊąɧƖıą
-BMW_M5CompetitionRewardRecycled_2019,BMW M5 Competition,,5,674,1558,222/4.0,3.53,0/100,10.553,10.502,INFO,https://www.youtube.com/watch?v=zX29M7X1rfc&t=76s,Gᴏᴅ OF Tʜᴜɴᴅᴇʀ ƊƑ
-BMW_M5CompetitionReward_2019,BMW M5 Competition,,P5,674,1555,222/4.0,3.50,0/100,10.547,10.471,INFO,https://www.youtube.com/watch?v=zX29M7X1rfc,Gᴏᴅ OF Tʜᴜɴᴅᴇʀ ƊƑ
-BMW_M5CSRewardRecycled_2022,BMW M5 CS,,5,674,1666,252/4.2,3.37,0/100,10.326,10.159,INFO,https://www.youtube.com/watch?v=AEQv8uDu2wA,ƊąɧƖıą
-BMW_M5CSReward_2022,BMW M5 CS,,P5,674,1694,188/4.0,3.18,0/100,10.269,10.110,INFO,https://www.youtube.com/watch?v=THDPRk98IxM,Дѕѕетто Согѕд 
-BMW_VarisM4GTSRewardRecycled_2016,BMW VARIS M4 GTS (E.C. Level 0),,5,674,945,188/4.0,4.17,2/98,11.785,11.725,INFO,https://www.youtube.com/watch?v=rLrcn2gbT9A,ƊąɧƖıą
-BMW_VarisM4GTSRewardRecycled_2016_EC,BMW VARIS M4 GTS (E.C. Level 50),,5,674,1632,179/4.6,3.50,0/100,10.410,10.341,INFO,https://www.youtube.com/watch?v=rbXDim1IZxM,eLGeZoOo
-BMW_VarisM4GTSReward_2016,BMW VARIS M4 GTS,,P5,674,979,188/4.0,4.16,0/100,11.716,11.663,INFO,https://www.youtube.com/watch?v=hsjJNAKlB-M,ƊąɧƖıą
+BMW_M4CSLRewardRecycled_2022,BMW 2023 M4 CSL,,5,673,1681,188/4.0,3.15,100/0,10.333,10.063,INFO,https://www.youtube.com/watch?v=8TIcEVkaRvA,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ
+BMW_M4CSLReward_2022,BMW 2023 M4 CSL,,P5,673,1713,188/4.0,3.15,100/0,10.278,10.013,INFO,https://www.youtube.com/watch?v=qootjd_DAaI,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ
+BMW_M4GTS_2016,BMW 2016 M4 GTS,,5,673,992,237/4.9,4.18,0/100,11.716,11.676,INFO,https://www.youtube.com/watch?v=ywayci2LhWA,ƊąɧƖıą
+BMW_M5CompetitionRewardRecycled_2019,BMW 2019 M5 Competition,,5,674,1558,222/4.0,3.53,0/100,10.553,10.502,INFO,https://www.youtube.com/watch?v=zX29M7X1rfc&t=76s,Gᴏᴅ OF Tʜᴜɴᴅᴇʀ ƊƑ
+BMW_M5CompetitionReward_2019,BMW 2019 M5 Competition,,P5,674,1555,222/4.0,3.50,0/100,10.547,10.471,INFO,https://www.youtube.com/watch?v=zX29M7X1rfc,Gᴏᴅ OF Tʜᴜɴᴅᴇʀ ƊƑ
+BMW_M5CSRewardRecycled_2022,BMW 2021 M5 CS,,5,674,1666,252/4.2,3.37,0/100,10.326,10.159,INFO,https://www.youtube.com/watch?v=AEQv8uDu2wA,ƊąɧƖıą
+BMW_M5CSReward_2022,BMW 2021 M5 CS,,P5,674,1694,188/4.0,3.18,0/100,10.269,10.110,INFO,https://www.youtube.com/watch?v=THDPRk98IxM,Дѕѕетто Согѕд 
+BMW_VarisM4GTSRewardRecycled_2016,BMW 2016 VARIS M4 GTS (E.C. Level 0),,5,674,945,188/4.0,4.17,2/98,11.785,11.725,INFO,https://www.youtube.com/watch?v=rLrcn2gbT9A,ƊąɧƖıą
+BMW_VarisM4GTSRewardRecycled_2016_EC,BMW 2016 VARIS M4 GTS (E.C. Level 50),,5,674,1632,179/4.6,3.50,0/100,10.410,10.341,INFO,https://www.youtube.com/watch?v=rbXDim1IZxM,eLGeZoOo
+BMW_VarisM4GTSReward_2016,BMW 2016 VARIS M4 GTS,,P5,674,979,188/4.0,4.16,0/100,11.716,11.663,INFO,https://www.youtube.com/watch?v=hsjJNAKlB-M,ƊąɧƖıą
 Cadillac_CT5VBlackwingRewardRecycled_2022,Cadillac CT5-V Blackwing,,5,673,1658,188/4.0,2.99,53/47,10.404,10.044,INFO,https://www.youtube.com/watch?v=yb9lwWVhubc&t=70s,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ
 Cadillac_CT5VBlackwingReward_2022,Cadillac CT5-V Blackwing,,P5,673,1685,188/4.0,2.99,53/47,10.352,9.997,INFO,https://www.youtube.com/watch?v=yb9lwWVhubc,Smilee® w/l
 Cadillac_CTSVRewardRecycled_2017,Cadillac CTS-V (E.C. Level 0),,5,673,1053,245/4.5,3.52,23/77,11.593,11.394,INFO,https://www.youtube.com/watch?v=2scorQJ-7Is,Dei69
@@ -299,7 +299,7 @@ Mitsubishi_LancerEVOXTNR_2015_EC,Mitsubishi Lancer Evolution Final Edition (E.C.
 Mitsubishi_VoltexEvoIXRewardRecycled_2005,Mitsubishi Voltex Lancer Evolution IX,(Transmission S5),5,667,1877,199/4.6,2.86,0/100,10.162,NaN,,,
 Mitsubishi_VoltexEvoIXReward_2005,Mitsubishi Voltex Lancer Evolution IX,(Transmission S5),P5,667,1923,195/4.6,2.69,0/100,10.066,NaN,,,
 Nissan_GTRPremium_2015,Nissan 2015 GT-R (R35) Premium,,3,672,606,239/4.2,3.91,2/98,12.525,12.353,INFO,https://www.youtube.com/watch?v=qFhlp_u-ow4,ˢᶰᵖᶰᏕᎮᎥᏋᏝ
-Nissan_LBGTRType2_2017,Nissan 2017 GT-R (R35) LB Type-2,,P5,673,1485,188/4.0,2.47,0/100,10.728,10.429,INFO,https://www.youtube.com/watch?v=ZTppx655J3A,ل Ο Κ ℮ マ
+Nissan_LBGTRType2_2017,Nissan LB Type 2 GT-R (R35),,P5,673,1485,188/4.0,2.47,0/100,10.728,10.429,INFO,https://www.youtube.com/watch?v=ZTppx655J3A,ل Ο Κ ℮ マ
 Nissan_GTR_2017,Nissan 2017 GT-R (R35),,4,673,790,264/4.0,3.01,53/47,12.117,11.804,INFO,https://www.youtube.com/watch?v=OY4s6-_v5S8,ᏁᎪᏁᎪᎾ
 Nissan_GTRNismoCrewRecycled_2017,Nissan GT-R NISMO (R35),,4,676,666,230/5.3,3.41,18/82,12.286,12.257,INFO,https://www.youtube.com/watch?v=uETfcpTOSMQ,иєχтєяα
 Nissan_GTRNismoCrew_2017,KJ's Nissan GT-R NISMO (R35),,P5,676,678,248/4.9,3.40,18/82,12.262,12.224,INFO,https://www.youtube.com/watch?v=vfd6X09QKOQ,ꀤ rꀡひʍ ʍ▲n
@@ -421,15 +421,15 @@ Bentley_ContinentalGT3RaceCar_2020,Bentley Continental GT3,,P5,713,2430,188/4.0,
 Bentley_ContinentalGT3PikesPeak_2021,Bentley Continental GT3 Pikes Peak Race Car,,P5,713,2430,188/4.0,2.00,0/100,7.071,6.971,INFO,https://www.youtube.com/watch?v=owU5A1OMBf4,Smilee® w/l
 Bentley_ContinentalGT3RRewardRecycled_2015,Bentley Continental GT3-R,,4,713,1567,439/5.7,2.23,17/83,8.739,8.708,INFO,https://www.youtube.com/watch?v=-5ViBeHoLP8,疯狂的卡拉恰
 Bentley_ContinentalGT3RReward_2015,Bentley Continental GT3-R,,P4,713,1616,470/5.6,2.21,17/83,8.640,8.629,INFO,https://www.youtube.com/watch?v=LQx6GHAWUmM,wტlfαѕt⓱ᴵᵀᴬ
-Bentley_MullinerBacalarRewardRecycled_2021,Bentley Mulliner Bacalar,,5,713,2034,235/5.5,2.92,0/100,7.865,7.843,INFO,https://www.youtube.com/watch?v=Xn9wDdQiurU,Dei69
-Bentley_MullinerBacalarReward_2021,Bentley Mulliner Bacalar,,P5,713,2066,242/5.6,2.87,0/100,7.800,7.779,INFO,https://www.youtube.com/watch?v=Xn9wDdQiurU&t=59s,🃏JOKER86
-BMW_M4GT3_2022,BMW M4 GT3,,P5,713,2496,188/4.0,2.05,53/47,6.943,6.888,,https://www.youtube.com/watch?v=G2DSGjAgoIM,
-BMW_M8ConvertibleRewardRecycled_2021,BMW M8 Competition Convertible,,5,714,1881,448/5.5,2.54,0/100,8.101,8.016,,https://www.youtube.com/watch?v=1ivEvGHE7kU,
-BMW_M8ConvertibleReward_2021,BMW M8 Competition Convertible,,P5,714,1909,473/5.6,2.53,0/100,8.045,7.962,,https://www.youtube.com/watch?v=5DEmvj-KYxg,
-BMW_M8Competition_2020,BMW M8 Competition Coupé,,P5,714,1909,473/5.6,2.53,0/100,8.045,7.963,INFO,https://www.youtube.com/watch?v=clOUkAN8XW4,ꀤ rꀡひʍ ʍ▲n
-BMW_M8ConvertiblePride_2021,BMW M8 Competition Pride Convertible,,P5,714,1909,473/5.6,2.53,0/100,8.045,7.963,,https://www.youtube.com/watch?v=v0tJ7MQprZ0,
-BMW_M8RewardRecycled_2020,BMW M8 Coupé,,5,714,1856,448/5.5,2.65,0/100,8.150,8.077,INFO,https://www.youtube.com/watch?v=9QXOE-4xJNc,wტlfαѕt⓱ᴵᵀᴬ
-BMW_M8Reward_2020,BMW M8 Coupé,,P5,714,1882,473/5.6,2.52,0/100,8.099,8.024,INFO,https://www.youtube.com/watch?v=ylLS9YowtPs,Gᴏᴅ OF Tʜᴜɴᴅᴇʀ ƊƑ
+Bentley_MullinerBacalarRewardRecycled_2021,Bentley Bacalar by Mulliner,,5,713,2034,235/5.5,2.92,0/100,7.865,7.843,INFO,https://www.youtube.com/watch?v=Xn9wDdQiurU,Dei69
+Bentley_MullinerBacalarReward_2021,Bentley Bacalar by Mulliner,,P5,713,2066,242/5.6,2.87,0/100,7.800,7.779,INFO,https://www.youtube.com/watch?v=Xn9wDdQiurU&t=59s,🃏JOKER86
+BMW_M4GT3_2022,BMW 2022 M4 GT3,,P5,713,2496,188/4.0,2.05,53/47,6.943,6.888,,https://www.youtube.com/watch?v=G2DSGjAgoIM,
+BMW_M8ConvertibleRewardRecycled_2021,BMW 2019 M8 Competition Convertible,,5,714,1881,448/5.5,2.54,0/100,8.101,8.016,,https://www.youtube.com/watch?v=1ivEvGHE7kU,
+BMW_M8ConvertibleReward_2021,BMW 2019 M8 Competition Convertible,,P5,714,1909,473/5.6,2.53,0/100,8.045,7.962,,https://www.youtube.com/watch?v=5DEmvj-KYxg,
+BMW_M8Competition_2020,BMW 2019 M8 Competition Coupé,,P5,714,1909,473/5.6,2.53,0/100,8.045,7.963,INFO,https://www.youtube.com/watch?v=clOUkAN8XW4,ꀤ rꀡひʍ ʍ▲n
+BMW_M8ConvertiblePride_2021,BMW 2020 M8 Competition Pride Convertible,,P5,714,1909,473/5.6,2.53,0/100,8.045,7.963,,https://www.youtube.com/watch?v=v0tJ7MQprZ0,
+BMW_M8RewardRecycled_2020,BMW 2019 M8 Coupé,,5,714,1856,448/5.5,2.65,0/100,8.150,8.077,INFO,https://www.youtube.com/watch?v=9QXOE-4xJNc,wტlfαѕt⓱ᴵᵀᴬ
+BMW_M8Reward_2020,BMW 2019 M8 Coupé,,P5,714,1882,473/5.6,2.52,0/100,8.099,8.024,INFO,https://www.youtube.com/watch?v=ylLS9YowtPs,Gᴏᴅ OF Tʜᴜɴᴅᴇʀ ƊƑ
 Brabham_BT62_2019,Brabham BT62,,P5,714,2232,188/4.0,2.00,34/66,7.386,6.992,INFO,https://www.youtube.com/watch?v=fmIZSPlpxr8,邓皇不swap
 Brabham_BT62Evo_2019,Brabham BT62 ''Goodyear Edition'',,P5,714,2232,188/4.0,2.00,34/66,7.386,6.995,,https://www.youtube.com/watch?v=d-mdUS1jCaM,
 Brabham_BT62RRewardRecycled_2020,Brabham BT62R,,5,714,2288,188/4.0,2.00,2/98,7.274,6.920,INFO,https://www.youtube.com/watch?v=yGqPADGywbY,Ѕᴄᴀɴᴛᴇʀ
