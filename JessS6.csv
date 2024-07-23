@@ -43,7 +43,7 @@ T40010,AstonMartin_DBX707Reward_2023,Aston Martin DBX 707,T4,P5,,,150/2.0,2.00,5
 T40015,AstonMartin_VantageRoadsterRewardRecycled_2021,Aston Martin Vantage Roadster,T4,5,,,215/2.0,2.00,30/70,13.121,12.705,12.869,12.823,12.573,12.776,12.988,12.772,false
 T40017,Audi_LBR8V10PlusCoupeRewardRecycled_2014,Audi 2014 LB R8 V10 plus Coupé,T4,5,,,154/2.8,4.45,27/73,12.783,12.486,12.616,12.644,12.287,12.381,12.630,12.383,false
 T40021,Audi_ABTRS6RRewardRecycled_2020,Audi ABT RS6-R,T4,5,,,150/2.0,3.18,0/100,12.255,12.137,12.178,12.162,12.042,11.871,11.855,11.607,false
-T40022,Audi_ABTRS6RReward_2020,Audi ABT RS6-R,T4,P5,,,,,,0.000,12.027,12.069,12.053,11.939,11.790,11.762,11.508,false
+T40022,Audi_ABTRS6RReward_2020,Audi ABT RS6-R,T4,P5,,,150/2.0,3.18,0/100,12.145,12.027,12.069,12.053,11.939,11.790,11.762,11.508,false
 T40023,Audi_RS7SportbackRewardRecycled_2020,Audi RS 7 Sportback,T4,5,,,150/2.0,3.19,0/100,11.716,11.607,11.685,11.655,11.535,11.388,11.338,11.661,false
 T40024,Audi_RS7SportbackReward_2020,Audi RS 7 Sportback,T4,P5,,,150/2.0,3.07,0/100,11.559,11.506,11.532,11.502,11.382,11.221,11.204,11.503,false
 T40025,Audi_RS6AvantRewardRecycled_2020,Audi RS6 Avant,T4,5,,,150/2.0,2.73,0/100,11.903,11.714,11.834,11.797,11.637,11.460,11.467,11.811,false
@@ -406,7 +406,7 @@ T50408,Lamborghini_IVReward_2024,Lamborghini Lanzador Concept,T5,P5,698,2288,225
 T50409,Lamborghini_MurcielagoSVRewardRecycled_2009,Lamborghini Murciélago LP670-4 SuperVeloce,T5,4,,,96/6.0,2.58,52/48,10.717,10.591,10.609,10.613,10.539,10.099,10.363,10.413,false
 T50410,Lamborghini_MurcielagoSVReward_2009,Lamborghini Murciélago LP670-4 SuperVeloce,T5,P4,,,101/6.0,2.55,52/48,10.639,10.526,10.528,10.532,10.457,10.007,10.294,10.325,false
 T50411,Lamborghini_RevueltoRewardRecycled_2024,Lamborghini Revuelto,T5,5,698,1771,150/2.0,2.00,0/100,9.275,8.858,9.053,9.092,8.919,8.929,8.941,9.005,false
-T50412,Lamborghini_RevueltoReward_2024,Lamborghini Revuelto,T5,P5,698,1852,150/2.0,2.00,0/100,9.153,8.770,8.931,8.964,8.863,8.777,8.825,0.000,false
+T50412,Lamborghini_RevueltoReward_2024,Lamborghini Revuelto,T5,P5,698,1852,150/2.0,2.00,0/100,9.153,8.770,8.931,8.964,8.863,8.777,8.825,8.845,false
 T50413,Lamborghini_SC18Alston_2019,Lamborghini SC18,T5,P5,703,1831,61/6.0,2.66,0/100,8.945,8.657,8.756,8.796,8.693,8.635,8.724,8.983,false
 T50414,Lamborghini_SC20_2020,Lamborghini SC20,T5,P5,,,50/6.0,2.42,0/100,9.005,8.737,8.863,8.902,8.769,8.618,8.731,8.555,false
 T50415,Lamborghini_SC63LMDH_2024,Lamborghini SC63,T5,P5,698,1965,150/2.0,2.84,0/100,8.951,8.608,8.831,8.841,8.647,8.467,8.657,8.488,true
@@ -529,7 +529,7 @@ T50563,Pagani_ZondaCinqueCoupe_2009,Pagani Zonda Cinque,T5,P5,,,150/2.0,3.34,53/
 T50564,Pagani_ZondaCinqueCoupeRewardRecycled_2009,Pagani Zonda Cinque Coupé,T5,5,,,150/2.0,3.37,53/47,9.660,9.455,9.551,9.572,9.468,9.208,9.367,9.147,false
 T50565,Pagani_ZondaCinqueCoupeReward_2009,Pagani Zonda Cinque Coupé,T5,P5,,,150/2.0,3.34,53/47,9.572,9.356,9.460,9.484,9.377,9.111,9.277,9.122,false
 T50566,Pagani_ZondaCinqueRoadsterRewardRecycled_2010,Pagani Zonda Cinque Roadster,T5,5,,,150/2.0,3.42,53/47,9.758,9.546,9.651,9.660,9.545,9.305,9.424,9.259,false
-T50567,Pagani_ZondaCinqueRoadsterReward_2010,Pagani Zonda Cinque Roadster,T5,P5,,,,,,0.000,9.356,9.460,9.484,9.377,9.111,9.277,9.122,false
+T50567,Pagani_ZondaCinqueRoadsterReward_2010,Pagani Zonda Cinque Roadster,T5,P5,,,150/2.0,3.34,53/47,9.572,9.356,9.460,9.484,9.377,9.111,9.277,9.122,false
 T50568,Pagani_ZondaCinqueRoadster_2010,Pagani Zonda Cinque Roadster,T5,P5,,,150/2.0,3.34,53/47,9.572,9.356,9.460,9.484,9.377,9.111,9.277,9.122,false
 T50569,Pagani_ZondaBarchetta_2018,Pagani Zonda HP Barchetta,T5,P5,,,101/6.0,2.00,52/48,9.450,9.165,9.205,9.274,9.142,9.121,9.159,9.146,false
 T50570,Pagani_ZondaREvoBarchetta_2021,Pagani Zonda Revo Barchetta,T5,P5,698,1795,200/3.4,3.31,0/100,9.290,9.101,9.192,9.166,9.091,8.630,9.063,8.877,false
