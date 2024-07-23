@@ -105,7 +105,8 @@ T40146,Mazda_KRCJapanRX8Reward_2004,Mazda KRC Modified ''SE3P Wide Body'' RX-8,T
 T40147,Mazda_RBRX8_2004,Mazda Rocket Bunny RX-8,T4,P5,,,150/2.0,3.55,53/47,12.578,12.302,12.398,12.472,12.349,12.081,12.198,12.184,false
 T40149,Mazda_RX7RewardRecycled_1993_EC,Mazda RX-7 Rocket Bunny,T4,5,,,289/2.4,2.00,0/100,12.657,11.571,12.419,12.416,12.226,12.333,12.481,12.476,false
 T40152,Mazda_RX7F1_1993,Mazda Veilside RX-7,T4,P5,,,178/2.0,2.39,53/47,12.816,12.628,12.623,12.631,12.409,12.225,12.447,12.555,false
-T40154,MercedesAMG_G63SUVRewardRecycled_2020,Mercedes-AMG G 63,T4,5,,,147/2.1,0/100,0/100,12.437,12.141,12.151,12.162,12.117,11.919,12.148,12.173,false
+T40154,MercedesAMG_G63SUVRewardRecycled_2020,Mercedes-AMG G 63,T4,5,639,1257,147/2.1,2.06,0/100,12.438,12.141,12.151,12.162,12.117,11.919,12.148,12.173,false
+T40155,MercedesAMG_G63SUVReward_2020,Mercedes-AMG G 63,T4,P5,639,1337,147/2.1,2.06,0/100,12.187,11.995,12.002,12.000,11.899,11.792,11.921,11.963,false
 T40159,MercedesBenz_LBC63AMGCoupeBlackSeries_2014,Mercedes-Benz LB C 63 AMG Black Series,T4,5,,,139/3.5,2.05,15/85,13.980,13.656,13.856,13.813,13.514,13.735,13.780,13.745,false
 T40160,MercedesBenz_SLSAMGBlackSeries_2013,Mercedes-Benz SLS AMG Black Series,T4,4,,,152/3.4,5.00,52/48,13.596,13.481,13.526,13.526,13.182,13.427,13.432,13.144,false
 T40163,Mitsubishi_EclipseF1_1995,Mitsubishi Eclipse,T4,P5,,,176/2.9,2.86,45/55,13.218,12.941,13.073,13.018,12.907,12.873,12.942,12.851,false
@@ -227,9 +228,9 @@ T50124,Bugatti_VeyronGrandSportVitesseWRE_2012,Bugatti Veyron Grand Sport Vitess
 T50127,Bugatti_W16Mistral_2023,Bugatti W16 Mistral,T5,P5,,,144/2.2,2.00,0/100,7.876,7.846,7.845,7.860,7.750,7.593,7.672,7.455,false
 T50128,Buick_RoadstershopGrandNational_1987,Buick Roadster Shops Grand National,T5,P5,648,1748,150/2.0,2.00,0/100,9.367,8.918,9.146,9.199,9.041,8.964,9.055,9.048,false
 T50129,Chevrolet_CorvetteStingrayTNR_2020,Chevrolet 2020 Corvette Stingray,T5,0,,,188/4.0,2.00,0/100,9.463,9.303,9.318,9.399,9.178,9.172,9.289,9.243,false
-T50130,Chevrolet_CorvetteStingrayTNR_2020_EC,Chevrolet 2020 Corvette Stingray,T5,P5,,,188/4.0,2.00,0/100,8.058,7.960,7.945,8.024,7.960,7.792,7.910,7.808,false
+T50130,Chevrolet_CorvetteStingrayTNR_2020_EC,Chevrolet 2020 Corvette Stingray,T5,P5,,,188/4.0,2.00,0/100,8.058,7.960,7.945,8.024,7.960,7.792,7.910,7.808,true
 T50131,Chevrolet_CorvetteZ06RewardRecycled_2023,Chevrolet 2023 Corvette Z06,T5,5,,,150/2.0,2.00,0/100,8.911,8.716,8.800,8.855,8.815,8.617,8.722,8.488,true
-T50132,Chevrolet_CorvetteZ06Reward_2023,Chevrolet 2023 Corvette Z06,T5,P5,,,150/2.0,2.00,0/100,8.984,8.805,8.864,8.923,8.882,8.683,8.795,8.526,true
+T50132,Chevrolet_CorvetteZ06Reward_2023,Chevrolet 2023 Corvette Z06,T5,P5,,,150/2.0,2.00,0/100,8.984,8.805,8.864,8.923,8.882,8.683,8.795,8.526,false
 T50133,Chevrolet_CorvetteZ06C8CRewardRecycled_2023,Chevrolet 2023 Corvette Z06 Convertible,T5,5,,,150/2.0,5.00,0/100,8.983,8.856,8.878,8.953,8.902,8.721,8.807,8.488,false
 T50134,Chevrolet_CorvetteZ06C8CReward_2023,Chevrolet 2023 Corvette Z06 Convertible,T5,P5,,,150/2.0,5.00,0/100,9.013,8.908,8.919,8.991,8.936,8.758,8.849,8.513,false
 T50135,Chevrolet_CorvetteZ06Z07Package_2023,Chevrolet 2023 Corvette Z06 'Z07 Package',T5,P5,,,150/2.0,2.00,0/100,8.639,8.499,8.538,8.599,8.560,8.362,8.465,8.308,false
@@ -245,9 +246,9 @@ T50155,Chevrolet_EddiesCorvetteC2_1963,Chevrolet Eddie's Rod & Custom Corvette C
 T50156,Chevrolet_CamaroSSNASCARXfinity_2021,Chevrolet ForeverLawn Zero Camaro SS NASCAR® Xfinity,T5,P5,,,50/6.0,2.22,53/47,9.479,9.158,9.305,9.372,9.286,8.955,9.199,9.066,false
 T50157,Chevrolet_NASCARCamaroZL1JE_2020,Chevrolet ForeverLawn Zero Camaro ZL1 1LE NASCAR®,T5,P5,,,234/3.6,2.16,0/100,8.782,8.414,8.745,8.690,8.552,8.335,8.409,8.426,false
 T50158,Chevrolet_GreeningCamaroIROCZ_1985,Chevrolet Greening Auto Company Camaro IROC Z28,T5,P5,,,150/2.0,2.00,0/100,8.247,8.244,8.166,7.992,8.097,8.064,8.097,8.064,false
-T50159,Chevrolet_Camaro632_1988,Chevrolet Hoonigan Camaro '632',T5,P5,698,2082,150/2.0,2.00,0/100,8.704,8.383,8.506,8.597,8.456,8.207,8.402,8.319,false
+T50159,Chevrolet_Camaro632_1988,Chevrolet Hoonigan Camaro '632',T5,P5,698,2082,150/2.0,2.00,0/100,8.704,8.383,8.506,8.597,8.456,8.207,8.402,8.319,true
 T50160,Chevrolet_CapriceDonk_1971,Chevrolet Hoonigan Caprice 'DONK',T5,P5,698,2398,150/2.0,2.00,0/100,8.087,7.909,7.984,8.030,7.987,7.836,7.891,7.842,true
-T50161,Chevrolet_NapalmNova_1972,Chevrolet Hoonigan Napalm Nova,T5,P5,698,2127,150/2.0,2.75,0/100,8.614,8.357,8.591,8.518,8.370,8.178,8.312,8.245,true
+T50161,Chevrolet_NapalmNova_1972,Chevrolet Hoonigan Napalm Nova,T5,P5,698,2127,150/2.0,2.75,0/100,8.614,8.357,8.591,8.518,8.370,8.178,8.312,8.245,false
 T50162,Chevrolet_HSCustomsCamaroRewardRecycled_2016,Chevrolet HS Customs ''Under Pressure'',T5,5,,,522/4.0,3.24,0/100,9.846,9.492,9.638,9.628,9.450,9.524,9.642,9.332,false
 T50163,Chevrolet_HSCustomsCamaroReward_2016,Chevrolet HS Customs ''Under Pressure'',T5,P5,,,546/4.2,3.15,0/100,9.686,9.341,9.469,9.456,9.316,9.360,9.494,9.182,false
 T50165,Chevrolet_LMCorvetteC8_2020,Chevrolet Label Motorsports Corvette Stingray,T5,P5,698,2272,150/2.0,2.00,0/100,8.330,8.171,8.266,8.235,8.184,8.059,8.161,8.016,false
@@ -408,10 +409,10 @@ T50410,Lamborghini_MurcielagoSVReward_2009,Lamborghini Murciélago LP670-4 Super
 T50411,Lamborghini_RevueltoRewardRecycled_2024,Lamborghini Revuelto,T5,5,698,1771,150/2.0,2.00,0/100,9.275,8.858,9.053,9.092,8.919,8.929,8.941,9.005,false
 T50412,Lamborghini_RevueltoReward_2024,Lamborghini Revuelto,T5,P5,698,1852,150/2.0,2.00,0/100,9.153,8.770,8.931,8.964,8.863,8.777,8.825,8.845,false
 T50413,Lamborghini_SC18Alston_2019,Lamborghini SC18,T5,P5,703,1831,61/6.0,2.66,0/100,8.945,8.657,8.756,8.796,8.693,8.635,8.724,8.983,false
-T50414,Lamborghini_SC20_2020,Lamborghini SC20,T5,P5,,,50/6.0,2.42,0/100,9.005,8.737,8.863,8.902,8.769,8.618,8.731,8.555,false
+T50414,Lamborghini_SC20_2020,Lamborghini SC20,T5,P5,,,50/6.0,2.42,0/100,9.005,8.737,8.863,8.902,8.769,8.618,8.731,8.555,true
 T50415,Lamborghini_SC63LMDH_2024,Lamborghini SC63,T5,P5,698,1965,150/2.0,2.84,0/100,8.951,8.608,8.831,8.841,8.647,8.467,8.657,8.488,true
 T50417,Lamborghini_SestoElementoCrew_2012,Harkness's Lamborghini Sesto Elemento,T5,P5,,,255/3.0,2.00,54/46,10.149,9.935,9.886,9.953,9.958,9.323,9.722,9.912,true
-T50418,Lamborghini_FewOff_2020,Lamborghini Sián FKP 37,T5,P5,,,126/9.3,2.27,0/100,8.529,8.378,8.477,8.424,8.351,8.166,8.264,8.477,true
+T50418,Lamborghini_FewOff_2020,Lamborghini Sián FKP 37,T5,P5,,,126/9.3,2.27,0/100,8.529,8.378,8.477,8.424,8.351,8.166,8.264,8.477,false
 T50419,Lamborghini_SianRoadster_2021,Lamborghini Sián Roadster,T5,P5,702,2162,50/6.0,2.22,0/100,8.338,8.236,8.341,8.285,8.222,7.958,7.963,8.215,false
 T50420,Lamborghini_TerzoMillennio_2017,Lamborghini Terzo Millennio,T5,P5,,,150/2.9,2.00,0/100,8.475,8.213,8.316,8.361,8.285,8.230,8.269,8.196,false
 T50421,Lamborghini_VenenoGold_2013,Lamborghini Veneno,T5,5,,,158/4.2,2.02,2/98,9.701,9.373,9.471,9.554,9.481,9.242,9.406,9.222,false
@@ -488,7 +489,8 @@ T50508,MercedesAMG_GT3_2020,Mercedes-AMG 2020 GT3,T5,P5,,,150/2.0,2.00,53/47,9.1
 T50509,MercedesAMG_GTBlackSeriesRewardRecycled_2020,Mercedes-AMG GT Black Series,T5,5,,,223/3.8,2.34,0/100,9.731,9.569,9.667,9.661,9.479,9.219,9.354,9.411,false
 T50510,MercedesAMG_GTBlackSeriesReward_2020,Mercedes-AMG GT Black Series,T5,P5,,,234/4.3,2.34,0/100,9.630,9.485,9.571,9.565,9.417,9.128,9.236,9.308,false
 T50511,MercedesAMG_GTRRewardRecycled_2017,Mercedes-AMG GT R,T5,4,,,304/4.2,3.41,12/88,10.903,10.748,10.799,10.807,10.616,10.675,10.744,10.443,false
-T50514,MercedesAMG_S63CoupeRewardRecycled_2020,Mercedes-AMG S 63 Coupé,T5,5,,,50/6.0,2.44,53/47,9.539,9.326,9.460,9.456,9.494,9.116,9.292,9.302,false
+T50514,MercedesAMG_S63CoupeRewardRecycled_2020,Mercedes-AMG S 63 Coupé,T5,5,698,1662,50/6.0,2.44,53/47,9.539,9.326,9.460,9.456,9.494,9.116,9.292,9.302,false
+T50515,MercedesAMG_S63CoupeReward_2020,Mercedes-AMG S 63 Coupé,T5,P5,698,1686,50/6.0,2.44,53/47,9.490,9.283,9.417,9.406,9.441,9.046,9.236,9.247,false
 T50516,MercedesBenz_CLKGTR_1999,Mercedes-Benz CLK-GTR,T5,P5,,,150/2.5,2.33,53/47,9.180,8.940,9.075,9.079,8.918,8.636,8.890,8.747,false
 T50517,MercedesBenz_SL65AMGBlackSeries_2009,Mercedes-Benz SL 65 AMG Black Series,T5,5,,,150/2.0,2.00,0/100,9.056,8.811,8.932,8.999,8.827,8.557,8.767,8.712,false
 T50519,Nissan_GTRTNR_2017_EC,Nissan 2017 GT-R (R35),T5,P5,,,72/8.6,2.24,0/100,8.718,8.557,8.681,8.656,8.596,8.138,8.452,8.628,false
@@ -629,8 +631,6 @@ T50694,Zenvo_TS1GT_2018,Zenvo TS1 GT 'Sleipnir' 10th Anniversary,T5,P5,698,1737,
 T50695,Zenvo_TSRS_2019,Zenvo TSR-S,T5,P5,699,1763,303/2.0,2.00,52/48,9.324,9.120,9.188,9.166,9.049,8.861,9.072,8.930,false
 T50696,Zenvo_TSRS_2020,Zenvo TSR-S ''Chassis No.2'',T5,P5,696,2101,150/2.0,2.11,0/100,8.652,8.503,8.611,8.620,8.543,8.123,8.321,8.452,false
 T50697,Zenvo_TSRSGold_2020,Zenvo TSR-S ''Chassis No.3'',T5,P5,698,1836,150/2.0,2.00,0/100,9.210,8.911,9.032,8.990,8.975,8.777,8.960,8.941,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
 ,,,,,,,,,,,,,,,,,,false
 ,,,,,,,,,,,,,,,,,,false
 ,,,,,,,,,,,,,,,,,,false
