@@ -75,8 +75,8 @@ T40087,Ford_GT_2005,Ford 2005 GT,T4,5,,,149/2.1,3.60,52/48,12.311,12.165,12.263,
 T40090,Ford_RoushStage3Mustang_1996,Ford Jack Roush Edition Mustang,T4,P5,638,1270,150/2.0,2.95,0/100,12.334,12.192,12.229,12.226,12.087,11.835,11.883,12.009,false
 T40091,Ford_MustangDarkHorse_2024,Ford Mustang Dark Horse,T4,P5,,,150/2.0,2.01,0/100,10.239,10.168,10.225,10.135,10.013,10.296,10.029,10.182,false
 T40092,Ford_MustangGTHPE750Silver_2015,Ford Mustang HPE750,T4,4,,,142/3.5,3.73,30/70,12.964,12.676,12.735,12.776,12.400,12.558,12.759,12.654,false
-T40094,Ford_MustangMachEGTRewardRecycled_2021,Ford Mustang Mach-E GT Performance Edition,T4,5,,,150/2.0,3.95,0/100,12.480,12.069,12.264,12.261,12.127,12.156,12.147,12.174,false
-T40095,Ford_MustangMachEGTReward_2021,Ford Mustang Mach-E GT Performance Edition,T4,P5,,,150/2.0,3.59,0/100,12.083,11.750,11.937,11.942,11.836,11.834,11.826,11.782,false
+T40094,Ford_MustangMachEGTRewardRecycled_2021,Ford Mustang Mach-E GT Performance Edition,T4,5,,,150/2.0,3.95,0/100,12.480,12.069,12.264,12.261,12.127,12.156,12.147,12.174,true
+T40095,Ford_MustangMachEGTReward_2021,Ford Mustang Mach-E GT Performance Edition,T4,P5,,,150/2.0,3.59,0/100,12.083,11.750,11.937,11.942,11.836,11.834,11.826,11.782,true
 T40096,Ford_ShelbyGT350R_2016,Ford Mustang Shelby GT350R,T4,5,,,178/2.6,3.73,8/92,13.898,13.690,13.705,13.749,13.486,13.614,13.784,13.683,false
 T40098,Honda_AIMGAINGTNSXRewardRecycled_2017,Honda AIMGAIN GT NSX,T4,5,,,150/2.0,3.10,0/100,12.928,12.573,12.671,12.728,12.631,12.524,12.502,12.442,false
 T40100,Honda_AIMGAINGTNSXEvo_2017,Honda AIMGAIN GT NSX,T4,P5,,,157/2.3,3.43,0/100,12.340,12.251,12.257,12.210,12.192,12.013,12.002,11.558,false
@@ -186,9 +186,9 @@ T50052,Audi_R8V10GTReward_2023,Audi R8 Coupe V10 GT RWD,T5,P5,698,1337,145/2.2,3
 T50053,Audi_R8V10GreenHell_2020,Audi R8 green hell,T5,P5,,,296/5.1,3.90,0/100,9.729,9.599,9.656,9.638,9.632,9.279,9.468,9.665,false
 T50054,Audi_R8LMSGT3_2019,Audi R8 LMS,T5,P5,,,150/2.0,2.27,53/47,9.617,9.227,9.357,9.375,9.169,9.111,9.262,9.355,false
 T50057,Audi_R8V10Decennium_2019,Audi R8 V10 Decennium,T5,P5,,,296/5.1,3.90,0/100,9.729,9.599,9.656,9.638,9.632,9.279,9.468,9.665,false
-T50058,Audi_RSetronGTRewardRecycled_2022,Audi RS e-tron GT,T5,5,,,150/2.9,2.00,0/100,9.660,9.335,9.438,9.494,9.397,9.307,9.379,9.326,false
-T50059,Audi_RSetronGTReward_2022,Audi RS e-tron GT,T5,P5,,,150/2.9,2.00,0/100,9.560,9.232,9.344,9.393,9.300,9.205,9.275,9.293,false
-T50060,Audi_S1ETronQuattroHoonitron_2022,Audi S1 ''Hoonitron'',T5,P5,,,150/2.9,2.37,52/48,7.531,7.495,7.507,7.488,7.415,7.407,7.366,7.355,false
+T50058,Audi_RSetronGTRewardRecycled_2022,Audi RS e-tron GT,T5,5,,,150/2.9,2.00,0/100,9.660,9.335,9.438,9.494,9.397,9.307,9.379,9.326,true
+T50059,Audi_RSetronGTReward_2022,Audi RS e-tron GT,T5,P5,,,150/2.9,2.00,0/100,9.560,9.232,9.344,9.393,9.300,9.205,9.275,9.293,true
+T50060,Audi_S1ETronQuattroHoonitron_2022,Audi S1 ''Hoonitron'',T5,P5,,,150/2.9,2.37,52/48,7.531,7.495,7.507,7.488,7.415,7.407,7.366,7.355,true
 T50065,Bentley_MullinerBaturRewardRecycled_2023,Bentley Batur by Mulliner,T5,5,698,1890,139/2.3,3.27,0/100,9.087,8.934,8.998,8.967,8.814,8.844,8.946,8.576,false
 T50066,Bentley_MullinerBaturReward_2023,Bentley Batur by Mulliner,T5,P5,698,1922,139/2.3,3.25,0/100,9.026,8.868,8.937,8.920,8.756,8.788,8.882,8.513,false
 T50072,Bentley_ContinentalGTSpeedRewardRecycled_2021,Bentley Continental GT Speed,T5,5,,,147/2.0,2.00,0/100,9.321,9.182,9.260,9.214,8.996,9.052,9.192,8.921,false
@@ -228,8 +228,8 @@ T50124,Bugatti_VeyronGrandSportVitesseWRE_2012,Bugatti Veyron Grand Sport Vitess
 T50127,Bugatti_W16Mistral_2023,Bugatti W16 Mistral,T5,P5,,,144/2.2,2.00,0/100,7.876,7.846,7.845,7.860,7.750,7.593,7.672,7.455,false
 T50128,Buick_RoadstershopGrandNational_1987,Buick Roadster Shops Grand National,T5,P5,648,1748,150/2.0,2.00,0/100,9.367,8.918,9.146,9.199,9.041,8.964,9.055,9.048,false
 T50129,Chevrolet_CorvetteStingrayTNR_2020,Chevrolet 2020 Corvette Stingray,T5,0,,,188/4.0,2.00,0/100,9.463,9.303,9.318,9.399,9.178,9.172,9.289,9.243,false
-T50130,Chevrolet_CorvetteStingrayTNR_2020_EC,Chevrolet 2020 Corvette Stingray,T5,P5,,,188/4.0,2.00,0/100,8.058,7.960,7.945,8.024,7.960,7.792,7.910,7.808,true
-T50131,Chevrolet_CorvetteZ06RewardRecycled_2023,Chevrolet 2023 Corvette Z06,T5,5,,,150/2.0,2.00,0/100,8.911,8.716,8.800,8.855,8.815,8.617,8.722,8.488,true
+T50130,Chevrolet_CorvetteStingrayTNR_2020_EC,Chevrolet 2020 Corvette Stingray,T5,P5,,,188/4.0,2.00,0/100,8.058,7.960,7.945,8.024,7.960,7.792,7.910,7.808,false
+T50131,Chevrolet_CorvetteZ06RewardRecycled_2023,Chevrolet 2023 Corvette Z06,T5,5,,,150/2.0,2.00,0/100,8.911,8.716,8.800,8.855,8.815,8.617,8.722,8.488,false
 T50132,Chevrolet_CorvetteZ06Reward_2023,Chevrolet 2023 Corvette Z06,T5,P5,,,150/2.0,2.00,0/100,8.984,8.805,8.864,8.923,8.882,8.683,8.795,8.526,false
 T50133,Chevrolet_CorvetteZ06C8CRewardRecycled_2023,Chevrolet 2023 Corvette Z06 Convertible,T5,5,,,150/2.0,5.00,0/100,8.983,8.856,8.878,8.953,8.902,8.721,8.807,8.488,false
 T50134,Chevrolet_CorvetteZ06C8CReward_2023,Chevrolet 2023 Corvette Z06 Convertible,T5,P5,,,150/2.0,5.00,0/100,9.013,8.908,8.919,8.991,8.936,8.758,8.849,8.513,false
@@ -246,8 +246,8 @@ T50155,Chevrolet_EddiesCorvetteC2_1963,Chevrolet Eddie's Rod & Custom Corvette C
 T50156,Chevrolet_CamaroSSNASCARXfinity_2021,Chevrolet ForeverLawn Zero Camaro SS NASCAR® Xfinity,T5,P5,,,50/6.0,2.22,53/47,9.479,9.158,9.305,9.372,9.286,8.955,9.199,9.066,false
 T50157,Chevrolet_NASCARCamaroZL1JE_2020,Chevrolet ForeverLawn Zero Camaro ZL1 1LE NASCAR®,T5,P5,,,234/3.6,2.16,0/100,8.782,8.414,8.745,8.690,8.552,8.335,8.409,8.426,false
 T50158,Chevrolet_GreeningCamaroIROCZ_1985,Chevrolet Greening Auto Company Camaro IROC Z28,T5,P5,,,150/2.0,2.00,0/100,8.247,8.244,8.166,7.992,8.097,8.064,8.097,8.064,false
-T50159,Chevrolet_Camaro632_1988,Chevrolet Hoonigan Camaro '632',T5,P5,698,2082,150/2.0,2.00,0/100,8.704,8.383,8.506,8.597,8.456,8.207,8.402,8.319,true
-T50160,Chevrolet_CapriceDonk_1971,Chevrolet Hoonigan Caprice 'DONK',T5,P5,698,2398,150/2.0,2.00,0/100,8.087,7.909,7.984,8.030,7.987,7.836,7.891,7.842,true
+T50159,Chevrolet_Camaro632_1988,Chevrolet Hoonigan Camaro '632',T5,P5,698,2082,150/2.0,2.00,0/100,8.704,8.383,8.506,8.597,8.456,8.207,8.402,8.319,false
+T50160,Chevrolet_CapriceDonk_1971,Chevrolet Hoonigan Caprice 'DONK',T5,P5,698,2398,150/2.0,2.00,0/100,8.087,7.909,7.984,8.030,7.987,7.836,7.891,7.842,false
 T50161,Chevrolet_NapalmNova_1972,Chevrolet Hoonigan Napalm Nova,T5,P5,698,2127,150/2.0,2.75,0/100,8.614,8.357,8.591,8.518,8.370,8.178,8.312,8.245,false
 T50162,Chevrolet_HSCustomsCamaroRewardRecycled_2016,Chevrolet HS Customs ''Under Pressure'',T5,5,,,522/4.0,3.24,0/100,9.846,9.492,9.638,9.628,9.450,9.524,9.642,9.332,false
 T50163,Chevrolet_HSCustomsCamaroReward_2016,Chevrolet HS Customs ''Under Pressure'',T5,P5,,,546/4.2,3.15,0/100,9.686,9.341,9.469,9.456,9.316,9.360,9.494,9.182,false
@@ -320,7 +320,7 @@ T50280,Ford_MustangCobraJet_2019,Ford Mustang Cobra Jet,T5,5,,,315/2.0,2.79,0/10
 T50281,Ford_MustangCobraJetVIP_2019,Ford Mustang Cobra Jet ''Boss' 50th Edition'',T5,P5,,,150/2.0,2.91,0/100,9.908,9.610,9.725,9.678,9.652,9.202,9.563,9.648,false
 T50283,Ford_MustangGTFastbackTNR_2018,Ford Mustang GT,T5,0,,,180/3.1,2.24,56/44,10.526,10.276,10.316,10.374,10.101,10.134,10.313,10.420,false
 T50284,Ford_MustangGTFastbackTNR_2018_EC,Ford Mustang GT,T5,P5,,,180/4.2,2.02,56/44,9.136,8.834,8.871,8.936,8.769,8.695,8.918,9.010,false
-T50285,Ford_MustangMachE1400_2021,Ford Mustang Mach-E 1400,T5,P5,,,150/2.9,2.00,0/100,8.424,8.154,8.255,8.307,8.261,8.196,8.246,8.171,false
+T50285,Ford_MustangMachE1400_2021,Ford Mustang Mach-E 1400,T5,P5,,,150/2.9,2.00,0/100,8.424,8.154,8.255,8.307,8.261,8.196,8.246,8.171,true
 T50286,Ford_MustangGTHoonicornV1_1965,Ford Mustang RTR Hoonicorn V1,T5,P5,698,1795,150/2.0,2.00,53/47,9.277,8.926,9.051,9.168,8.440,8.855,8.958,8.906,false
 T50287,Ford_MustangGTHoonicornV2_1965,Ford Mustang RTR Hoonicorn V2,T5,P5,,,150/2.0,2.00,53/47,9.277,8.926,9.051,9.168,8.944,8.855,8.958,8.906,false
 T50289,Ford_MustangShelbyGT500RewardRecycled_2019,Ford Mustang Shelby GT500,T5,5,,,170/2.5,3.38,0/100,10.014,9.745,9.874,9.888,9.664,9.642,9.837,9.482,false
@@ -328,7 +328,7 @@ T50290,Ford_MustangShelbyGT500Reward_2019,Ford Mustang Shelby GT500,T5,P5,,,179/
 T50291,Ford_MustangNASCAR_2022,Ford NASCAR® Next Gen Mustang,T5,P5,,,150/2.0,2.00,0/100,8.814,8.612,8.637,8.717,8.642,8.409,8.501,8.526,false
 T50292,Ford_RingbrothersMustangMach1_1969,Ford Ringbrothers Mustang Mach 1 'Patriarc',T5,P5,,,150/2.0,2.00,0/100,8.806,8.536,8.653,8.678,8.601,8.308,8.558,8.420,false
 T50293,Ford_ROUSHStage3Mustang_2019,Ford ROUSH Stage 3 Mustang,T5,4,,,276/4.9,3.35,0/100,10.046,9.874,9.923,9.925,9.821,9.686,9.821,10.027,false
-T50294,Ford_Supervan4_2022,Ford SuperVan 4,T5,P5,,,225/3.0,2.00,0/100,8.244,8.159,8.057,8.078,8.103,7.946,7.987,7.965,false
+T50294,Ford_Supervan4_2022,Ford SuperVan 4,T5,P5,,,225/3.0,2.00,0/100,8.244,8.159,8.057,8.078,8.103,7.946,7.987,7.965,true
 T50295,Ford_WeaverCustomsMustangFastback_1968,Ford Weaver Customs Mustang Fastback 'Shotgun',T5,P5,698,1970,150/2.0,3.32,0/100,8.925,8.660,8.738,8.760,8.682,8.413,8.656,8.647,false
 T50296,Ford_WeaverCustomsModelAMS_1931,Ford Weaver Customs ''Twisted Mistress'',T5,P5,,,203/4.3,2.00,0/100,8.771,8.432,8.642,8.632,8.638,8.268,8.377,8.638,false
 T50297,Ford_WeaverCustomsModelALB_1931,Ford Weaver Customs ''Twisted Mistress'',T5,P5,,,203/4.3,2.00,0/100,8.704,8.372,8.577,8.567,8.538,8.208,8.317,8.537,false
@@ -402,19 +402,19 @@ T50398,Lamborghini_LBAventadorLP7004RewardVIP_2011,Lamborghini LB Aventador Coup
 T50399,Lamborghini_HuracanLP6104RewardRecycled_2014,Lamborghini LB Huracán Coupé,T5,5,,,447/3.0,3.46,1/99,11.110,10.657,10.836,10.823,10.418,10.541,10.781,10.795,false
 T50404,Lamborghini_LBSilhouetteHuracanRewardRecycled_2014_EC,Lamborghini LB Silhouette Huracán Coupé,T5,5,,,177/2.0,2.91,0/100,8.922,8.771,8.877,8.861,8.769,8.445,8.680,8.830,false
 T50406,Lamborghini_MurcielagoLP640F8_2006,Lamborghini Murciélago,T5,P5,,,377/3.5,3.04,0/100,9.547,9.320,9.496,9.468,9.368,9.295,9.405,9.172,false
-T50407,Lamborghini_IVRewardRecycled_2024,Lamborghini Lanzador Concept,T5,5,698,2242,225/3.0,2.00,0/100,8.374,8.317,8.374,8.357,8.264,8.110,8.182,8.087,false
-T50408,Lamborghini_IVReward_2024,Lamborghini Lanzador Concept,T5,P5,698,2288,225/3.0,2.00,0/100,8.282,8.232,8.294,8.266,8.174,8.036,8.098,7.995,false
+T50407,Lamborghini_IVRewardRecycled_2024,Lamborghini Lanzador Concept,T5,5,698,2242,225/3.0,2.00,0/100,8.374,8.317,8.374,8.357,8.264,8.110,8.182,8.087,true
+T50408,Lamborghini_IVReward_2024,Lamborghini Lanzador Concept,T5,P5,698,2288,225/3.0,2.00,0/100,8.282,8.232,8.294,8.266,8.174,8.036,8.098,7.995,true
 T50409,Lamborghini_MurcielagoSVRewardRecycled_2009,Lamborghini Murciélago LP670-4 SuperVeloce,T5,4,,,96/6.0,2.58,52/48,10.717,10.591,10.609,10.613,10.539,10.099,10.363,10.413,false
 T50410,Lamborghini_MurcielagoSVReward_2009,Lamborghini Murciélago LP670-4 SuperVeloce,T5,P4,,,101/6.0,2.55,52/48,10.639,10.526,10.528,10.532,10.457,10.007,10.294,10.325,false
 T50411,Lamborghini_RevueltoRewardRecycled_2024,Lamborghini Revuelto,T5,5,698,1771,150/2.0,2.00,0/100,9.275,8.858,9.053,9.092,8.919,8.929,8.941,9.005,false
 T50412,Lamborghini_RevueltoReward_2024,Lamborghini Revuelto,T5,P5,698,1852,150/2.0,2.00,0/100,9.153,8.770,8.931,8.964,8.863,8.777,8.825,8.845,false
 T50413,Lamborghini_SC18Alston_2019,Lamborghini SC18,T5,P5,703,1831,61/6.0,2.66,0/100,8.945,8.657,8.756,8.796,8.693,8.635,8.724,8.983,false
-T50414,Lamborghini_SC20_2020,Lamborghini SC20,T5,P5,,,50/6.0,2.42,0/100,9.005,8.737,8.863,8.902,8.769,8.618,8.731,8.555,true
-T50415,Lamborghini_SC63LMDH_2024,Lamborghini SC63,T5,P5,698,1965,150/2.0,2.84,0/100,8.951,8.608,8.831,8.841,8.647,8.467,8.657,8.488,true
-T50417,Lamborghini_SestoElementoCrew_2012,Harkness's Lamborghini Sesto Elemento,T5,P5,,,255/3.0,2.00,54/46,10.149,9.935,9.886,9.953,9.958,9.323,9.722,9.912,true
+T50414,Lamborghini_SC20_2020,Lamborghini SC20,T5,P5,,,50/6.0,2.42,0/100,9.005,8.737,8.863,8.902,8.769,8.618,8.731,8.555,false
+T50415,Lamborghini_SC63LMDH_2024,Lamborghini SC63,T5,P5,698,1965,150/2.0,2.84,0/100,8.951,8.608,8.831,8.841,8.647,8.467,8.657,8.488,false
+T50417,Lamborghini_SestoElementoCrew_2012,Harkness's Lamborghini Sesto Elemento,T5,P5,,,255/3.0,2.00,54/46,10.149,9.935,9.886,9.953,9.958,9.323,9.722,9.912,false
 T50418,Lamborghini_FewOff_2020,Lamborghini Sián FKP 37,T5,P5,,,126/9.3,2.27,0/100,8.529,8.378,8.477,8.424,8.351,8.166,8.264,8.477,false
 T50419,Lamborghini_SianRoadster_2021,Lamborghini Sián Roadster,T5,P5,702,2162,50/6.0,2.22,0/100,8.338,8.236,8.341,8.285,8.222,7.958,7.963,8.215,false
-T50420,Lamborghini_TerzoMillennio_2017,Lamborghini Terzo Millennio,T5,P5,,,150/2.9,2.00,0/100,8.475,8.213,8.316,8.361,8.285,8.230,8.269,8.196,false
+T50420,Lamborghini_TerzoMillennio_2017,Lamborghini Terzo Millennio,T5,P5,,,150/2.9,2.00,0/100,8.475,8.213,8.316,8.361,8.285,8.230,8.269,8.196,true
 T50421,Lamborghini_VenenoGold_2013,Lamborghini Veneno,T5,5,,,158/4.2,2.02,2/98,9.701,9.373,9.471,9.554,9.481,9.242,9.406,9.222,false
 T50422,Lamborghini_Veneno_2013,Lamborghini Veneno,T5,P5,,,231/2.7,2.36,0/100,9.524,9.333,9.450,9.455,9.367,9.055,9.343,9.160,false
 T50423,Lamborghini_VenenoRoadsterGold_2014,Lamborghini Veneno Roadster,T5,5,,,160/4.2,2.00,0/100,9.712,9.346,9.447,9.550,9.450,9.230,9.415,9.222,false
@@ -423,9 +423,9 @@ T50425,Lancia_DeltaHFIntegraleEvo2_1994,Lancia Delta HF Integrale Evo 2,T5,P5,69
 T50426,Lexus_LFAGold_2011,Lexus LFA,T5,5,,,196/2.8,2.66,0/100,9.953,9.762,9.920,9.902,9.746,9.247,9.648,9.538,false
 T50427,Lexus_LFA_2011,Lexus LFA,T5,P5,,,203/2.8,2.80,0/100,9.469,9.259,9.406,9.409,9.256,8.709,9.099,9.322,false
 T50428,Lexus_LFANurburgringPackage_2011,Lexus LFA Nürburgring Package,T5,P5,,,203/2.8,2.80,0/100,9.469,9.259,9.406,9.409,9.256,8.709,9.099,9.322,false
-T50429,Lotus_EvijaRewardRecycled_2020,Lotus Evija,T5,5,698,2020,150/2.3,2.00,0/100,8.824,8.524,8.633,8.690,8.563,8.526,8.600,8.486,false
-T50430,Lotus_EvijaReward_2020,Lotus Evija,T5,P5,698,2055,150/2.3,2.00,0/100,8.753,8.462,8.567,8.616,8.508,8.474,8.528,8.405,false
-T50431,Lotus_Evija_2020,Lotus Evija,T5,P5,,,50/6.8,2.00,0/100,8.711,8.425,8.534,8.579,8.502,8.432,8.485,8.390,false
+T50429,Lotus_EvijaRewardRecycled_2020,Lotus Evija,T5,5,698,2020,150/2.3,2.00,0/100,8.824,8.524,8.633,8.690,8.563,8.526,8.600,8.486,true
+T50430,Lotus_EvijaReward_2020,Lotus Evija,T5,P5,698,2055,150/2.3,2.00,0/100,8.753,8.462,8.567,8.616,8.508,8.474,8.528,8.405,true
+T50431,Lotus_Evija_2020,Lotus Evija,T5,P5,,,50/6.8,2.00,0/100,8.711,8.425,8.534,8.579,8.502,8.432,8.485,8.390,true
 T50432,Maserati_MC12BC_2004,Maserati MC12 Stradale,T5,P5,,,203/3.4,2.86,0/100,9.865,9.403,9.697,9.808,9.764,9.240,9.582,9.536,false
 T50433,Maserati_MC12_2004,Maserati MC12 Stradale,T5,P5,,,222/3.6,3.50,16/84,10.393,10.257,10.254,10.291,10.218,9.770,10.093,9.953,false
 T50434,Maserati_MC12CarbonBlue_2004,Maserati MC12 Stradale 'Carbon Blu',T5,P5,,,222/3.6,3.50,16/84,10.393,10.257,10.254,10.291,10.218,9.770,10.093,9.953,false
@@ -482,7 +482,7 @@ T50497,McLaren_Speedtail_2019,McLaren Speedtail,T5,P5,699,2224,328/2.0,2.93,0/10
 T50498,McLaren_SpeedtailOrange_2019,McLaren Speedtail,T5,P5,699,2224,328/2.0,2.93,0/100,8.393,8.148,8.296,8.292,8.089,8.030,8.234,8.245,false
 T50499,McLaren_SpeedtailRedSEG_2019,McLaren Speedtail,T5,P3,,,150/2.0,3.06,0/100,9.814,9.683,9.725,9.749,9.634,9.502,9.599,9.374,false
 T50500,McLaren_SpeedtailRed_2019,McLaren Speedtail,T5,P5,,,142/2.3,2.70,0/100,8.807,8.634,8.728,8.741,8.611,8.457,8.576,8.286,false
-T50505,McMurtry_Speirling_2022,McMurtry Spéirling Goodwood Edition,T5,P5,,, 225/3.0,2.00,0/100,8.439,8.118,8.242,8.211,8.244,8.062,8.213,8.167,false
+T50505,McMurtry_Speirling_2022,McMurtry Spéirling Goodwood Edition,T5,P5,,, 225/3.0,2.00,0/100,8.439,8.118,8.242,8.211,8.244,8.062,8.213,8.167,true
 T50506,MercedesAMGF1_W11_2020,Mercedes-AMG F1 W11 EQ Performance #44,T5,P5,698,2762,150/2.0,2.00,53/47,7.354,7.282,7.332,7.329,7.292,7.147,7.276,7.280,false
 T50507,MercedesAMGF1_W11VB_2020,Mercedes-AMG F1 W11 EQ Performance #77,T5,P5,698,2762,150/2.0,2.00,53/47,7.354,7.282,7.332,7.329,7.292,7.147,7.276,7.280,false
 T50508,MercedesAMG_GT3_2020,Mercedes-AMG 2020 GT3,T5,P5,,,150/2.0,2.00,53/47,9.165,8.830,9.030,9.053,8.984,8.684,8.838,8.776,false
@@ -536,10 +536,10 @@ T50568,Pagani_ZondaCinqueRoadster_2010,Pagani Zonda Cinque Roadster,T5,P5,,,150/
 T50569,Pagani_ZondaBarchetta_2018,Pagani Zonda HP Barchetta,T5,P5,,,101/6.0,2.00,52/48,9.450,9.165,9.205,9.274,9.142,9.121,9.159,9.146,false
 T50570,Pagani_ZondaREvoBarchetta_2021,Pagani Zonda Revo Barchetta,T5,P5,698,1795,200/3.4,3.31,0/100,9.290,9.101,9.192,9.166,9.091,8.630,9.063,8.877,false
 T50571,Pagani_ZondaRevolucion_2013,Pagani Zonda Revolucion,T5,P5,698,1795,200/3.4,3.31,0/100,9.290,9.101,9.192,9.166,9.091,8.630,9.063,8.877,false
-T50572,Pininfarina_Battista_2020,Pininfarina Battista,T5,P5,698,1828,225/3.0,2.35,0/100,8.969,8.680,8.811,8.795,8.689,8.393,8.617,8.768,false
-T50573,Pininfarina_BattistaRewardRecycled_2022,Pininfarina Battista,T5,5,698,1749,225/3.0,2.00,0/100,9.093,8.765,8.924,8.931,8.767,8.482,8.723,8.899,false
-T50574,Pininfarina_BattistaReward_2022,Pininfarina Battista Anniversario,T5,P5,698,1828,225/3.0,2.35,0/100,8.969,8.680,8.811,8.795,8.689,8.393,8.617,8.768,false
-T50575,Pininfarina_BattistaNinoFarina_2023,Pininfarina Battista Edizione Nino Farina,T5,P5,698,1828,225/3.0,2.35,0/100,8.969,8.680,8.811,8.795,8.689,8.393,8.617,8.768,false
+T50572,Pininfarina_Battista_2020,Pininfarina Battista,T5,P5,698,1828,225/3.0,2.35,0/100,8.969,8.680,8.811,8.795,8.689,8.393,8.617,8.768,true
+T50573,Pininfarina_BattistaRewardRecycled_2022,Pininfarina Battista,T5,5,698,1749,225/3.0,2.00,0/100,9.093,8.765,8.924,8.931,8.767,8.482,8.723,8.899,true
+T50574,Pininfarina_BattistaReward_2022,Pininfarina Battista Anniversario,T5,P5,698,1828,225/3.0,2.35,0/100,8.969,8.680,8.811,8.795,8.689,8.393,8.617,8.768,true
+T50575,Pininfarina_BattistaNinoFarina_2023,Pininfarina Battista Edizione Nino Farina,T5,P5,698,1828,225/3.0,2.35,0/100,8.969,8.680,8.811,8.795,8.689,8.393,8.617,8.768,true
 T50576,Plymouth_WeaverCustomsCudaTorcRewardRecycled_2016,Plymouth 'Cuda ''TorC'' Weaver Customs,T5,5,696,1318,328/3.3,2.84,50/50,10.284,9.888,10.018,10.057,9.685,9.942,10.150,10.032,false
 T50577,Plymouth_WeaverCustomsCudaTorcReward_2016,Plymouth 'Cuda ''TorC'' Weaver Customs,T5,P5,696,1313,295/3.2,2.85,48/52,10.296,9.848,10.043,10.082,9.730,9.958,10.167,10.046,false
 T50578,Plymouth_WeaverCustomsCudaTorcReward4thJuly_2016,Plymouth 'Cuda ''TorC'' Weaver Customs,T5,P5,699,1358,288/3.3,2.87,40/60,10.133,9.748,9.885,10.099,9.615,9.808,9.945,9.748,false
@@ -574,19 +574,19 @@ T50623,Porsche_Canepa959_1988,Porsche 959 SC,T5,P5,697,1168,377/2.4,3.43,52/48,1
 T50626,Porsche_DD911GTRSRRewardRecycled_2017,Porsche Duke Dynamics 911 GT-RSR,T5,5,,,252/2.0,2.00,52/48,10.465,10.276,10.317,10.295,10.300,9.665,9.994,10.048,false
 T50627,Porsche_DD911GTRSRReward_2017,Porsche Duke Dynamics 911 GT-RSR,T5,P5,,,377/2.0,2.00,52/48,10.342,10.190,10.217,10.165,10.190,9.544,9.897,9.931,false
 T50628,Porsche_RWB911Turbo_1991,Porsche Hoonigan RWB 911 Turbo,T5,P5,698,1657,150/2.0,3.15,100/0,9.554,9.230,9.371,9.318,9.212,9.282,9.324,9.225,false
-T50629,Porsche_MissionRConcept_2021,Porsche Mission R Concept,T5,P5,,,225/3.0,2.00,0/100,8.601,8.303,8.415,8.384,8.390,8.232,8.372,8.267,false
+T50629,Porsche_MissionRConcept_2021,Porsche Mission R Concept,T5,P5,,,225/3.0,2.00,0/100,8.601,8.303,8.415,8.384,8.390,8.232,8.372,8.267,true
 T50630,Porsche_RWB993Rotana_1993,Porsche RWB 993 ''Rotana'',T5,P5,698,1566,283/4.5,2.04,42/58,9.740,9.452,9.610,9.612,9.447,9.329,9.151,9.593,false
 T50631,Porsche_912Hoonipigasus_1966,Porsche SVRSR ''Hoonipigasus'',T5,P5,,,150/2.0,2.00,0/100,8.223,8.062,8.095,8.119,8.054,7.802,7.993,7.770,false
-T50632,Porsche_TaycanTurboSCrossTurismo_2022,Porsche Taycan Cross Turismo Turbo S,T5,P5,,,132/2.9,2.00,52/48,9.760,9.415,9.529,9.598,9.498,9.449,9.510,9.475,false
-T50633,Porsche_TaycanTurboGTRewardRecycled_2025,Porsche Taycan Turbo GT ''Weissach Package'',T5,5,698,2008,225/3.0,2.00,0/100,8.852,8.658,8.680,8.690,8.638,8.501,8.612,8.552,false
-T50634,Porsche_TaycanTurboGTReward_2025,Porsche Taycan Turbo GT,T5,P5,698,2035,225/3.0,2.00,0/100,8.797,8.596,8.623,8.649,8.584,8.444,8.554,8.493,false
-T50635,Porsche_TaycanTurboSPride_2021,Porsche Taycan Turbo S,T5,P5,,,132/2.9,2.00,0/100,9.213,8.963,9.026,9.086,8.988,8.984,9.108,9.014,false
-T50636,Porsche_TaycanTurboSRewardRecycled_2021,Porsche Taycan Turbo S,T5,5,,,132/2.9,2.00,52/48,9.842,9.488,9.610,9.681,9.552,9.534,9.596,9.562,false
-T50637,Porsche_TaycanTurboSReward_2021,Porsche Taycan Turbo S,T5,P5,,,132/2.9,2.00,52/48,9.760,9.415,9.529,9.598,9.498,9.449,9.510,9.475,false
+T50632,Porsche_TaycanTurboSCrossTurismo_2022,Porsche Taycan Cross Turismo Turbo S,T5,P5,,,132/2.9,2.00,52/48,9.760,9.415,9.529,9.598,9.498,9.449,9.510,9.475,true
+T50633,Porsche_TaycanTurboGTRewardRecycled_2025,Porsche Taycan Turbo GT ''Weissach Package'',T5,5,698,2008,225/3.0,2.00,0/100,8.852,8.658,8.680,8.690,8.638,8.501,8.612,8.552,true
+T50634,Porsche_TaycanTurboGTReward_2025,Porsche Taycan Turbo GT,T5,P5,698,2035,225/3.0,2.00,0/100,8.797,8.596,8.623,8.649,8.584,8.444,8.554,8.493,true
+T50635,Porsche_TaycanTurboSPride_2021,Porsche Taycan Turbo S,T5,P5,,,132/2.9,2.00,0/100,9.213,8.963,9.026,9.086,8.988,8.984,9.108,9.014,true
+T50636,Porsche_TaycanTurboSRewardRecycled_2021,Porsche Taycan Turbo S,T5,5,,,132/2.9,2.00,52/48,9.842,9.488,9.610,9.681,9.552,9.534,9.596,9.562,true
+T50637,Porsche_TaycanTurboSReward_2021,Porsche Taycan Turbo S,T5,P5,,,132/2.9,2.00,52/48,9.760,9.415,9.529,9.598,9.498,9.449,9.510,9.475,true
 T50638,Radford_Type62GOSH_2021,RadFord Type 62-2 GOSH Edition,T5,P5,698,2200,137/2.5,2.73,0/100,8.477,8.286,8.371,8.412,8.251,8.225,8.377,8.062,false
-T50639,Rimac_Nevera_2021,Rimac Nevera,T5,P5,698,2178,225/3.0,2.00,0/100,8.519,8.312,8.425,8.397,8.383,8.238,8.376,8.274,false
-T50640,Rimac_NeveraRewardrecycled_2022,Rimac Nevera,T5,5,698,2139,225/3.0,2.00,0/100,8.597,8.427,8.532,8.502,8.474,8.319,8.463,8.357,false
-T50641,Rimac_NeveraReward_2022,Rimac Nevera Time Attack,T5,P5,698,2178,225/3.0,2.00,0/100,8.519,8.312,8.425,8.397,8.383,8.238,8.376,8.274,false
+T50639,Rimac_Nevera_2021,Rimac Nevera,T5,P5,698,2178,225/3.0,2.00,0/100,8.519,8.312,8.425,8.397,8.383,8.238,8.376,8.274,true
+T50640,Rimac_NeveraRewardrecycled_2022,Rimac Nevera,T5,5,698,2139,225/3.0,2.00,0/100,8.597,8.427,8.532,8.502,8.474,8.319,8.463,8.357,true
+T50641,Rimac_NeveraReward_2022,Rimac Nevera Time Attack,T5,P5,698,2178,225/3.0,2.00,0/100,8.519,8.312,8.425,8.397,8.383,8.238,8.376,8.274,true
 T50645,Saleen_S7Classic_2004_EC,Saleen S7 Twin Turbo,T5,5,696,2146,167/2.0,2.26,0/100,8.658,8.462,8.587,8.568,8.450,8.161,8.469,8.546,false
 T50646,SCG_SCG003S_2017,SCG 003S,T5,P5,,,303/3.1,3.30,52/48,10.093,9.899,9.883,9.948,9.786,9.625,9.845,9.505,false
 T50647,SCG_SCG003SCarbon_2017,SCG 003S Carbon Edition,T5,P5,,,150/2.0,2.00,0/100,9.878,9.452,9.587,9.664,9.299,9.435,9.576,9.747,false
@@ -617,7 +617,7 @@ T50680,Ultima_EVOCoupeReward_2016,Ultima Evolution Coupé,T5,P5,699,1755,168/1.8
 T50681,Ultima_EVOCoupeSupercharged_2016,Ultima Evolution Coupé Supercharged,T5,P5,699,2145, 150/1.3,2.18,0/100,8.536,8.379,8.510,8.495,8.307,8.336,8.354,8.142,false
 T50682,Ultima_RSGold_2020,Ultima RS,T5,5,697,2164,288/3.0,2.76,0/100,8.576,8.392,8.535,8.464,8.280,8.183,8.305,8.450,false
 T50683,Ultima_RS_2020,Ultima RS,T5,P5,697,2217, 326/4.3,2.79,0/100,8.469,8.326,8.455,8.364,8.158,8.054,8.187,8.377,false
-T50684,Volkswagen_IDR_2019,Volkswagen Electric R,T5,P5,698,2068,225/3.0,2.84,0/100,8.720,8.478,8.578,8.557,8.521,8.352,8.482,8.382,false
+T50684,Volkswagen_IDR_2019,Volkswagen Electric R,T5,P5,698,2068,225/3.0,2.84,0/100,8.720,8.478,8.578,8.557,8.521,8.352,8.482,8.382,true
 T50685,VUHL_05RRRewardRecycled_2019,VUHL 05RR,T5,5,697,1120,159/2.9,3.04,16/84,10.665,10.414,10.458,10.507,10.214,10.267,10.387,9.943,false
 T50686,VUHL_05RRReward_2019,VUHL 05RR Fighter,T5,P5,697,1191,166/2.8,3.04,9/91,10.528,10.297,10.337,10.380,10.072,10.146,10.270,9.829,false
 T50687,WMotors_FenyrSupersportRewardRecycled_2016,W Motors Fenyr Supersport,T5,5,700,1489,248/5.0,2.38,52/48,9.792,9.511,9.626,9.658,9.399,9.361,9.603,9.495,false
@@ -631,421 +631,3 @@ T50694,Zenvo_TS1GT_2018,Zenvo TS1 GT 'Sleipnir' 10th Anniversary,T5,P5,698,1737,
 T50695,Zenvo_TSRS_2019,Zenvo TSR-S,T5,P5,699,1763,303/2.0,2.00,52/48,9.324,9.120,9.188,9.166,9.049,8.861,9.072,8.930,false
 T50696,Zenvo_TSRS_2020,Zenvo TSR-S ''Chassis No.2'',T5,P5,696,2101,150/2.0,2.11,0/100,8.652,8.503,8.611,8.620,8.543,8.123,8.321,8.452,false
 T50697,Zenvo_TSRSGold_2020,Zenvo TSR-S ''Chassis No.3'',T5,P5,698,1836,150/2.0,2.00,0/100,9.210,8.911,9.032,8.990,8.975,8.777,8.960,8.941,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,true
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
-,,,,,,,,,,,,,,,,,,false
