@@ -9114,6 +9114,27 @@
     "is EV?": "false"
   },
   {
+    "UniqueID": "T50392",
+    "DB Name": "Lamborghini_HuracanTecnicaRewardRecycled_2023",
+    "Ingame Name": "Lamborghini Huracán Tecnica",
+    "Un": "T5",
+    "★": "5 Golden Stars",
+    "S5 - PP": 698,
+    "S5 - EVO": 1325,
+    "S5 - NOS": "50/6.0",
+    "S5 - FD": "3.16",
+    "S5 - TIRES": "53/47",
+    "S5 - DYNO": "10.233",
+    "Engine": "9.970",
+    "Turbo": "10.065",
+    "Intake": "10.042",
+    "NOS": "9.985",
+    "Body": "9.719",
+    "Tires": "9.883",
+    "Trans": "9.665",
+    "is EV?": "false"
+  },
+  {
     "UniqueID": "T50394",
     "DB Name": "Lamborghini_Invencible_2023",
     "Ingame Name": "Lamborghini Invencible",
