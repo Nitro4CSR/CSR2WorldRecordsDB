@@ -1,3371 +1,3376 @@
 [
   {
     "ID": 1,
-    "Date": "2024-08-13T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO & driver for the Mercedes-Benz C 63 AMG Black Series (Gold Star) (T4 - P208)"
+    "Date": "2024-08-14T22:00:00.000Z",
+    "Output Vision": "Added WR time, INFO & driver for the Dodge Viper GTS (SRII) (Purple Star) (T5 - P687)"
   },
   {
     "ID": 2,
-    "Date": "2024-08-11T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Dodge Viper ACR Extreme Aero (Gold Star) (T5 - P467)"
+    "Date": "2024-08-13T22:00:00.000Z",
+    "Output Vision": "Updated WR tune, time, INFO & driver for the Mercedes-Benz C 63 AMG Black Series (Gold Star) (T4 - P)"
   },
   {
     "ID": 3,
-    "Date": "2024-08-10T22:00:00.000Z",
-    "Output Vision": "Added WR time, INFO & driver for the BMW 2024 M5 Sedan (Purple Star) (T5 - P420)"
+    "Date": "2024-08-11T22:00:00.000Z",
+    "Output Vision": "Updated WR time, INFO & driver for the Dodge Viper ACR Extreme Aero (Gold Star) (T5 - P)"
   },
   {
     "ID": 4,
     "Date": "2024-08-10T22:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the Dodge Viper ACR Extreme Aero (Gold Star) (T5 - P467)"
+    "Output Vision": "Added WR time, INFO & driver for the BMW 2024 M5 Sedan (Purple Star) (T5 - P)"
   },
   {
     "ID": 5,
-    "Date": "2024-08-09T22:00:00.000Z",
-    "Output Vision": "Added WR INFO & driver for the BMW 2024 M5 Sedan (Gold Star) (T5 - P447)"
+    "Date": "2024-08-10T22:00:00.000Z",
+    "Output Vision": "Updated WR shift pattern for the Dodge Viper ACR Extreme Aero (Gold Star) (T5 - P)"
   },
   {
     "ID": 6,
-    "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Audi LB RS 5 Coupé (Gold Star) (T3 - P50)"
+    "Date": "2024-08-09T22:00:00.000Z",
+    "Output Vision": "Added WR INFO & driver for the BMW 2024 M5 Sedan (Gold Star) (T5 - P)"
   },
   {
     "ID": 7,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Ruby Rose's Audi LB RS 5 Coupé (Purple Star) (T3 - P)"
+    "Output Vision": "Added S6 effects for the Audi LB RS 5 Coupé (Gold Star) (T3 - P)"
   },
   {
     "ID": 8,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Audi RS 5 Coupé (E.C. Level 50) (Gold Star) (T3 - P46)"
+    "Output Vision": "Added S6 effects for the Ruby Rose's Audi LB RS 5 Coupé (Purple Star) (T3 - P)"
   },
   {
     "ID": 9,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the BMW ACS4 (Gold Star) (T3 - P24)"
+    "Output Vision": "Added S6 effects for the Audi RS 5 Coupé (E.C. Level 50) (Gold Star) (T3 - P)"
   },
   {
     "ID": 10,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Amelia's BMW 2014 LB M4 Coupé (Purple Star) (T3 - P48)"
+    "Output Vision": "Added S6 effects for the BMW ACS4 (Gold Star) (T3 - P)"
   },
   {
     "ID": 11,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the BMW 2014 M4 Coupé (Gold Star) (T3 - P58)"
+    "Output Vision": "Added S6 effects for the Amelia's BMW 2014 LB M4 Coupé (Purple Star) (T3 - P)"
   },
   {
     "ID": 12,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the BMW 2019 Z4 M40i (Gold Star) (T3 - P30)"
+    "Output Vision": "Updated S6 effects for the BMW 2014 M4 Coupé (Gold Star) (T3 - P)"
   },
   {
     "ID": 13,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the BMW 2021 M4 Coupé ''M Performance'' (Purple Star) (T3 - P18)"
+    "Output Vision": "Added S6 effects for the BMW 2019 Z4 M40i (Gold Star) (T3 - P)"
   },
   {
     "ID": 14,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Chevrolet Camaro SS (E.C. Level 50) (Gold Star) (T3 - P28)"
+    "Output Vision": "Updated S6 effects for the BMW 2021 M4 Coupé ''M Performance'' (Purple Star) (T3 - P)"
   },
   {
     "ID": 15,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Chevrolet Corvette (C3) ZR1 (E.C. Level 50) (Gold Star) (T3 - P8)"
+    "Output Vision": "Added S6 effects for the Chevrolet Camaro SS (E.C. Level 50) (Gold Star) (T3 - P)"
   },
   {
     "ID": 16,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Chevrolet Corvette Grand Sport Convertible (Purple Star) (T3 - P38)"
+    "Output Vision": "Added S6 effects for the Chevrolet Corvette (C3) ZR1 (E.C. Level 50) (Gold Star) (T3 - P)"
   },
   {
     "ID": 17,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Chevrolet Corvette Stingray (Gold Star) (T3 - P72)"
+    "Output Vision": "Added S6 effects for the Chevrolet Corvette Grand Sport Convertible (Purple Star) (T3 - P)"
   },
   {
     "ID": 18,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Chevrolet Label Motorsports Camaro (Gold Star) (T3 - P62)"
+    "Output Vision": "Added S6 effects for the Chevrolet Corvette Stingray (Gold Star) (T3 - P)"
   },
   {
     "ID": 19,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Petah's Chevrolet Label Motorsports Camaro (Purple Star) (T3 - P56)"
+    "Output Vision": "Added S6 effects for the Chevrolet Label Motorsports Camaro (Gold Star) (T3 - P)"
   },
   {
     "ID": 20,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Dodge LB SRT Hellcat (Gold Star) (T3 - P71)"
+    "Output Vision": "Added S6 effects for the Petah's Chevrolet Label Motorsports Camaro (Purple Star) (T3 - P)"
   },
   {
     "ID": 21,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Dodge LB SRT Hellcat (Purple Star) (T3 - P68)"
+    "Output Vision": "Added S6 effects for the Dodge LB SRT Hellcat (Gold Star) (T3 - P)"
   },
   {
     "ID": 22,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Dodge SRT Hellcat (E.C. Level 50) (Gold Star) (T3 - P31)"
+    "Output Vision": "Added S6 effects for the Dodge LB SRT Hellcat (Purple Star) (T3 - P)"
   },
   {
     "ID": 23,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Ferrari California (Gold Star) (T3 - P49)"
+    "Output Vision": "Added S6 effects for the Dodge SRT Hellcat (E.C. Level 50) (Gold Star) (T3 - P)"
   },
   {
     "ID": 24,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Ferrari California (Purple Star) (T3 - P47)"
+    "Output Vision": "Added S6 effects for the Ferrari California (Gold Star) (T3 - P)"
   },
   {
     "ID": 25,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Ford Mustang GT Premium (E.C. Level 50) (Gold Star) (T3 - P39)"
+    "Output Vision": "Added S6 effects for the Ferrari California (Purple Star) (T3 - P)"
   },
   {
     "ID": 26,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Local Motors Rally Fighter (E.C. Level 50) (Gold Star) (T3 - P40)"
+    "Output Vision": "Added S6 effects for the Ford Mustang GT Premium (E.C. Level 50) (Gold Star) (T3 - P)"
   },
   {
     "ID": 27,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Local Motors Rally Fighter (FnF) (Purple Star) (T3 - P55)"
+    "Output Vision": "Added S6 effects for the Local Motors Rally Fighter (E.C. Level 50) (Gold Star) (T3 - P)"
   },
   {
     "ID": 28,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Mercedes-Benz C 63 AMG Coupé Edition 507 (E.C. Level 50) (Gold Star) (T3 - P44)"
+    "Output Vision": "Added S6 effects for the Local Motors Rally Fighter (FnF) (Purple Star) (T3 - P)"
   },
   {
     "ID": 29,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Nissan Silvia (S15) (Gold Star) (T3 - P70)"
+    "Output Vision": "Added S6 effects for the Mercedes-Benz C 63 AMG Coupé Edition 507 (E.C. Level 50) (Gold Star) (T3 - P)"
   },
   {
     "ID": 30,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Kiyiya's Nissan Silvia (S15) (Purple Star) (T3 - P67)"
+    "Output Vision": "Added S6 effects for the Nissan Silvia (S15) (Gold Star) (T3 - P)"
   },
   {
     "ID": 31,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Pontiac GTO ''The Judge'' (E.C. Level 50) (Gold Star) (T3 - P3)"
+    "Output Vision": "Added S6 effects for the Kiyiya's Nissan Silvia (S15) (Purple Star) (T3 - P)"
   },
   {
     "ID": 32,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Porsche 718 Boxster Spyder (Gold Star) (T3 - P42)"
+    "Output Vision": "Added S6 effects for the Pontiac GTO ''The Judge'' (E.C. Level 50) (Gold Star) (T3 - P)"
   },
   {
     "ID": 33,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Porsche 718 Cayman GT4 (Gold Star) (T3 - P15)"
+    "Output Vision": "Added S6 effects for the Porsche 718 Boxster Spyder (Gold Star) (T3 - P)"
   },
   {
     "ID": 34,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Porsche Cayman GT4 (Gold Star) (T3 - P41)"
+    "Output Vision": "Added S6 effects for the Porsche 718 Cayman GT4 (Gold Star) (T3 - P)"
   },
   {
     "ID": 35,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Porsche Cayman GT4 'Salzburg' (Purple Star) (T3 - P37)"
+    "Output Vision": "Added S6 effects for the Porsche Cayman GT4 (Gold Star) (T3 - P)"
   },
   {
     "ID": 36,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Shelby Cobra 427 S/C (E.C. Level 50) (Gold Star) (T3 - P33)"
+    "Output Vision": "Added S6 effects for the Porsche Cayman GT4 'Salzburg' (Purple Star) (T3 - P)"
   },
   {
     "ID": 37,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Subaru BRZ (FnF) (Purple Star) (T3 - P53)"
+    "Output Vision": "Added S6 effects for the Shelby Cobra 427 S/C (E.C. Level 50) (Gold Star) (T3 - P)"
   },
   {
     "ID": 38,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Subaru BRZ Rocket Bunny (VIP) (Gold Star) (T3 - P74)"
+    "Output Vision": "Added S6 effects for the Subaru BRZ (FnF) (Purple Star) (T3 - P)"
   },
   {
     "ID": 39,
     "Date": "2024-08-08T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Toyota GR Supra (Gold Star) (T3 - P36)"
+    "Output Vision": "Added S6 effects for the Subaru BRZ Rocket Bunny (VIP) (Gold Star) (T3 - P)"
   },
   {
     "ID": 40,
-    "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Added WR driver for the Audi Vorsteiner R8 VRS (Gold Star) (T5 - P606)"
+    "Date": "2024-08-08T22:00:00.000Z",
+    "Output Vision": "Added S6 effects for the Toyota GR Supra (Gold Star) (T3 - P)"
   },
   {
     "ID": 41,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Added WR driver for the Audi R8 Spyder V10 (Gold Star) (T5 - P605)"
+    "Output Vision": "Added WR driver for the Audi Vorsteiner R8 VRS (Gold Star) (T5 - P)"
   },
   {
     "ID": 42,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Added WR driver for the Audi R8 Spyder V10 (Purple Star) (T5 - P578)"
+    "Output Vision": "Added WR driver for the Audi R8 Spyder V10 (Gold Star) (T5 - P)"
   },
   {
     "ID": 43,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Added WR driver for the Aston Martin Vulcan AMR Pro (Purple Star) (T5 - P343)"
+    "Output Vision": "Added WR driver for the Audi R8 Spyder V10 (Purple Star) (T5 - P)"
   },
   {
     "ID": 44,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Added WR driver for the Aston Martin Vulcan AMR Pro (Evo) (Purple Star) (T5 - P352)"
+    "Output Vision": "Added WR driver for the Aston Martin Vulcan AMR Pro (Purple Star) (T5 - P)"
   },
   {
     "ID": 45,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Added WR driver for the Arrinera Hussarya (Gold Star) (T5 - P452)"
+    "Output Vision": "Added WR driver for the Aston Martin Vulcan AMR Pro (Evo) (Purple Star) (T5 - P)"
   },
   {
     "ID": 46,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Updated WR driver for the Ferrari Roma (Gold Star) (T5 - P575)"
+    "Output Vision": "Added WR driver for the Arrinera Hussarya (Gold Star) (T5 - P)"
   },
   {
     "ID": 47,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Updated WR driver for the Ferrari Roma (Purple Star) (T5 - P564)"
+    "Output Vision": "Updated WR driver for the Ferrari Roma (Gold Star) (T5 - P)"
   },
   {
     "ID": 48,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Updated WR driver for the Ford F-150 Hoonitruck (Purple Star) (T5 - P38)"
+    "Output Vision": "Updated WR driver for the Ferrari Roma (Purple Star) (T5 - P)"
   },
   {
     "ID": 49,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Updated WR driver for the Ford Mustang RTR Hoonicorn V2 (Purple Star) (T5 - P40)"
+    "Output Vision": "Updated WR driver for the Ford F-150 Hoonitruck (Purple Star) (T5 - P)"
   },
   {
     "ID": 50,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Updated WR driver for the Ford Mustang RTR Spec 3 (Gold Star) (T5 - P617)"
+    "Output Vision": "Updated WR driver for the Ford Mustang RTR Hoonicorn V2 (Purple Star) (T5 - P)"
   },
   {
     "ID": 51,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Updated WR driver for the Ford ROUSH Stage 3 Mustang (Gold Star) (T5 - P616)"
+    "Output Vision": "Updated WR driver for the Ford Mustang RTR Spec 3 (Gold Star) (T5 - P)"
   },
   {
     "ID": 52,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Updated WR driver for the Jaguar F-TYPE R Convertible (Gold Star) (T5 - P585)"
+    "Output Vision": "Updated WR driver for the Ford ROUSH Stage 3 Mustang (Gold Star) (T5 - P)"
   },
   {
     "ID": 53,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Updated WR driver for the Jaguar F-TYPE R Convertible (Purple Star) (T5 - P576)"
+    "Output Vision": "Updated WR driver for the Jaguar F-TYPE R Convertible (Gold Star) (T5 - P)"
   },
   {
     "ID": 54,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Updated WR driver for the Koenigsegg One:1 (Gold Star) (T5 - P356)"
+    "Output Vision": "Updated WR driver for the Jaguar F-TYPE R Convertible (Purple Star) (T5 - P)"
   },
   {
     "ID": 55,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Updated WR driver for the Lamborghini Huracán Tecnica (Gold Star) (T5 - P323)"
+    "Output Vision": "Updated WR driver for the Koenigsegg One:1 (Gold Star) (T5 - P)"
   },
   {
     "ID": 56,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Updated WR driver for the Lamborghini Huracán Tecnica (Purple Star) (T5 - P309)"
+    "Output Vision": "Updated WR driver for the Lamborghini Huracán Tecnica (Gold Star) (T5 - P)"
   },
   {
     "ID": 57,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Updated WR driver for the Lamborghini LB ''Limited Edition'' Aventador Coupé (Purple Star) (T5 - P477)"
+    "Output Vision": "Updated WR driver for the Lamborghini Huracán Tecnica (Purple Star) (T5 - P)"
   },
   {
     "ID": 58,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Updated WR driver for the Lamborghini LB Aventador Coupé (Gold Star) (T5 - P472)"
+    "Output Vision": "Updated WR driver for the Lamborghini LB ''Limited Edition'' Aventador Coupé (Purple Star) (T5 - P)"
   },
   {
     "ID": 59,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Updated WR driver for the Lamborghini LB Aventador Coupé (Purple Star) (T5 - P460)"
+    "Output Vision": "Updated WR driver for the Lamborghini LB Aventador Coupé (Gold Star) (T5 - P)"
   },
   {
     "ID": 60,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Updated WR driver for the Lamborghini LB Aventador Coupé (VIP) (Purple Star) (T5 - P462)"
+    "Output Vision": "Updated WR driver for the Lamborghini LB Aventador Coupé (Purple Star) (T5 - P)"
   },
   {
     "ID": 61,
     "Date": "2024-08-07T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Audi RS 5 Coupé 2020 (Gold Star) (T3 - P22)"
+    "Output Vision": "Updated WR driver for the Lamborghini LB Aventador Coupé (VIP) (Purple Star) (T5 - P)"
   },
   {
     "ID": 62,
-    "Date": "2024-08-06T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the AMC Javelin AMX 'Defiant!' (Purple Star) (T5 - P190)"
+    "Date": "2024-08-07T22:00:00.000Z",
+    "Output Vision": "Updated WR time, INFO & driver for the Audi RS 5 Coupé 2020 (Gold Star) (T3 - P)"
   },
   {
     "ID": 63,
     "Date": "2024-08-06T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Apollo Intensa Emozione (Black) (Purple Star) (T5 - P246)"
+    "Output Vision": "Updated S6 effects for the AMC Javelin AMX 'Defiant!' (Purple Star) (T5 - P)"
   },
   {
     "ID": 64,
     "Date": "2024-08-06T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Apollo Intensa Emozione (Purple) (Purple Star) (T5 - P282)"
+    "Output Vision": "Updated S6 effects for the Apollo Intensa Emozione (Black) (Purple Star) (T5 - P)"
   },
   {
     "ID": 65,
     "Date": "2024-08-06T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Aston Martin DBS GT Zagato (Purple Star) (T5 - P274)"
+    "Output Vision": "Updated S6 effects for the Apollo Intensa Emozione (Purple) (Purple Star) (T5 - P)"
   },
   {
     "ID": 66,
     "Date": "2024-08-06T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Acura 2022 NSX Type S (Gold Star) (T5 - P466)"
+    "Output Vision": "Updated S6 effects for the Aston Martin DBS GT Zagato (Purple Star) (T5 - P)"
   },
   {
     "ID": 67,
     "Date": "2024-08-06T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Acura 2022 NSX Type S (Purple Star) (T5 - P439)"
+    "Output Vision": "Updated S6 effects for the Acura 2022 NSX Type S (Gold Star) (T5 - P)"
   },
   {
     "ID": 68,
     "Date": "2024-08-06T22:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the BMW 2024 M5 Sedan (Gold Star) (T5 - P447)"
+    "Output Vision": "Updated S6 effects for the Acura 2022 NSX Type S (Purple Star) (T5 - P)"
   },
   {
     "ID": 69,
     "Date": "2024-08-06T22:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the BMW 2024 M5 Sedan (Purple Star) (T5 - P420)"
+    "Output Vision": "Added WR time & shift pattern for the BMW 2024 M5 Sedan (Gold Star) (T5 - P)"
   },
   {
     "ID": 70,
     "Date": "2024-08-06T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Arrinera Hussarya (Purple Star) (T5 - P421)"
+    "Output Vision": "Added WR time & shift pattern for the BMW 2024 M5 Sedan (Purple Star) (T5 - P)"
   },
   {
     "ID": 71,
     "Date": "2024-08-06T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Aston Martin DB11 (Gold Star) (T5 - P632)"
+    "Output Vision": "Added S6 effects for the Arrinera Hussarya (Purple Star) (T5 - P)"
   },
   {
     "ID": 72,
     "Date": "2024-08-06T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Aston Martin DB11 (Purple Star) (T5 - P630)"
+    "Output Vision": "Added S6 effects for the Aston Martin DB11 (Gold Star) (T5 - P)"
   },
   {
     "ID": 73,
     "Date": "2024-08-06T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Aston Martin One-77 (Purple Star) (T5 - P569)"
+    "Output Vision": "Added S6 effects for the Aston Martin DB11 (Purple Star) (T5 - P)"
   },
   {
     "ID": 74,
     "Date": "2024-08-06T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Lamborghini Diablo SV (Purple Star) (T5 - P292)"
+    "Output Vision": "Added S6 effects for the Aston Martin One-77 (Purple Star) (T5 - P)"
   },
   {
     "ID": 75,
     "Date": "2024-08-06T22:00:00.000Z",
-    "Output Vision": "Added WR time, INFO & driver for the Pagani Huayra Codalunga (Purple Star) (T5 - P194)"
+    "Output Vision": "Updated WR time, INFO & driver for the Lamborghini Diablo SV (Purple Star) (T5 - P)"
   },
   {
     "ID": 76,
-    "Date": "2024-08-04T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Nissan 2024 GT-R NISMO (R35) Japan Spec (Gold Star) (T5 - P399)"
+    "Date": "2024-08-06T22:00:00.000Z",
+    "Output Vision": "Added WR time, INFO & driver for the Pagani Huayra Codalunga (Purple Star) (T5 - P)"
   },
   {
     "ID": 77,
     "Date": "2024-08-04T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Alfa Romeo 8C Spider (Gold Star) (T4 - P99)"
+    "Output Vision": "Added S6 effects for the Nissan 2024 GT-R NISMO (R35) Japan Spec (Gold Star) (T5 - P)"
   },
   {
     "ID": 78,
     "Date": "2024-08-04T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Alfa Romeo Giulia GTAm (Gold Star) (T4 - P81)"
+    "Output Vision": "Updated S6 effects for the Alfa Romeo 8C Spider (Gold Star) (T4 - P)"
   },
   {
     "ID": 79,
     "Date": "2024-08-04T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Aston Martin DBX 707 (Gold Star) (T4 - P11)"
+    "Output Vision": "Updated S6 effects for the Alfa Romeo Giulia GTAm (Gold Star) (T4 - P)"
   },
   {
     "ID": 80,
     "Date": "2024-08-04T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Aston Martin DBX 707 (Purple Star) (T4 - P7)"
+    "Output Vision": "Updated S6 effects for the Aston Martin DBX 707 (Gold Star) (T4 - P)"
   },
   {
     "ID": 81,
     "Date": "2024-08-04T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Aston Martin Vantage Roadster (Gold Star) (T4 - P147)"
+    "Output Vision": "Updated S6 effects for the Aston Martin DBX 707 (Purple Star) (T4 - P)"
   },
   {
     "ID": 82,
     "Date": "2024-08-04T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Alfa Romeo Giulia Quadrifoglio (Gold Star) (T3 - P59)"
+    "Output Vision": "Updated S6 effects for the Aston Martin Vantage Roadster (Gold Star) (T4 - P)"
   },
   {
     "ID": 83,
     "Date": "2024-08-04T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Subaru VARIS STI CALM EDITION (Purple Star) (T4 - P214)"
+    "Output Vision": "Added S6 effects for the Alfa Romeo Giulia Quadrifoglio (Gold Star) (T3 - P)"
   },
   {
     "ID": 84,
     "Date": "2024-08-04T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Zenvo Aurora Tur (Gold Star) (T5 - P689)"
+    "Output Vision": "Added S6 effects for the Subaru VARIS STI CALM EDITION (Purple Star) (T4 - P)"
   },
   {
     "ID": 85,
     "Date": "2024-08-04T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Zenvo Aurora Tur (Purple Star) (T5 - P690)"
+    "Output Vision": "Added S6 effects for the Zenvo Aurora Tur (Gold Star) (T5 - P)"
   },
   {
     "ID": 86,
     "Date": "2024-08-04T22:00:00.000Z",
-    "Output Vision": "Added WR time, INFO, shift pattern & driver for the RadFord Type 62-2 GOSH Edition (Purple Star) (T5 - P210)"
+    "Output Vision": "Added S6 effects for the Zenvo Aurora Tur (Purple Star) (T5 - P)"
   },
   {
     "ID": 87,
     "Date": "2024-08-04T22:00:00.000Z",
-    "Output Vision": "Added WR time, INFO & driver for the Ferrari F50 GT (Purple Star) (T5 - P120)"
+    "Output Vision": "Added WR time, INFO, shift pattern & driver for the RadFord Type 62-2 GOSH Edition (Purple Star) (T5 - P)"
   },
   {
     "ID": 88,
     "Date": "2024-08-04T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Lancia Delta HF Integrale Evo 2 (Purple Star) (T5 - P483)"
+    "Output Vision": "Added WR time, INFO & driver for the Ferrari F50 GT (Purple Star) (T5 - P)"
   },
   {
     "ID": 89,
-    "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Aston Martin DB5 (E.C. Level 50) (Gold Star) (T2 - P9)"
+    "Date": "2024-08-04T22:00:00.000Z",
+    "Output Vision": "Updated WR time, INFO & driver for the Lancia Delta HF Integrale Evo 2 (Purple Star) (T5 - P)"
   },
   {
     "ID": 90,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Ferrari 250 GTO (E.C. Level 50) (Gold Star) (T2 - P2)"
+    "Output Vision": "Updated S6 effects for the Aston Martin DB5 (E.C. Level 50) (Gold Star) (T2 - P)"
   },
   {
     "ID": 91,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Ford F-150 SVT Raptor (E.C. Level 50) (Gold Star) (T2 - P11)"
+    "Output Vision": "Added S6 effects for the Ferrari 250 GTO (E.C. Level 50) (Gold Star) (T2 - P)"
   },
   {
     "ID": 92,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Ford Focus RS (Gold Star) (T2 - P27)"
+    "Output Vision": "Added S6 effects for the Ford F-150 SVT Raptor (E.C. Level 50) (Gold Star) (T2 - P)"
   },
   {
     "ID": 93,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Honda 2017 Civic Type R (Gold Star) (T2 - P14)"
+    "Output Vision": "Added S6 effects for the Ford Focus RS (Gold Star) (T2 - P)"
   },
   {
     "ID": 94,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Hyundai Ark Performance Veloster (Gold Star) (T2 - P16)"
+    "Output Vision": "Added S6 effects for the Honda 2017 Civic Type R (Gold Star) (T2 - P)"
   },
   {
     "ID": 95,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Land Rover Range Rover Evoque (Gold Star) (T2 - P24)"
+    "Output Vision": "Added S6 effects for the Hyundai Ark Performance Veloster (Gold Star) (T2 - P)"
   },
   {
     "ID": 96,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Shana's Land Rover Range Rover Evoque (Purple Star) (T2 - P19)"
+    "Output Vision": "Added S6 effects for the Land Rover Range Rover Evoque (Gold Star) (T2 - P)"
   },
   {
     "ID": 97,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Lotus Exige 360 Cup (Gold Star) (T2 - P21)"
+    "Output Vision": "Added S6 effects for the Shana's Land Rover Range Rover Evoque (Purple Star) (T2 - P)"
   },
   {
     "ID": 98,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Finn's Lotus Exige 360 Cup (Purple Star) (T2 - P13)"
+    "Output Vision": "Added S6 effects for the Lotus Exige 360 Cup (Gold Star) (T2 - P)"
   },
   {
     "ID": 99,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Lotus Exige LF1 (Gold Star) (T2 - P15)"
+    "Output Vision": "Added S6 effects for the Finn's Lotus Exige 360 Cup (Purple Star) (T2 - P)"
   },
   {
     "ID": 100,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Lotus Exige Sport 350 Roadster (Gold Star) (T2 - P30)"
+    "Output Vision": "Added S6 effects for the Lotus Exige LF1 (Gold Star) (T2 - P)"
   },
   {
     "ID": 101,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Mazda Rocket Bunny MX-5 Miata (Gold Star) (T2 - P4)"
+    "Output Vision": "Added S6 effects for the Lotus Exige Sport 350 Roadster (Gold Star) (T2 - P)"
   },
   {
     "ID": 102,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Ruby Rose's Mercedes Benz A 45 AMG (Purple Star) (T2 - P)"
+    "Output Vision": "Added S6 effects for the Mazda Rocket Bunny MX-5 Miata (Gold Star) (T2 - P)"
   },
   {
     "ID": 103,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Mercedes-Benz 300 SL Coupé (E.C. Level 50) (Gold Star) (T2 - P1)"
+    "Output Vision": "Added S6 effects for the Ruby Rose's Mercedes Benz A 45 AMG (Purple Star) (T2 - P)"
   },
   {
     "ID": 104,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Porsche 718 Boxster S (Gold Star) (T2 - P5)"
+    "Output Vision": "Updated S6 effects for the Mercedes-Benz 300 SL Coupé (E.C. Level 50) (Gold Star) (T2 - P)"
   },
   {
     "ID": 105,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Subaru WRX STI (Gold Star) (T2 - P31)"
+    "Output Vision": "Added S6 effects for the Porsche 718 Boxster S (Gold Star) (T2 - P)"
   },
   {
     "ID": 106,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Volkswagen Scirocco R (Gold Star) (T2 - P23)"
+    "Output Vision": "Added S6 effects for the Subaru WRX STI (Gold Star) (T2 - P)"
   },
   {
     "ID": 107,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Audi RS 5 Coupé 2020 (Purple Star) (T3 - P16)"
+    "Output Vision": "Added S6 effects for the Volkswagen Scirocco R (Gold Star) (T2 - P)"
   },
   {
     "ID": 108,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the BMW M2 by AC Schnitzer (Gold Star) (T3 - P43)"
+    "Output Vision": "Added S6 effects for the Audi RS 5 Coupé 2020 (Purple Star) (T3 - P)"
   },
   {
     "ID": 109,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the BMW 2011 LB M3 GTS (Gold Star) (T3 - P57)"
+    "Output Vision": "Updated S6 effects for the BMW M2 by AC Schnitzer (Gold Star) (T3 - P)"
   },
   {
     "ID": 110,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the BMW 2011 LB M3 GTS (Purple Star) (T3 - P54)"
+    "Output Vision": "Updated S6 effects for the BMW 2011 LB M3 GTS (Gold Star) (T3 - P)"
   },
   {
     "ID": 111,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the BMW 2011 Rocket Bunny M3 GTS (Gold Star) (T3 - P13)"
+    "Output Vision": "Added S6 effects for the BMW 2011 LB M3 GTS (Purple Star) (T3 - P)"
   },
   {
     "ID": 112,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the BMW 2011 Rocket Bunny M3 GTS (Purple Star) (T3 - P12)"
+    "Output Vision": "Updated S6 effects for the BMW 2011 Rocket Bunny M3 GTS (Gold Star) (T3 - P)"
   },
   {
     "ID": 113,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the BMW 2014 LB M4 Coupé (Gold Star) (T3 - P51)"
+    "Output Vision": "Updated S6 effects for the BMW 2011 Rocket Bunny M3 GTS (Purple Star) (T3 - P)"
   },
   {
     "ID": 114,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the BMW 2018 M2 Competition (Gold Star) (T3 - P35)"
+    "Output Vision": "Updated S6 effects for the BMW 2014 LB M4 Coupé (Gold Star) (T3 - P)"
   },
   {
     "ID": 115,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the BMW 2021 M4 Competition (Gold Star) (T3 - P26)"
+    "Output Vision": "Added S6 effects for the BMW 2018 M2 Competition (Gold Star) (T3 - P)"
   },
   {
     "ID": 116,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the BMW 2021 M4 Competition  (Purple Star) (T3 - P21)"
+    "Output Vision": "Updated S6 effects for the BMW 2021 M4 Competition (Gold Star) (T3 - P)"
   },
   {
     "ID": 117,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the BMW 2023 M2 Coupé (Gold Star) (T3 - P11)"
+    "Output Vision": "Added S6 effects for the BMW 2021 M4 Competition  (Purple Star) (T3 - P)"
   },
   {
     "ID": 118,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the BMW 2023 M2 Coupé (Purple Star) (T3 - P5)"
+    "Output Vision": "Updated S6 effects for the BMW 2023 M2 Coupé (Gold Star) (T3 - P)"
   },
   {
     "ID": 119,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the BMW 2023 M2 Coupé ''M Performance'' (Purple Star) (T3 - P6)"
+    "Output Vision": "Updated S6 effects for the BMW 2023 M2 Coupé (Purple Star) (T3 - P)"
   },
   {
     "ID": 120,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the BMW 2022 M3 Touring Competition (Gold Star) (T3 - P27)"
+    "Output Vision": "Updated S6 effects for the BMW 2023 M2 Coupé ''M Performance'' (Purple Star) (T3 - P)"
   },
   {
     "ID": 121,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the BMW 2022 M3 Touring Competition (Purple Star) (T3 - P20)"
+    "Output Vision": "Updated S6 effects for the BMW 2022 M3 Touring Competition (Gold Star) (T3 - P)"
   },
   {
     "ID": 122,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Ford Mustang GT 2024 (Gold Star) (T3 - P10)"
+    "Output Vision": "Updated S6 effects for the BMW 2022 M3 Touring Competition (Purple Star) (T3 - P)"
   },
   {
     "ID": 123,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Altay's Ford Mustang GT Premium (Purple Star) (T3 - P)"
+    "Output Vision": "Updated S6 effects for the Ford Mustang GT 2024 (Gold Star) (T3 - P)"
   },
   {
     "ID": 124,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Ford Mustang Mach 1 (Gold Star) (T3 - P29)"
+    "Output Vision": "Added S6 effects for the Altay's Ford Mustang GT Premium (Purple Star) (T3 - P)"
   },
   {
     "ID": 125,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Honda 2017 Varis Civic Type R (E.C. Level 50) (Gold Star) (T3 - P9)"
+    "Output Vision": "Updated S6 effects for the Ford Mustang Mach 1 (Gold Star) (T3 - P)"
   },
   {
     "ID": 126,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Hyundai Elantra N (Gold Star) (T3 - P23)"
+    "Output Vision": "Updated S6 effects for the Honda 2017 Varis Civic Type R (E.C. Level 50) (Gold Star) (T3 - P)"
   },
   {
     "ID": 127,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Hyundai Elantra N (Purple Star) (T3 - P17)"
+    "Output Vision": "Updated S6 effects for the Hyundai Elantra N (Gold Star) (T3 - P)"
   },
   {
     "ID": 128,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Kia Stinger GT (Gold Star) (T3 - P45)"
+    "Output Vision": "Updated S6 effects for the Hyundai Elantra N (Purple Star) (T3 - P)"
   },
   {
     "ID": 129,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Nissan Proto Z (Gold Star) (T3 - P14)"
+    "Output Vision": "Updated S6 effects for the Kia Stinger GT (Gold Star) (T3 - P)"
   },
   {
     "ID": 130,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Porsche Vorsteiner Cayman GT4 V-CS (Gold Star) (T3 - P34)"
+    "Output Vision": "Updated S6 effects for the Nissan Proto Z (Gold Star) (T3 - P)"
   },
   {
     "ID": 131,
     "Date": "2024-08-02T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Subaru BRZ Rocket Bunny (Gold Star) (T3 - P61)"
+    "Output Vision": "Updated S6 effects for the Porsche Vorsteiner Cayman GT4 V-CS (Gold Star) (T3 - P)"
   },
   {
     "ID": 132,
-    "Date": "2024-08-01T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Alfa Romeo 4C (Gold Star) (T2 - P25)"
+    "Date": "2024-08-02T22:00:00.000Z",
+    "Output Vision": "Updated S6 effects for the Subaru BRZ Rocket Bunny (Gold Star) (T3 - P)"
   },
   {
     "ID": 133,
     "Date": "2024-08-01T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Summer's Alfa Romeo 4C ''Launch Edition'' (Purple Star) (T2 - P22)"
+    "Output Vision": "Updated S6 effects for the Alfa Romeo 4C (Gold Star) (T2 - P)"
   },
   {
     "ID": 134,
     "Date": "2024-08-01T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Alfa Romeo 4C Spider (Gold Star) (T2 - P17)"
+    "Output Vision": "Updated S6 effects for the Summer's Alfa Romeo 4C ''Launch Edition'' (Purple Star) (T2 - P)"
   },
   {
     "ID": 135,
     "Date": "2024-08-01T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Alpine A110 (Gold Star) (T2 - P6)"
+    "Output Vision": "Updated S6 effects for the Alfa Romeo 4C Spider (Gold Star) (T2 - P)"
   },
   {
     "ID": 136,
     "Date": "2024-08-01T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Aston Martin DB5 (E.C. Level 50) (Gold Star) (T2 - P9)"
+    "Output Vision": "Updated S6 effects for the Alpine A110 (Gold Star) (T2 - P)"
   },
   {
     "ID": 137,
     "Date": "2024-08-01T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Audi TT RS (Gold Star) (T2 - P29)"
+    "Output Vision": "Updated S6 effects for the Aston Martin DB5 (E.C. Level 50) (Gold Star) (T2 - P)"
   },
   {
     "ID": 138,
     "Date": "2024-08-01T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the BMW 2014 M235i Coupé (E.C. Level 50) (Gold Star) (T2 - P10)"
+    "Output Vision": "Updated S6 effects for the Audi TT RS (Gold Star) (T2 - P)"
   },
   {
     "ID": 139,
     "Date": "2024-08-01T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Mini John Cooper Works GP (Gold Star) (T2 - P3)"
+    "Output Vision": "Added S6 effects for the BMW 2014 M235i Coupé (E.C. Level 50) (Gold Star) (T2 - P)"
   },
   {
     "ID": 140,
     "Date": "2024-08-01T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Volkswagen Golf GTI Rocket Bunny (Gold Star) (T2 - P12)"
+    "Output Vision": "Added S6 effects for the Mini John Cooper Works GP (Gold Star) (T2 - P)"
   },
   {
     "ID": 141,
-    "Date": "2024-07-31T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Ford 2006 GT ''Heritage Edition'' (Purple Star) (T4 - P12)"
+    "Date": "2024-08-01T22:00:00.000Z",
+    "Output Vision": "Updated S6 effects for the Volkswagen Golf GTI Rocket Bunny (Gold Star) (T2 - P)"
   },
   {
     "ID": 142,
     "Date": "2024-07-31T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Hyundai IONIQ 5 N (Gold Star) (T4 - P5)"
+    "Output Vision": "Added S6 effects for the Ford 2006 GT ''Heritage Edition'' (Purple Star) (T4 - P)"
   },
   {
     "ID": 143,
     "Date": "2024-07-31T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Jaguar C-X75 (Gold Star) (T5 - P556)"
+    "Output Vision": "Added S6 effects for the Hyundai IONIQ 5 N (Gold Star) (T4 - P)"
   },
   {
     "ID": 144,
     "Date": "2024-07-31T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Ferrari FXX K (Gold Star) (T5 - P395)"
+    "Output Vision": "Added S6 effects for the Jaguar C-X75 (Gold Star) (T5 - P)"
   },
   {
     "ID": 145,
     "Date": "2024-07-31T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Chevrolet Corvette C8.R (Grey) (Purple Star) (T5 - P162)"
+    "Output Vision": "Added S6 effects for the Ferrari FXX K (Gold Star) (T5 - P)"
   },
   {
     "ID": 146,
     "Date": "2024-07-31T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Bugatti Centodieci (White) (Purple Star) (T5 - P178)"
+    "Output Vision": "Added S6 effects for the Chevrolet Corvette C8.R (Grey) (Purple Star) (T5 - P)"
   },
   {
     "ID": 147,
     "Date": "2024-07-31T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Audi RS 5 Coupé 2020 (Gold Star) (T3 - P22)"
+    "Output Vision": "Added S6 effects for the Bugatti Centodieci (White) (Purple Star) (T5 - P)"
   },
   {
     "ID": 148,
     "Date": "2024-07-31T22:00:00.000Z",
-    "Output Vision": "Added WR tune for the Subaru VARIS STI CALM EDITION (Purple Star) (T4 - P214)"
+    "Output Vision": "Added S6 effects for the Audi RS 5 Coupé 2020 (Gold Star) (T3 - P)"
   },
   {
     "ID": 149,
     "Date": "2024-07-31T22:00:00.000Z",
-    "Output Vision": "Added WR tune for the Zenvo Aurora Tur (Purple Star) (T5 - P690)"
+    "Output Vision": "Added WR tune for the Subaru VARIS STI CALM EDITION (Purple Star) (T4 - P)"
   },
   {
     "ID": 150,
     "Date": "2024-07-31T22:00:00.000Z",
-    "Output Vision": "Added WR tune for the Zenvo Aurora Tur (Gold Star) (T5 - P689)"
+    "Output Vision": "Added WR tune for the Zenvo Aurora Tur (Purple Star) (T5 - P)"
   },
   {
     "ID": 151,
-    "Date": "2024-07-26T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time & shift pattern for the Lamborghini Urus SE (Gold Star) (T4 - P79)"
+    "Date": "2024-07-31T22:00:00.000Z",
+    "Output Vision": "Added WR tune for the Zenvo Aurora Tur (Gold Star) (T5 - P)"
   },
   {
     "ID": 152,
     "Date": "2024-07-26T22:00:00.000Z",
-    "Output Vision": "Added WR time, INFO, shift pattern & driver for the Lancia Delta HF Integrale Evo 2 (Purple Star) (T5 - P483)"
+    "Output Vision": "Updated WR tune, time & shift pattern for the Lamborghini Urus SE (Gold Star) (T4 - P)"
   },
   {
     "ID": 153,
-    "Date": "2024-07-23T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Lamborghini Revuelto (Purple Star) (T5 - P61)"
+    "Date": "2024-07-26T22:00:00.000Z",
+    "Output Vision": "Added WR time, INFO, shift pattern & driver for the Lancia Delta HF Integrale Evo 2 (Purple Star) (T5 - P)"
   },
   {
     "ID": 154,
     "Date": "2024-07-23T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Audi ABT RS6-R (Purple Star) (T4 - P30)"
+    "Output Vision": "Updated S6 effects for the Lamborghini Revuelto (Purple Star) (T5 - P)"
   },
   {
     "ID": 155,
     "Date": "2024-07-23T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Pagani Zonda Cinque Roadster (Purple Star) (T5 - P201)"
+    "Output Vision": "Updated S6 effects for the Audi ABT RS6-R (Purple Star) (T4 - P)"
   },
   {
     "ID": 156,
     "Date": "2024-07-23T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Mercedes-AMG S 63 Coupé (Purple Star) (T5 - P530)"
+    "Output Vision": "Updated S6 effects for the Pagani Zonda Cinque Roadster (Purple Star) (T5 - P)"
   },
   {
     "ID": 157,
     "Date": "2024-07-23T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Mercedes-AMG G 63 (Purple Star) (T4 - P148)"
+    "Output Vision": "Added S6 effects for the Mercedes-AMG S 63 Coupé (Purple Star) (T5 - P)"
   },
   {
     "ID": 158,
     "Date": "2024-07-23T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Mercedes-AMG G 63 (Gold Star) (T4 - P151)"
+    "Output Vision": "Added S6 effects for the Mercedes-AMG G 63 (Purple Star) (T4 - P)"
   },
   {
     "ID": 159,
     "Date": "2024-07-23T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the ATS Automobili GT (Gold Star) (T5 - P504)"
+    "Output Vision": "Updated S6 effects for the Mercedes-AMG G 63 (Gold Star) (T4 - P)"
   },
   {
     "ID": 160,
     "Date": "2024-07-23T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO & driver for the ATS Automobili GT (Purple Star) (T5 - P465)"
+    "Output Vision": "Updated WR time, INFO & driver for the ATS Automobili GT (Gold Star) (T5 - P)"
   },
   {
     "ID": 161,
     "Date": "2024-07-23T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Audi R8 V10 Decennium (Purple Star) (T5 - P590)"
+    "Output Vision": "Updated WR tune, time, INFO & driver for the ATS Automobili GT (Purple Star) (T5 - P)"
   },
   {
     "ID": 162,
     "Date": "2024-07-23T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time & shift pattern for the Lamborghini Urus SE (Gold Star) (T4 - P79)"
+    "Output Vision": "Updated WR time, INFO & driver for the Audi R8 V10 Decennium (Purple Star) (T5 - P)"
   },
   {
     "ID": 163,
     "Date": "2024-07-23T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time & shift pattern for the Lamborghini Urus SE (Purple Star) (T4 - P74)"
+    "Output Vision": "Added WR tune, time & shift pattern for the Lamborghini Urus SE (Gold Star) (T4 - P)"
   },
   {
     "ID": 164,
     "Date": "2024-07-23T22:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the Lamborghini Diablo SV (Purple Star) (T5 - P292)"
+    "Output Vision": "Added WR tune, time & shift pattern for the Lamborghini Urus SE (Purple Star) (T4 - P)"
   },
   {
     "ID": 165,
-    "Date": "2024-07-19T22:00:00.000Z",
-    "Output Vision": "Updated WR time & shift pattern for the Ferrari F50 GT (Purple Star) (T5 - P120)"
+    "Date": "2024-07-23T22:00:00.000Z",
+    "Output Vision": "Updated WR shift pattern for the Lamborghini Diablo SV (Purple Star) (T5 - P)"
   },
   {
     "ID": 166,
-    "Date": "2024-07-18T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Mercedes-AMG S 63 Coupé (Purple Star) (T5 - P530)"
+    "Date": "2024-07-19T22:00:00.000Z",
+    "Output Vision": "Updated WR time & shift pattern for the Ferrari F50 GT (Purple Star) (T5 - P)"
   },
   {
     "ID": 167,
-    "Date": "2024-07-17T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time, INFO & driver for the Nissan Pandem Skyline GT-R (BCNR33) (Purple Star) (T4 - P25)"
+    "Date": "2024-07-18T22:00:00.000Z",
+    "Output Vision": "Updated WR time, INFO & driver for the Mercedes-AMG S 63 Coupé (Purple Star) (T5 - P)"
   },
   {
     "ID": 168,
-    "Date": "2024-07-15T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Aston Martin DBS 770 Ultimate (Gold Star) (T5 - P334)"
+    "Date": "2024-07-17T22:00:00.000Z",
+    "Output Vision": "Added WR tune, time, INFO & driver for the Nissan Pandem Skyline GT-R (BCNR33) (Purple Star) (T4 - P)"
   },
   {
     "ID": 169,
-    "Date": "2024-07-11T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Aston Martin DBS 770 Ultimate (Purple Star) (T5 - P314)"
+    "Date": "2024-07-15T22:00:00.000Z",
+    "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Aston Martin DBS 770 Ultimate (Gold Star) (T5 - P)"
   },
   {
     "ID": 170,
     "Date": "2024-07-11T22:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the Ferrari 512 TR (Purple Star) (T5 - P401)"
+    "Output Vision": "Updated WR time, INFO & driver for the Aston Martin DBS 770 Ultimate (Purple Star) (T5 - P)"
   },
   {
     "ID": 171,
-    "Date": "2024-07-09T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Honda Hoonigan Indy Truck (Purple Star) (T5 - P1)"
+    "Date": "2024-07-11T22:00:00.000Z",
+    "Output Vision": "Added WR time & shift pattern for the Ferrari 512 TR (Purple Star) (T5 - P)"
   },
   {
     "ID": 172,
     "Date": "2024-07-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Aston Martin DB12 Volante (Purple Star) (T5 - P681)"
+    "Output Vision": "Updated WR time, INFO & driver for the Honda Hoonigan Indy Truck (Purple Star) (T5 - P)"
   },
   {
     "ID": 173,
     "Date": "2024-07-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Aston Martin DB12 Volante (Gold Star) (T5 - P682)"
+    "Output Vision": "Added WR tune & S6 effects for the Aston Martin DB12 Volante (Purple Star) (T5 - P)"
   },
   {
     "ID": 174,
     "Date": "2024-07-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the BMW 2024 M5 Sedan (Purple Star) (T5 - P420)"
+    "Output Vision": "Added WR tune & S6 effects for the Aston Martin DB12 Volante (Gold Star) (T5 - P)"
   },
   {
     "ID": 175,
     "Date": "2024-07-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the BMW 2024 M5 Sedan (Gold Star) (T5 - P447)"
+    "Output Vision": "Added WR tune & S6 effects for the BMW 2024 M5 Sedan (Purple Star) (T5 - P)"
   },
   {
     "ID": 176,
     "Date": "2024-07-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Porsche Taycan Turbo GT (Purple Star) (T5 - P683)"
+    "Output Vision": "Added WR tune & S6 effects for the BMW 2024 M5 Sedan (Gold Star) (T5 - P)"
   },
   {
     "ID": 177,
     "Date": "2024-07-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Porsche Taycan Turbo GT ''Weissach Package'' (Gold Star) (T5 - P684)"
+    "Output Vision": "Added WR tune & S6 effects for the Porsche Taycan Turbo GT (Purple Star) (T5 - P)"
   },
   {
     "ID": 178,
     "Date": "2024-07-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Chevrolet Corvette (C4) ZR-1 (Purple Star) (T5 - P685)"
+    "Output Vision": "Added WR tune & S6 effects for the Porsche Taycan Turbo GT ''Weissach Package'' (Gold Star) (T5 - P)"
   },
   {
     "ID": 179,
     "Date": "2024-07-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Dodge Charger Daytona 'Demon' 1970 (Purple Star) (T5 - P686)"
+    "Output Vision": "Added WR tune & S6 effects for the Chevrolet Corvette (C4) ZR-1 (Purple Star) (T5 - P)"
   },
   {
     "ID": 180,
     "Date": "2024-07-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Dodge Viper GTS (SRII) (Purple Star) (T5 - P687)"
+    "Output Vision": "Added WR tune & S6 effects for the Dodge Charger Daytona 'Demon' 1970 (Purple Star) (T5 - P)"
   },
   {
     "ID": 181,
     "Date": "2024-07-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Pininfarina Battista Edizione Nino Farina (Purple Star) (T5 - P688)"
+    "Output Vision": "Added WR tune & S6 effects for the Dodge Viper GTS (SRII) (Purple Star) (T5 - P)"
   },
   {
     "ID": 182,
-    "Date": "2024-07-08T22:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the Nissan Pandem Skyline GT-R (BCNR33) (Gold Star) (T4 - P35)"
+    "Date": "2024-07-09T22:00:00.000Z",
+    "Output Vision": "Added WR tune & S6 effects for the Pininfarina Battista Edizione Nino Farina (Purple Star) (T5 - P)"
   },
   {
     "ID": 183,
     "Date": "2024-07-08T22:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the Aston Martin DBS 770 Ultimate (Gold Star) (T5 - P334)"
+    "Output Vision": "Updated WR shift pattern for the Nissan Pandem Skyline GT-R (BCNR33) (Gold Star) (T4 - P)"
   },
   {
     "ID": 184,
     "Date": "2024-07-08T22:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the Aston Martin DBS 770 Ultimate (Purple Star) (T5 - P314)"
+    "Output Vision": "Updated WR shift pattern for the Aston Martin DBS 770 Ultimate (Gold Star) (T5 - P)"
   },
   {
     "ID": 185,
     "Date": "2024-07-08T22:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the Lamborghini Diablo SV (Purple Star) (T5 - P292)"
+    "Output Vision": "Updated WR shift pattern for the Aston Martin DBS 770 Ultimate (Purple Star) (T5 - P)"
   },
   {
     "ID": 186,
-    "Date": "2024-07-06T22:00:00.000Z",
-    "Output Vision": "Updated WR time & INFO for the Aston Martin DBS 770 Ultimate (Gold Star) (T5 - P334)"
+    "Date": "2024-07-08T22:00:00.000Z",
+    "Output Vision": "Updated WR shift pattern for the Lamborghini Diablo SV (Purple Star) (T5 - P)"
   },
   {
     "ID": 187,
     "Date": "2024-07-06T22:00:00.000Z",
-    "Output Vision": "Updated WR time & INFO for the Aston Martin DBS 770 Ultimate (Purple Star) (T5 - P314)"
+    "Output Vision": "Updated WR time & INFO for the Aston Martin DBS 770 Ultimate (Gold Star) (T5 - P)"
   },
   {
     "ID": 188,
-    "Date": "2024-07-05T22:00:00.000Z",
-    "Output Vision": "Added WR tune, INFO & driver for the BMW 2011 Rocket Bunny M3 GTS (Gold Star) (T3 - P13)"
+    "Date": "2024-07-06T22:00:00.000Z",
+    "Output Vision": "Updated WR time & INFO for the Aston Martin DBS 770 Ultimate (Purple Star) (T5 - P)"
   },
   {
     "ID": 189,
     "Date": "2024-07-05T22:00:00.000Z",
-    "Output Vision": "Added WR time, INFO & driver for the Aston Martin DBS 770 Ultimate (Purple Star) (T5 - P314)"
+    "Output Vision": "Added WR tune, INFO & driver for the BMW 2011 Rocket Bunny M3 GTS (Gold Star) (T3 - P)"
   },
   {
     "ID": 190,
     "Date": "2024-07-05T22:00:00.000Z",
-    "Output Vision": "Added WR time, INFO & driver for the Aston Martin DBS 770 Ultimate (Gold Star) (T5 - P334)"
+    "Output Vision": "Added WR time, INFO & driver for the Aston Martin DBS 770 Ultimate (Purple Star) (T5 - P)"
   },
   {
     "ID": 191,
     "Date": "2024-07-05T22:00:00.000Z",
-    "Output Vision": "Added WR time, INFO, shift pattern & driver for the Lamborghini Diablo SV (Purple Star) (T5 - P292)"
+    "Output Vision": "Added WR time, INFO & driver for the Aston Martin DBS 770 Ultimate (Gold Star) (T5 - P)"
   },
   {
     "ID": 192,
-    "Date": "2024-07-04T22:00:00.000Z",
-    "Output Vision": "Added WR shift pattern for the Lamborghini Aventador LP 780-4 Ultimae (E.C. Level 0) (Non Star) (T5 - P498)"
+    "Date": "2024-07-05T22:00:00.000Z",
+    "Output Vision": "Added WR time, INFO, shift pattern & driver for the Lamborghini Diablo SV (Purple Star) (T5 - P)"
   },
   {
     "ID": 193,
-    "Date": "2024-07-03T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time, INFO & driver for the Honda 2023 Civic Type R (Purple Star) (T3 - P4)"
+    "Date": "2024-07-04T22:00:00.000Z",
+    "Output Vision": "Added WR shift pattern for the Lamborghini Aventador LP 780-4 Ultimae (E.C. Level 0) (Non Star) (T5 - P)"
   },
   {
     "ID": 194,
     "Date": "2024-07-03T22:00:00.000Z",
-    "Output Vision": "Added WR INFO & driver for the Chevrolet Label Motorsports Corvette Stingray (Purple Star) (T5 - P173)"
+    "Output Vision": "Added WR tune, time, INFO & driver for the Honda 2023 Civic Type R (Purple Star) (T3 - P)"
   },
   {
     "ID": 195,
     "Date": "2024-07-03T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time, INFO & driver for the Honda 2023 Civic Type R (Gold Star) (T3 - P7)"
+    "Output Vision": "Added WR INFO & driver for the Chevrolet Label Motorsports Corvette Stingray (Purple Star) (T5 - P)"
   },
   {
     "ID": 196,
     "Date": "2024-07-03T22:00:00.000Z",
-    "Output Vision": "Updated WR time & INFO for the Ultima Evolution Coupé (Gold Star) (T5 - P417)"
+    "Output Vision": "Added WR tune, time, INFO & driver for the Honda 2023 Civic Type R (Gold Star) (T3 - P)"
   },
   {
     "ID": 197,
     "Date": "2024-07-03T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time, INFO & driver for the Lamborghini Aventador LP 780-4 Ultimae (E.C. Level 0) (Non Star) (T5 - P498)"
+    "Output Vision": "Updated WR time & INFO for the Ultima Evolution Coupé (Gold Star) (T5 - P)"
   },
   {
     "ID": 198,
-    "Date": "2024-06-29T22:00:00.000Z",
-    "Output Vision": "Updated WR time & INFO for the Ultima Evolution Coupé (Purple Star) (T5 - P396)"
+    "Date": "2024-07-03T22:00:00.000Z",
+    "Output Vision": "Added WR tune, time, INFO & driver for the Lamborghini Aventador LP 780-4 Ultimae (E.C. Level 0) (Non Star) (T5 - P)"
   },
   {
     "ID": 199,
     "Date": "2024-06-29T22:00:00.000Z",
-    "Output Vision": "Added WR INFO & driver for the Lamborghini Aventador LP 780-4 Ultimae (E.C. Level 35) (Purple Star) (T5 - P95)"
+    "Output Vision": "Updated WR time & INFO for the Ultima Evolution Coupé (Purple Star) (T5 - P)"
   },
   {
     "ID": 200,
-    "Date": "2024-06-26T22:00:00.000Z",
-    "Output Vision": "Added WR INFO & driver for the Bugatti Atlantic Concept (Gold Star) (T5 - P198)"
+    "Date": "2024-06-29T22:00:00.000Z",
+    "Output Vision": "Added WR INFO & driver for the Lamborghini Aventador LP 780-4 Ultimae (E.C. Level 35) (Purple Star) (T5 - P)"
   },
   {
     "ID": 201,
     "Date": "2024-06-26T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the BMW 2023 M2 Coupé ''M Performance'' (Purple Star) (T3 - P6)"
+    "Output Vision": "Added WR INFO & driver for the Bugatti Atlantic Concept (Gold Star) (T5 - P)"
   },
   {
     "ID": 202,
-    "Date": "2024-06-25T22:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the Ultima Evolution Coupé (Purple Star) (T5 - P396)"
+    "Date": "2024-06-26T22:00:00.000Z",
+    "Output Vision": "Updated WR time, INFO & driver for the BMW 2023 M2 Coupé ''M Performance'' (Purple Star) (T3 - P)"
   },
   {
     "ID": 203,
     "Date": "2024-06-25T22:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the Ultima Evolution Coupé (Gold Star) (T5 - P417)"
+    "Output Vision": "Updated WR shift pattern for the Ultima Evolution Coupé (Purple Star) (T5 - P)"
   },
   {
     "ID": 204,
     "Date": "2024-06-25T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time & shift pattern for the Lamborghini Aventador LP 780-4 Ultimae (E.C. Level 0) (Non Star) (T5 - P498)"
+    "Output Vision": "Updated WR shift pattern for the Ultima Evolution Coupé (Gold Star) (T5 - P)"
   },
   {
     "ID": 205,
-    "Date": "2024-06-23T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Ferrari 296 GTB (Gold Star) (T5 - P317)"
+    "Date": "2024-06-25T22:00:00.000Z",
+    "Output Vision": "Updated WR tune, time & shift pattern for the Lamborghini Aventador LP 780-4 Ultimae (E.C. Level 0) (Non Star) (T5 - P)"
   },
   {
     "ID": 206,
     "Date": "2024-06-23T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Lamborghini Aventador LP 780-4 Ultimae (E.C. Level 0) (Non Star) (T5 - P498)"
+    "Output Vision": "Updated S6 effects for the Ferrari 296 GTB (Gold Star) (T5 - P)"
   },
   {
     "ID": 207,
-    "Date": "2024-06-21T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time & shift pattern for the Lamborghini Aventador LP 780-4 Ultimae (E.C. Level 35) (Purple Star) (T5 - P95)"
+    "Date": "2024-06-23T22:00:00.000Z",
+    "Output Vision": "Added S6 effects for the Lamborghini Aventador LP 780-4 Ultimae (E.C. Level 0) (Non Star) (T5 - P)"
   },
   {
     "ID": 208,
-    "Date": "2024-06-19T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Honda Hoonigan Indy Truck (Purple Star) (T5 - P1)"
+    "Date": "2024-06-21T22:00:00.000Z",
+    "Output Vision": "Updated WR tune, time & shift pattern for the Lamborghini Aventador LP 780-4 Ultimae (E.C. Level 35) (Purple Star) (T5 - P)"
   },
   {
     "ID": 209,
     "Date": "2024-06-19T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Porsche 918 Spyder Weissach Package (Gold Star) (T5 - P394)"
+    "Output Vision": "Updated WR time, INFO & driver for the Honda Hoonigan Indy Truck (Purple Star) (T5 - P)"
   },
   {
     "ID": 210,
     "Date": "2024-06-19T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Ultima Evolution Coupé (Purple Star) (T5 - P396)"
+    "Output Vision": "Updated WR time, INFO & driver for the Porsche 918 Spyder Weissach Package (Gold Star) (T5 - P)"
   },
   {
     "ID": 211,
     "Date": "2024-06-19T22:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the Audi RS 5 Coupé 2020 (Purple Star) (T3 - P16)"
+    "Output Vision": "Updated WR time, INFO & driver for the Ultima Evolution Coupé (Purple Star) (T5 - P)"
   },
   {
     "ID": 212,
     "Date": "2024-06-19T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time & shift pattern for the Honda 2023 Civic Type R (Purple Star) (T3 - P4)"
+    "Output Vision": "Updated WR shift pattern for the Audi RS 5 Coupé 2020 (Purple Star) (T3 - P)"
   },
   {
     "ID": 213,
     "Date": "2024-06-19T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time & shift pattern for the Honda 2023 Civic Type R (Gold Star) (T3 - P7)"
+    "Output Vision": "Added WR tune, time & shift pattern for the Honda 2023 Civic Type R (Purple Star) (T3 - P)"
   },
   {
     "ID": 214,
     "Date": "2024-06-19T22:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the Lancia Delta HF Integrale Evo 2 (Purple Star) (T5 - P483)"
+    "Output Vision": "Added WR tune, time & shift pattern for the Honda 2023 Civic Type R (Gold Star) (T3 - P)"
   },
   {
     "ID": 215,
     "Date": "2024-06-19T22:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the Lamborghini Diablo SV (Purple Star) (T5 - P292)"
+    "Output Vision": "Added WR time & shift pattern for the Lancia Delta HF Integrale Evo 2 (Purple Star) (T5 - P)"
   },
   {
     "ID": 216,
     "Date": "2024-06-19T22:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the Chevrolet Label Motorsports Corvette Stingray (Purple Star) (T5 - P173)"
+    "Output Vision": "Added WR time & shift pattern for the Lamborghini Diablo SV (Purple Star) (T5 - P)"
   },
   {
     "ID": 217,
     "Date": "2024-06-19T22:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the Pagani Huayra Codalunga (Purple Star) (T5 - P194)"
+    "Output Vision": "Added WR time & shift pattern for the Chevrolet Label Motorsports Corvette Stingray (Purple Star) (T5 - P)"
   },
   {
     "ID": 218,
     "Date": "2024-06-19T22:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the RadFord Type 62-2 GOSH Edition (Purple Star) (T5 - P210)"
+    "Output Vision": "Added WR time & shift pattern for the Pagani Huayra Codalunga (Purple Star) (T5 - P)"
   },
   {
     "ID": 219,
     "Date": "2024-06-19T22:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the Ferrari F50 GT (Purple Star) (T5 - P120)"
+    "Output Vision": "Added WR time & shift pattern for the RadFord Type 62-2 GOSH Edition (Purple Star) (T5 - P)"
   },
   {
     "ID": 220,
-    "Date": "2024-06-17T22:00:00.000Z",
-    "Output Vision": "Added WR tune & time for the Lamborghini Aventador LP 780-4 Ultimae (E.C. Level 35) (Purple Star) (T5 - P95)"
+    "Date": "2024-06-19T22:00:00.000Z",
+    "Output Vision": "Added WR time & shift pattern for the Ferrari F50 GT (Purple Star) (T5 - P)"
   },
   {
     "ID": 221,
     "Date": "2024-06-17T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time, INFO & driver for the Lamborghini Huracan GT3 Evo 2 (Purple Star) (T5 - P55)"
+    "Output Vision": "Added WR tune & time for the Lamborghini Aventador LP 780-4 Ultimae (E.C. Level 35) (Purple Star) (T5 - P)"
   },
   {
     "ID": 222,
-    "Date": "2024-06-14T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Chevrolet Label Motorsports Corvette Stingray (Purple Star) (T5 - P173)"
+    "Date": "2024-06-17T22:00:00.000Z",
+    "Output Vision": "Added WR tune, time, INFO & driver for the Lamborghini Huracan GT3 Evo 2 (Purple Star) (T5 - P)"
   },
   {
     "ID": 223,
     "Date": "2024-06-14T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Ferrari 512 TR (Purple Star) (T5 - P401)"
+    "Output Vision": "Added WR tune & S6 effects for the Chevrolet Label Motorsports Corvette Stingray (Purple Star) (T5 - P)"
   },
   {
     "ID": 224,
     "Date": "2024-06-14T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Ferrari F50 GT (Purple Star) (T5 - P120)"
+    "Output Vision": "Added WR tune & S6 effects for the Ferrari 512 TR (Purple Star) (T5 - P)"
   },
   {
     "ID": 225,
     "Date": "2024-06-14T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Aventador LP 780-4 Ultimae (E.C. Level 35) (Purple Star) (T5 - P95)"
+    "Output Vision": "Added WR tune & S6 effects for the Ferrari F50 GT (Purple Star) (T5 - P)"
   },
   {
     "ID": 226,
     "Date": "2024-06-14T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Lancia Delta HF Integrale Evo 2 (Purple Star) (T5 - P483)"
+    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Aventador LP 780-4 Ultimae (E.C. Level 35) (Purple Star) (T5 - P)"
   },
   {
     "ID": 227,
     "Date": "2024-06-14T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the RadFord Type 62-2 GOSH Edition (Purple Star) (T5 - P210)"
+    "Output Vision": "Added WR tune & S6 effects for the Lancia Delta HF Integrale Evo 2 (Purple Star) (T5 - P)"
   },
   {
     "ID": 228,
     "Date": "2024-06-14T22:00:00.000Z",
-    "Output Vision": "Added WR INFO & driver for the Lamborghini SC63 (Purple Star) (T5 - P2)"
+    "Output Vision": "Added WR tune & S6 effects for the RadFord Type 62-2 GOSH Edition (Purple Star) (T5 - P)"
   },
   {
     "ID": 229,
     "Date": "2024-06-14T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Ferrari 296 GTB (Gold Star) (T5 - P317)"
+    "Output Vision": "Added WR INFO & driver for the Lamborghini SC63 (Purple Star) (T5 - P)"
   },
   {
     "ID": 230,
-    "Date": "2024-06-12T22:00:00.000Z",
-    "Output Vision": "Updated WR time for the Lamborghini SC63 (Purple Star) (T5 - P2)"
+    "Date": "2024-06-14T22:00:00.000Z",
+    "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Ferrari 296 GTB (Gold Star) (T5 - P)"
   },
   {
     "ID": 231,
     "Date": "2024-06-12T22:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the Bugatti Atlantic Concept (Purple Star) (T5 - P189)"
+    "Output Vision": "Updated WR time for the Lamborghini SC63 (Purple Star) (T5 - P)"
   },
   {
     "ID": 232,
     "Date": "2024-06-12T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time & shift pattern for the Bugatti Atlantic Concept (Gold Star) (T5 - P198)"
+    "Output Vision": "Added WR time & shift pattern for the Bugatti Atlantic Concept (Purple Star) (T5 - P)"
   },
   {
     "ID": 233,
-    "Date": "2024-06-09T22:00:00.000Z",
-    "Output Vision": "Updated WR time for the Lamborghini Huracan GT3 Evo 2 (Purple Star) (T5 - P55)"
+    "Date": "2024-06-12T22:00:00.000Z",
+    "Output Vision": "Added WR tune, time & shift pattern for the Bugatti Atlantic Concept (Gold Star) (T5 - P)"
   },
   {
     "ID": 234,
     "Date": "2024-06-09T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Honda S2000 (E.C. Level 35) (Purple Star) (T5 - P450)"
+    "Output Vision": "Updated WR time for the Lamborghini Huracan GT3 Evo 2 (Purple Star) (T5 - P)"
   },
   {
     "ID": 235,
     "Date": "2024-06-09T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Honda Veilside S2000 (Black) (FnF) (Purple Star) (T5 - P513)"
+    "Output Vision": "Added S6 effects for the Honda S2000 (E.C. Level 35) (Purple Star) (T5 - P)"
   },
   {
     "ID": 236,
     "Date": "2024-06-09T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the INDYCAR (Purple Star) (T5 - P39)"
+    "Output Vision": "Added S6 effects for the Honda Veilside S2000 (Black) (FnF) (Purple Star) (T5 - P)"
   },
   {
     "ID": 237,
-    "Date": "2024-06-07T22:00:00.000Z",
-    "Output Vision": "Added WR INFO & driver for the Nissan Z NISMO (RZ34) (Purple Star) (T4 - P61)"
+    "Date": "2024-06-09T22:00:00.000Z",
+    "Output Vision": "Added S6 effects for the INDYCAR (Purple Star) (T5 - P)"
   },
   {
     "ID": 238,
     "Date": "2024-06-07T22:00:00.000Z",
-    "Output Vision": "Added WR time, INFO & driver for the Zenvo Aurora Tur (Flash) (Purple Star) (T5 - P34)"
+    "Output Vision": "Added WR INFO & driver for the Nissan Z NISMO (RZ34) (Purple Star) (T4 - P)"
   },
   {
     "ID": 239,
-    "Date": "2024-06-06T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Urus SE (Gold Star) (T4 - P79)"
+    "Date": "2024-06-07T22:00:00.000Z",
+    "Output Vision": "Added WR time, INFO & driver for the Zenvo Aurora Tur (Flash) (Purple Star) (T5 - P)"
   },
   {
     "ID": 240,
     "Date": "2024-06-06T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Urus SE (Purple Star) (T4 - P74)"
+    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Urus SE (Gold Star) (T4 - P)"
   },
   {
     "ID": 241,
     "Date": "2024-06-06T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Diablo SV (Purple Star) (T5 - P292)"
+    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Urus SE (Purple Star) (T4 - P)"
   },
   {
     "ID": 242,
     "Date": "2024-06-06T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Pagani Huayra Codalunga (Purple Star) (T5 - P194)"
+    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Diablo SV (Purple Star) (T5 - P)"
   },
   {
     "ID": 243,
-    "Date": "2024-06-03T22:00:00.000Z",
-    "Output Vision": "Added WR INFO & driver for the Nissan GT-R NISMO GT3 (Purple Star) (T5 - P78)"
+    "Date": "2024-06-06T22:00:00.000Z",
+    "Output Vision": "Added WR tune & S6 effects for the Pagani Huayra Codalunga (Purple Star) (T5 - P)"
   },
   {
     "ID": 244,
-    "Date": "2024-06-01T22:00:00.000Z",
-    "Output Vision": "Updated WR time & shift pattern for the Zenvo Aurora Tur (Flash) (Purple Star) (T5 - P34)"
+    "Date": "2024-06-03T22:00:00.000Z",
+    "Output Vision": "Added WR INFO & driver for the Nissan GT-R NISMO GT3 (Purple Star) (T5 - P)"
   },
   {
     "ID": 245,
-    "Date": "2024-05-28T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time & shift pattern for the Nissan Z NISMO (RZ34) (Gold Star) (T4 - P66)"
+    "Date": "2024-06-01T22:00:00.000Z",
+    "Output Vision": "Updated WR time & shift pattern for the Zenvo Aurora Tur (Flash) (Purple Star) (T5 - P)"
   },
   {
     "ID": 246,
     "Date": "2024-05-28T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time & shift pattern for the Nissan Z NISMO (RZ34) (Purple Star) (T4 - P61)"
+    "Output Vision": "Updated WR tune, time & shift pattern for the Nissan Z NISMO (RZ34) (Gold Star) (T4 - P)"
   },
   {
     "ID": 247,
-    "Date": "2024-05-24T22:00:00.000Z",
-    "Output Vision": "Updated WR time & shift pattern for the Nissan GT-R NISMO GT3 (Purple Star) (T5 - P78)"
+    "Date": "2024-05-28T22:00:00.000Z",
+    "Output Vision": "Updated WR tune, time & shift pattern for the Nissan Z NISMO (RZ34) (Purple Star) (T4 - P)"
   },
   {
     "ID": 248,
     "Date": "2024-05-24T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time & shift pattern for the Nissan Z NISMO (RZ34) (Purple Star) (T4 - P61)"
+    "Output Vision": "Updated WR time & shift pattern for the Nissan GT-R NISMO GT3 (Purple Star) (T5 - P)"
   },
   {
     "ID": 249,
     "Date": "2024-05-24T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time & shift pattern for the Nissan Z NISMO (RZ34) (Gold Star) (T4 - P66)"
+    "Output Vision": "Added WR tune, time & shift pattern for the Nissan Z NISMO (RZ34) (Purple Star) (T4 - P)"
   },
   {
     "ID": 250,
     "Date": "2024-05-24T22:00:00.000Z",
-    "Output Vision": "Added WR INFO & driver for the Ford Mustang RTR Hoonicorn V1 (Purple Star) (T5 - P41)"
+    "Output Vision": "Added WR tune, time & shift pattern for the Nissan Z NISMO (RZ34) (Gold Star) (T4 - P)"
   },
   {
     "ID": 251,
     "Date": "2024-05-24T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Dodge Rides By Kam Challenger ''Havoc'' (Purple Star) (T5 - P68)"
+    "Output Vision": "Added WR INFO & driver for the Ford Mustang RTR Hoonicorn V1 (Purple Star) (T5 - P)"
   },
   {
     "ID": 252,
     "Date": "2024-05-24T22:00:00.000Z",
-    "Output Vision": "Added WR INFO & driver for the Ford Fox Body Mustang (FnF) (Purple Star) (T5 - P474)"
+    "Output Vision": "Updated WR time, INFO & driver for the Dodge Rides By Kam Challenger ''Havoc'' (Purple Star) (T5 - P)"
   },
   {
     "ID": 253,
     "Date": "2024-05-24T22:00:00.000Z",
-    "Output Vision": "Added WR INFO & driver for the Bentley Batur by Mulliner (Gold Star) (T5 - P427)"
+    "Output Vision": "Added WR INFO & driver for the Ford Fox Body Mustang (FnF) (Purple Star) (T5 - P)"
   },
   {
     "ID": 254,
     "Date": "2024-05-24T22:00:00.000Z",
-    "Output Vision": "Added WR INFO & driver for the Bentley Batur by Mulliner (Purple Star) (T5 - P397)"
+    "Output Vision": "Added WR INFO & driver for the Bentley Batur by Mulliner (Gold Star) (T5 - P)"
   },
   {
     "ID": 255,
-    "Date": "2024-05-19T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Sneak's Ford Focus TrackSTer (Purple Star) (T1 - P2)"
+    "Date": "2024-05-24T22:00:00.000Z",
+    "Output Vision": "Added WR INFO & driver for the Bentley Batur by Mulliner (Purple Star) (T5 - P)"
   },
   {
     "ID": 256,
-    "Date": "2024-05-17T22:00:00.000Z",
-    "Output Vision": "Added WR time & driver for the Porsche 911 GT1 Straßenversion (Purple Star) (T5 - P56)"
+    "Date": "2024-05-19T22:00:00.000Z",
+    "Output Vision": "Updated WR time, INFO & driver for the Sneak's Ford Focus TrackSTer (Purple Star) (T1 - P)"
   },
   {
     "ID": 257,
     "Date": "2024-05-17T22:00:00.000Z",
-    "Output Vision": "Added WR time & driver for the BMW 1990 M3 Sport Evolution (Purple Star) (T4 - P64)"
+    "Output Vision": "Added WR time & driver for the Porsche 911 GT1 Straßenversion (Purple Star) (T5 - P)"
   },
   {
     "ID": 258,
-    "Date": "2024-05-15T22:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the Zenvo Aurora Tur (Flash) (Purple Star) (T5 - P34)"
+    "Date": "2024-05-17T22:00:00.000Z",
+    "Output Vision": "Added WR time & driver for the BMW 1990 M3 Sport Evolution (Purple Star) (T4 - P)"
   },
   {
     "ID": 259,
     "Date": "2024-05-15T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time & shift pattern for the Lamborghini SC63 (Purple Star) (T5 - P2)"
+    "Output Vision": "Added WR time & shift pattern for the Zenvo Aurora Tur (Flash) (Purple Star) (T5 - P)"
   },
   {
     "ID": 260,
     "Date": "2024-05-15T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time & shift pattern for the Lamborghini Huracan GT3 Evo 2 (Purple Star) (T5 - P55)"
+    "Output Vision": "Added WR tune, time & shift pattern for the Lamborghini SC63 (Purple Star) (T5 - P)"
   },
   {
     "ID": 261,
     "Date": "2024-05-15T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time & shift pattern for the Mazda Special Effect LB Silhouette RX-7 (Purple Star) (T5 - P426)"
+    "Output Vision": "Added WR tune, time & shift pattern for the Lamborghini Huracan GT3 Evo 2 (Purple Star) (T5 - P)"
   },
   {
     "ID": 262,
     "Date": "2024-05-15T22:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the INFINITI Project Black S (Purple Star) (T4 - P101)"
+    "Output Vision": "Added WR tune, time & shift pattern for the Mazda Special Effect LB Silhouette RX-7 (Purple Star) (T5 - P)"
   },
   {
     "ID": 263,
-    "Date": "2024-05-13T22:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the INFINITI Project Black S (Gold Star) (T4 - P109)"
+    "Date": "2024-05-15T22:00:00.000Z",
+    "Output Vision": "Updated WR shift pattern for the INFINITI Project Black S (Purple Star) (T4 - P)"
   },
   {
     "ID": 264,
     "Date": "2024-05-13T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time & shift pattern for the Bentley Batur by Mulliner (Purple Star) (T5 - P397)"
+    "Output Vision": "Updated WR shift pattern for the INFINITI Project Black S (Gold Star) (T4 - P)"
   },
   {
     "ID": 265,
     "Date": "2024-05-13T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time & shift pattern for the Bentley Batur by Mulliner (Gold Star) (T5 - P427)"
+    "Output Vision": "Added WR tune, time & shift pattern for the Bentley Batur by Mulliner (Purple Star) (T5 - P)"
   },
   {
     "ID": 266,
-    "Date": "2024-05-11T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO & driver for the Bugatti Veyron Grand Sport Vitesse WRC Edition (Purple Star) (T5 - P369)"
+    "Date": "2024-05-13T22:00:00.000Z",
+    "Output Vision": "Added WR tune, time & shift pattern for the Bentley Batur by Mulliner (Gold Star) (T5 - P)"
   },
   {
     "ID": 267,
     "Date": "2024-05-11T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO & driver for the Bugatti Veyron Grand Sport Vitesse (Gold Star) (T5 - P367)"
+    "Output Vision": "Updated WR tune, time, INFO & driver for the Bugatti Veyron Grand Sport Vitesse WRC Edition (Purple Star) (T5 - P)"
   },
   {
     "ID": 268,
     "Date": "2024-05-11T22:00:00.000Z",
-    "Output Vision": "Added WR time, INFO & driver for the Porsche 911 GT2 (993) (Purple Star) (T5 - P222)"
+    "Output Vision": "Updated WR tune, time, INFO & driver for the Bugatti Veyron Grand Sport Vitesse (Gold Star) (T5 - P)"
   },
   {
     "ID": 269,
-    "Date": "2024-05-10T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Porsche Hoonigan RWB 911 Turbo (Purple Star) (T5 - P220)"
+    "Date": "2024-05-11T22:00:00.000Z",
+    "Output Vision": "Added WR time, INFO & driver for the Porsche 911 GT2 (993) (Purple Star) (T5 - P)"
   },
   {
     "ID": 270,
-    "Date": "2024-05-09T22:00:00.000Z",
-    "Output Vision": "Updated WR time & shift pattern for the BMW 1990 M3 Sport Evolution (Purple Star) (T4 - P64)"
+    "Date": "2024-05-10T22:00:00.000Z",
+    "Output Vision": "Updated WR time, INFO & driver for the Porsche Hoonigan RWB 911 Turbo (Purple Star) (T5 - P)"
   },
   {
     "ID": 271,
     "Date": "2024-05-09T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO & driver for the Bugatti Veyron ''Jean Bugatti'' (Purple Star) (T5 - P404)"
+    "Output Vision": "Updated WR time & shift pattern for the BMW 1990 M3 Sport Evolution (Purple Star) (T4 - P)"
   },
   {
     "ID": 272,
     "Date": "2024-05-09T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Pagani Utopia (Gold Star) (T5 - P59)"
+    "Output Vision": "Updated WR tune, time, INFO & driver for the Bugatti Veyron ''Jean Bugatti'' (Purple Star) (T5 - P)"
   },
   {
     "ID": 273,
     "Date": "2024-05-09T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Pagani Utopia 'Carbon Edition' (Purple Star) (T5 - P36)"
+    "Output Vision": "Updated WR time, INFO & driver for the Pagani Utopia (Gold Star) (T5 - P)"
   },
   {
     "ID": 274,
     "Date": "2024-05-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Aston Martin DBS 770 Ultimate (Purple Star) (T5 - P314)"
+    "Output Vision": "Updated WR time, INFO & driver for the Pagani Utopia 'Carbon Edition' (Purple Star) (T5 - P)"
   },
   {
     "ID": 275,
     "Date": "2024-05-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Aston Martin DBS 770 Ultimate (Gold Star) (T5 - P334)"
+    "Output Vision": "Added WR tune & S6 effects for the Aston Martin DBS 770 Ultimate (Purple Star) (T5 - P)"
   },
   {
     "ID": 276,
     "Date": "2024-05-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Bugatti Atlantic Concept (Purple Star) (T5 - P189)"
+    "Output Vision": "Added WR tune & S6 effects for the Aston Martin DBS 770 Ultimate (Gold Star) (T5 - P)"
   },
   {
     "ID": 277,
     "Date": "2024-05-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Bugatti Atlantic Concept (Gold Star) (T5 - P198)"
+    "Output Vision": "Added WR tune & S6 effects for the Bugatti Atlantic Concept (Purple Star) (T5 - P)"
   },
   {
     "ID": 278,
     "Date": "2024-05-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Honda 2023 Civic Type R (Purple Star) (T3 - P4)"
+    "Output Vision": "Added WR tune & S6 effects for the Bugatti Atlantic Concept (Gold Star) (T5 - P)"
   },
   {
     "ID": 279,
     "Date": "2024-05-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Honda 2023 Civic Type R (Gold Star) (T3 - P7)"
+    "Output Vision": "Added WR tune & S6 effects for the Honda 2023 Civic Type R (Purple Star) (T3 - P)"
   },
   {
     "ID": 280,
     "Date": "2024-05-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Huracan GT3 Evo 2 (Purple Star) (T5 - P55)"
+    "Output Vision": "Added WR tune & S6 effects for the Honda 2023 Civic Type R (Gold Star) (T3 - P)"
   },
   {
     "ID": 281,
     "Date": "2024-05-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Lamborghini SC63 (Purple Star) (T5 - P2)"
+    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Huracan GT3 Evo 2 (Purple Star) (T5 - P)"
   },
   {
     "ID": 282,
     "Date": "2024-05-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Mazda Special Effect LB Silhouette RX-7 (Purple Star) (T5 - P426)"
+    "Output Vision": "Added WR tune & S6 effects for the Lamborghini SC63 (Purple Star) (T5 - P)"
   },
   {
     "ID": 283,
     "Date": "2024-05-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Nissan Z NISMO (RZ34) (Purple Star) (T4 - P61)"
+    "Output Vision": "Added WR tune & S6 effects for the Mazda Special Effect LB Silhouette RX-7 (Purple Star) (T5 - P)"
   },
   {
     "ID": 284,
     "Date": "2024-05-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Nissan Z NISMO (RZ34) (Gold Star) (T4 - P66)"
+    "Output Vision": "Added WR tune & S6 effects for the Nissan Z NISMO (RZ34) (Purple Star) (T4 - P)"
   },
   {
     "ID": 285,
     "Date": "2024-05-09T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Zenvo Aurora Tur (Flash) (Purple Star) (T5 - P34)"
+    "Output Vision": "Added WR tune & S6 effects for the Nissan Z NISMO (RZ34) (Gold Star) (T4 - P)"
   },
   {
     "ID": 286,
-    "Date": "2024-05-03T22:00:00.000Z",
-    "Output Vision": "Added WR INFO & driver for the Ford Jack Roush Edition Mustang (Purple Star) (T4 - P10)"
+    "Date": "2024-05-09T22:00:00.000Z",
+    "Output Vision": "Added WR tune & S6 effects for the Zenvo Aurora Tur (Flash) (Purple Star) (T5 - P)"
   },
   {
     "ID": 287,
     "Date": "2024-05-03T22:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the Pagani Utopia (Gold Star) (T5 - P59)"
+    "Output Vision": "Added WR INFO & driver for the Ford Jack Roush Edition Mustang (Purple Star) (T4 - P)"
   },
   {
     "ID": 288,
     "Date": "2024-05-03T22:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the Pagani Utopia 'Carbon Edition' (Purple Star) (T5 - P36)"
+    "Output Vision": "Added WR time & shift pattern for the Pagani Utopia (Gold Star) (T5 - P)"
   },
   {
     "ID": 289,
-    "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Koenigsegg Jesko (White) (Purple Star) (T5 - P128)"
+    "Date": "2024-05-03T22:00:00.000Z",
+    "Output Vision": "Added WR time & shift pattern for the Pagani Utopia 'Carbon Edition' (Purple Star) (T5 - P)"
   },
   {
     "ID": 290,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Koenigsegg Jesko (Orange) (Purple Star) (T5 - P127)"
+    "Output Vision": "Updated S6 effects for the Koenigsegg Jesko (White) (Purple Star) (T5 - P)"
   },
   {
     "ID": 291,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Koenigsegg Jesko 'Draco Red' (Purple Star) (T5 - P125)"
+    "Output Vision": "Updated S6 effects for the Koenigsegg Jesko (Orange) (Purple Star) (T5 - P)"
   },
   {
     "ID": 292,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Koenigsegg Jesko Absolut (Purple Star) (T5 - P52)"
+    "Output Vision": "Updated S6 effects for the Koenigsegg Jesko 'Draco Red' (Purple Star) (T5 - P)"
   },
   {
     "ID": 293,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Lamborghini Centenario (Purple Star) (T5 - P373)"
+    "Output Vision": "Updated S6 effects for the Koenigsegg Jesko Absolut (Purple Star) (T5 - P)"
   },
   {
     "ID": 294,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Lamborghini Centenario Roadster (Silver) (Purple Star) (T5 - P411)"
+    "Output Vision": "Updated S6 effects for the Lamborghini Centenario (Purple Star) (T5 - P)"
   },
   {
     "ID": 295,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Lamborghini Centenario Roadster (Yellow) (Purple Star) (T5 - P412)"
+    "Output Vision": "Updated S6 effects for the Lamborghini Centenario Roadster (Silver) (Purple Star) (T5 - P)"
   },
   {
     "ID": 296,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Lamborghini Centenario Roadster Ad Personam (Purple Star) (T5 - P415)"
+    "Output Vision": "Updated S6 effects for the Lamborghini Centenario Roadster (Yellow) (Purple Star) (T5 - P)"
   },
   {
     "ID": 297,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Ferrari F12tdf (Gold Star) (T5 - P551)"
+    "Output Vision": "Updated S6 effects for the Lamborghini Centenario Roadster Ad Personam (Purple Star) (T5 - P)"
   },
   {
     "ID": 298,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Lamborghini Countach LPI 800-4 (Italian SCS) (Purple Star) (T5 - P111)"
+    "Output Vision": "Updated S6 effects for the Ferrari F12tdf (Gold Star) (T5 - P551)"
   },
   {
     "ID": 299,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Lamborghini Essenza SCV12 (Purple Star) (T5 - P86)"
+    "Output Vision": "Updated S6 effects for the Lamborghini Countach LPI 800-4 (Italian SCS) (Purple Star) (T5 - P111)"
   },
   {
     "ID": 300,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Lamborghini Essenza SCV12 (SCS) (Purple Star) (T5 - P88)"
+    "Output Vision": "Updated S6 effects for the Lamborghini Essenza SCV12 (Purple Star) (T5 - P86)"
   },
   {
     "ID": 301,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Lamborghini Essenza SCV12 'Bianco Asopo' (Purple Star) (T5 - P87)"
+    "Output Vision": "Updated S6 effects for the Lamborghini Essenza SCV12 (SCS) (Purple Star) (T5 - P88)"
   },
   {
     "ID": 302,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Lamborghini Huracán GT3 EVO (Purple Star) (T5 - P143)"
+    "Output Vision": "Updated S6 effects for the Lamborghini Essenza SCV12 'Bianco Asopo' (Purple Star) (T5 - P87)"
   },
   {
     "ID": 303,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Lamborghini SC18 (Transmission Stage 5) (Purple Star) (T5 - P319)"
+    "Output Vision": "Updated S6 effects for the Lamborghini Huracán GT3 EVO (Purple Star) (T5 - P143)"
   },
   {
     "ID": 304,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Lamborghini Sián Roadster (Purple Star) (T5 - P181)"
+    "Output Vision": "Updated S6 effects for the Lamborghini SC18 (Transmission Stage 5) (Purple Star) (T5 - P319)"
   },
   {
     "ID": 305,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the McLaren 720S (FnF) (Purple Star) (T5 - P464)"
+    "Output Vision": "Updated S6 effects for the Lamborghini Sián Roadster (Purple Star) (T5 - P181)"
   },
   {
     "ID": 306,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the McLaren 720S GT3 (Purple Star) (T5 - P155)"
+    "Output Vision": "Updated S6 effects for the McLaren 720S (FnF) (Purple Star) (T5 - P464)"
   },
   {
     "ID": 307,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO & driver for the Ferrari F12tdf (Gold Star) (T5 - P574)"
+    "Output Vision": "Updated S6 effects for the McLaren 720S GT3 (Purple Star) (T5 - P155)"
   },
   {
     "ID": 308,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated WR INFO & driver for the Bentley Continental GT Speed Convertible (Gold Star) (T5 - P559)"
+    "Output Vision": "Updated WR tune, time, INFO & driver for the Ferrari F12tdf (Gold Star) (T5 - P574)"
   },
   {
     "ID": 309,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Ford ROUSH Stage 3 Mustang (Gold Star) (T5 - P616)"
+    "Output Vision": "Updated WR INFO & driver for the Bentley Continental GT Speed Convertible (Gold Star) (T5 - P559)"
   },
   {
     "ID": 310,
-    "Date": "2024-04-28T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Lamborghini Urus Performante (Gold Star) (T4 - P34)"
+    "Date": "2024-04-29T22:00:00.000Z",
+    "Output Vision": "Updated WR time, INFO & driver for the Ford ROUSH Stage 3 Mustang (Gold Star) (T5 - P616)"
   },
   {
     "ID": 311,
     "Date": "2024-04-28T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Lamborghini Urus Performante (Purple Star) (T4 - P20)"
+    "Output Vision": "Added S6 effects for the Lamborghini Urus Performante (Gold Star) (T4 - P34)"
   },
   {
     "ID": 312,
-    "Date": "2024-04-26T22:00:00.000Z",
-    "Output Vision": "Added WR INFO & driver for the Lamborghini Essenza SCV12 (SCS) (Purple Star) (T5 - P88)"
+    "Date": "2024-04-28T22:00:00.000Z",
+    "Output Vision": "Added S6 effects for the Lamborghini Urus Performante (Purple Star) (T4 - P20)"
   },
   {
     "ID": 313,
     "Date": "2024-04-26T22:00:00.000Z",
-    "Output Vision": "Added WR INFO & driver for the Bugatti Bolide (Green) (Purple Star) (T5 - P50)"
+    "Output Vision": "Added WR INFO & driver for the Lamborghini Essenza SCV12 (SCS) (Purple Star) (T5 - P88)"
   },
   {
     "ID": 314,
-    "Date": "2024-04-25T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO & driver for the McLaren 600LT (7.611 possible) (Gold Star) (T5 - P414)"
+    "Date": "2024-04-26T22:00:00.000Z",
+    "Output Vision": "Added WR INFO & driver for the Bugatti Bolide (Green) (Purple Star) (T5 - P50)"
   },
   {
     "ID": 315,
     "Date": "2024-04-25T22:00:00.000Z",
-    "Output Vision": "Added WR INFO & driver for the Audi R8 Coupe V10 GT RWD (Purple Star) (T5 - P351)"
+    "Output Vision": "Updated WR tune, time, INFO & driver for the McLaren 600LT (7.611 possible) (Gold Star) (T5 - P414)"
   },
   {
     "ID": 316,
     "Date": "2024-04-25T22:00:00.000Z",
-    "Output Vision": "Added WR INFO & driver for the Audi R8 Coupe V10 GT RWD (Gold Star) (T5 - P385)"
+    "Output Vision": "Added WR INFO & driver for the Audi R8 Coupe V10 GT RWD (Purple Star) (T5 - P351)"
   },
   {
     "ID": 317,
     "Date": "2024-04-25T22:00:00.000Z",
-    "Output Vision": "Updated WR INFO & driver for the Cadillac CT5-V Blackwing (Purple Star) (T4 - P52)"
+    "Output Vision": "Added WR INFO & driver for the Audi R8 Coupe V10 GT RWD (Gold Star) (T5 - P385)"
   },
   {
     "ID": 318,
     "Date": "2024-04-25T22:00:00.000Z",
-    "Output Vision": "Added WR INFO & driver for the Chevrolet Rocket Bunny Camaro Z28 (Purple Star) (T5 - P191)"
+    "Output Vision": "Updated WR INFO & driver for the Cadillac CT5-V Blackwing (Purple Star) (T4 - P52)"
   },
   {
     "ID": 319,
     "Date": "2024-04-25T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Ferrari FXX K (Purple Star) (T5 - P350)"
+    "Output Vision": "Added WR INFO & driver for the Chevrolet Rocket Bunny Camaro Z28 (Purple Star) (T5 - P191)"
   },
   {
     "ID": 320,
-    "Date": "2024-04-18T22:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the Audi R8 Coupe V10 GT RWD (Purple Star) (T5 - P351)"
+    "Date": "2024-04-25T22:00:00.000Z",
+    "Output Vision": "Updated WR time, INFO & driver for the Ferrari FXX K (Purple Star) (T5 - P350)"
   },
   {
     "ID": 321,
     "Date": "2024-04-18T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time & shift pattern for the Audi R8 Coupe V10 GT RWD (Gold Star) (T5 - P385)"
+    "Output Vision": "Added WR time & shift pattern for the Audi R8 Coupe V10 GT RWD (Purple Star) (T5 - P351)"
   },
   {
     "ID": 322,
+    "Date": "2024-04-18T22:00:00.000Z",
+    "Output Vision": "Updated WR tune, time & shift pattern for the Audi R8 Coupe V10 GT RWD (Gold Star) (T5 - P385)"
+  },
+  {
+    "ID": 323,
     "Date": "2024-04-15T22:00:00.000Z",
     "Output Vision": "Updated WR time & shift pattern for the Ferrari SF90 XX Stradale (Purple Star) (T5 - P84)"
   },
   {
-    "ID": 323,
+    "ID": 324,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the Bentley Batur by Mulliner (Gold Star) (T5 - P427)"
   },
   {
-    "ID": 324,
+    "ID": 325,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the Bentley Batur by Mulliner (Purple Star) (T5 - P397)"
   },
   {
-    "ID": 325,
+    "ID": 326,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the BMW 1990 M3 Sport Evolution (Purple Star) (T4 - P64)"
   },
   {
-    "ID": 326,
+    "ID": 327,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the Ford Jack Roush Edition Mustang (Purple Star) (T4 - P10)"
   },
   {
-    "ID": 327,
+    "ID": 328,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the Ferrari SF90 XX Stradale (Purple Star) (T5 - P84)"
   },
   {
-    "ID": 328,
+    "ID": 329,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the McLaren F1 GT (Purple Star) (T5 - P25)"
   },
   {
-    "ID": 329,
+    "ID": 330,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the Nissan GT-R NISMO GT3 (Purple Star) (T5 - P78)"
   },
   {
-    "ID": 330,
+    "ID": 331,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the Porsche 911 GT1 Straßenversion (Purple Star) (T5 - P56)"
   },
   {
-    "ID": 331,
+    "ID": 332,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the Porsche 911 GT2 (993) (Purple Star) (T5 - P222)"
   },
   {
-    "ID": 332,
+    "ID": 333,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the McLaren Senna (Purple Star) (T5 - P203)"
   },
   {
-    "ID": 333,
+    "ID": 334,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the McLaren Senna ''Launch Edition'' (Purple Star) (T5 - P206)"
   },
   {
-    "ID": 334,
+    "ID": 335,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the McLaren Senna GOSH Edition (Purple Star) (T5 - P204)"
   },
   {
-    "ID": 335,
+    "ID": 336,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the McLaren Senna Carbon Theme By MSO (Purple Star) (T5 - P216)"
   },
   {
-    "ID": 336,
+    "ID": 337,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the McLaren Speedtail (Orange) (Purple Star) (T5 - P122)"
   },
   {
-    "ID": 337,
+    "ID": 338,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the McLaren Speedtail (Red 3-Star) (Purple Star) (T5 - P678)"
   },
   {
-    "ID": 338,
+    "ID": 339,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the Mercedes-AMG F1 W11 EQ Performance #44 (Purple Star) (T5 - P32)"
   },
   {
-    "ID": 339,
+    "ID": 340,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the Mercedes-AMG F1 W11 EQ Performance #77 (Purple Star) (T5 - P33)"
   },
   {
-    "ID": 340,
+    "ID": 341,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Added S6 effects for the McLaren Senna GTR (Purple Star) (T5 - P136)"
   },
   {
-    "ID": 341,
+    "ID": 342,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Updated WR time & INFO for the Chevrolet 2023 Corvette Z06 Convertible (Gold Star) (T5 - P413)"
   },
   {
-    "ID": 342,
+    "ID": 343,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & driver for the Mitsubishi Voltex Lancer Evolution IX (Purple Star) (T4 - P37)"
   },
   {
-    "ID": 343,
+    "ID": 344,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & driver for the Aston Martin Valkyrie AMR Pro (Purple Star) (T5 - P29)"
   },
   {
-    "ID": 344,
+    "ID": 345,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & driver for the Honda 1992 NSX Type R (E.C. Level 35) (Purple Star) (T5 - P126)"
   },
   {
-    "ID": 345,
+    "ID": 346,
     "Date": "2024-04-14T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & driver for the Mitsubishi Voltex Lancer Evolution IX (Gold Star) (T4 - P49)"
   },
   {
-    "ID": 346,
+    "ID": 347,
     "Date": "2024-04-12T22:00:00.000Z",
     "Output Vision": "Updated WR INFO & driver for the Chevrolet Greening Auto Company Camaro IROC Z28 (Purple Star) (T5 - P42)"
   },
   {
-    "ID": 347,
+    "ID": 348,
     "Date": "2024-04-12T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & driver for the Nissan KRC Japan GT-R (R35) (Purple Star) (T5 - P182)"
   },
   {
-    "ID": 348,
+    "ID": 349,
     "Date": "2024-04-10T22:00:00.000Z",
     "Output Vision": "Added WR time & shift pattern for the McLaren F1 GT (Purple Star) (T5 - P25)"
   },
   {
-    "ID": 349,
+    "ID": 350,
     "Date": "2024-04-10T22:00:00.000Z",
     "Output Vision": "Added WR time & shift pattern for the Nissan GT-R NISMO GT3 (Purple Star) (T5 - P78)"
   },
   {
-    "ID": 350,
+    "ID": 351,
     "Date": "2024-04-10T22:00:00.000Z",
     "Output Vision": "Added WR time & shift pattern for the Porsche 911 GT2 (993) (Purple Star) (T5 - P222)"
   },
   {
-    "ID": 351,
+    "ID": 352,
     "Date": "2024-04-10T22:00:00.000Z",
     "Output Vision": "Added WR time & shift pattern for the BMW 1990 M3 Sport Evolution (Purple Star) (T4 - P64)"
   },
   {
-    "ID": 352,
+    "ID": 353,
     "Date": "2024-04-10T22:00:00.000Z",
     "Output Vision": "Added WR tune, time & shift pattern for the Ford Jack Roush Edition Mustang (Purple Star) (T4 - P10)"
   },
   {
-    "ID": 353,
+    "ID": 354,
     "Date": "2024-04-07T22:00:00.000Z",
     "Output Vision": "Added WR time & shift pattern for the Ferrari SF90 XX Stradale (Purple Star) (T5 - P84)"
   },
   {
-    "ID": 354,
+    "ID": 355,
     "Date": "2024-04-07T22:00:00.000Z",
     "Output Vision": "Added WR tune, time & shift pattern for the Audi R8 Coupe V10 GT RWD (Gold Star) (T5 - P385)"
   },
   {
-    "ID": 355,
+    "ID": 356,
     "Date": "2024-04-07T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Honda 1992 NSX Type R (E.C. Level 0) (Non Star) (T5 - P531)"
   },
   {
-    "ID": 356,
+    "ID": 357,
     "Date": "2024-04-07T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Ferrari Roma (Purple Star) (T5 - P564)"
   },
   {
-    "ID": 357,
+    "ID": 358,
     "Date": "2024-04-07T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Ferrari Roma (Gold Star) (T5 - P575)"
   },
   {
-    "ID": 358,
+    "ID": 359,
     "Date": "2024-03-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Nissan Ben Sopra GT-R (R35) (FnF) (Purple Star) (T5 - P205)"
   },
   {
-    "ID": 359,
+    "ID": 360,
     "Date": "2024-03-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Nissan C-WEST Skyline GT-R (BNR34) (FnF) (Purple Star) (T5 - P497)"
   },
   {
-    "ID": 360,
+    "ID": 361,
     "Date": "2024-03-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Nissan GT-R50 by Italdesign (Purple Star) (T5 - P381)"
   },
   {
-    "ID": 361,
+    "ID": 362,
     "Date": "2024-03-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Nissan GT-R50 Prototype by Italdesign (Purple Star) (T5 - P382)"
   },
   {
-    "ID": 362,
+    "ID": 363,
     "Date": "2024-03-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Pagani Zonda Revo Barchetta (Purple Star) (T5 - P217)"
   },
   {
-    "ID": 363,
+    "ID": 364,
     "Date": "2024-03-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Pagani Zonda Revolución (Purple Star) (T5 - P218)"
   },
   {
-    "ID": 364,
+    "ID": 365,
     "Date": "2024-03-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Porsche 911 RWB (Evo) (Purple Star) (T5 - P422)"
   },
   {
-    "ID": 365,
+    "ID": 366,
     "Date": "2024-03-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Porsche 935 MARTINI RACING (Purple Star) (T5 - P148)"
   },
   {
-    "ID": 366,
+    "ID": 367,
     "Date": "2024-03-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Porsche 935 'Salzburg' (Purple Star) (T5 - P146)"
   },
   {
-    "ID": 367,
+    "ID": 368,
     "Date": "2024-03-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Porsche 959 SC (Purple Star) (T5 - P116)"
   },
   {
-    "ID": 368,
+    "ID": 369,
     "Date": "2024-03-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Porsche RWB 993 ''Rotana'' (Purple Star) (T5 - P429)"
   },
   {
-    "ID": 369,
+    "ID": 370,
     "Date": "2024-03-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Saleen S7 Twin Turbo (E.C. Level 50) (Gold Star) (T5 - P164)"
   },
   {
-    "ID": 370,
+    "ID": 371,
     "Date": "2024-03-27T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Toyota PandeM V1 GR Supra (Purple Star) (T5 - P184)"
   },
   {
-    "ID": 371,
+    "ID": 372,
     "Date": "2024-03-27T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Toyota PandeM V1.5 GR Supra (Purple Star) (T5 - P171)"
   },
   {
-    "ID": 372,
+    "ID": 373,
     "Date": "2024-03-27T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Toyota Supra (E.C. Level 35) (Purple Star) (T5 - P80)"
   },
   {
-    "ID": 373,
+    "ID": 374,
     "Date": "2024-03-27T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Toyota Supra Aerotop (FnF) (Purple Star) (T5 - P166)"
   },
   {
-    "ID": 374,
+    "ID": 375,
     "Date": "2024-03-27T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Noro's Toyota Varis Toyota Supra (Purple Star) (T5 - P)"
   },
   {
-    "ID": 375,
+    "ID": 376,
     "Date": "2024-03-27T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Ultima Evolution Coupé (Gold Star) (T5 - P417)"
   },
   {
-    "ID": 376,
+    "ID": 377,
     "Date": "2024-03-27T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Ultima Evolution Coupé (Purple Star) (T5 - P396)"
   },
   {
-    "ID": 377,
+    "ID": 378,
     "Date": "2024-03-27T23:00:00.000Z",
     "Output Vision": "Updated WR shift pattern for the Aston Martin Vantage (E.C. Level 50) (Gold Star) (T4 - P100)"
   },
   {
-    "ID": 378,
+    "ID": 379,
     "Date": "2024-03-27T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time & shift pattern for the Honda 1992 NSX Type R (E.C. Level 35) (Purple Star) (T5 - P126)"
   },
   {
-    "ID": 379,
+    "ID": 380,
     "Date": "2024-03-25T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time & shift pattern for the Honda 1992 NSX Type R (E.C. Level 0) (Non Star) (T5 - P531)"
   },
   {
-    "ID": 380,
+    "ID": 381,
     "Date": "2024-03-25T23:00:00.000Z",
     "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Rimac Nevera (Gold Star) (T5 - P23)"
   },
   {
-    "ID": 381,
+    "ID": 382,
     "Date": "2024-03-25T23:00:00.000Z",
     "Output Vision": "Updated WR time & driver for the Cadillac CT5-V Blackwing (Gold Star) (T4 - P60)"
   },
   {
-    "ID": 382,
+    "ID": 383,
     "Date": "2024-03-24T23:00:00.000Z",
     "Output Vision": "Updated WR time & shift pattern for the Chevrolet Rocket Bunny Camaro Z28 (Purple Star) (T5 - P191)"
   },
   {
-    "ID": 383,
+    "ID": 384,
     "Date": "2024-03-23T23:00:00.000Z",
     "Output Vision": "Added WR time & shift pattern for the Chevrolet Rocket Bunny Camaro Z28 (Purple Star) (T5 - P191)"
   },
   {
-    "ID": 384,
+    "ID": 385,
     "Date": "2024-03-23T23:00:00.000Z",
     "Output Vision": "Updated WR shift pattern for the Aston Martin Valour (Purple Star) (T5 - P14)"
   },
   {
-    "ID": 385,
+    "ID": 386,
     "Date": "2024-03-23T23:00:00.000Z",
     "Output Vision": "Added WR tune, time & shift pattern for the Honda 1992 NSX Type R (E.C. Level 35) (Purple Star) (T5 - P126)"
   },
   {
-    "ID": 386,
+    "ID": 387,
     "Date": "2024-03-23T23:00:00.000Z",
     "Output Vision": "Added WR time & shift pattern for the Rimac Nevera (Gold Star) (T5 - P23)"
   },
   {
-    "ID": 387,
+    "ID": 388,
     "Date": "2024-03-23T23:00:00.000Z",
     "Output Vision": "Added WR time & shift pattern for the Rimac Nevera Time Attack (Purple Star) (T5 - P11)"
   },
   {
-    "ID": 388,
+    "ID": 389,
     "Date": "2024-03-23T23:00:00.000Z",
     "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Aston Martin Vantage GTE (Purple Star) (T5 - P130)"
   },
   {
-    "ID": 389,
+    "ID": 390,
     "Date": "2024-03-23T23:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Audi RS 3 Sedan performance edition (Purple Star) (T3 - P1)"
   },
   {
-    "ID": 390,
+    "ID": 391,
     "Date": "2024-03-14T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & shift pattern for the Audi RS 3 Sedan performance edition (Purple Star) (T3 - P1)"
   },
   {
-    "ID": 391,
+    "ID": 392,
     "Date": "2024-03-14T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Audi RS 3 Sedan performance edition (Gold Star) (T3 - P2)"
   },
   {
-    "ID": 392,
+    "ID": 393,
     "Date": "2024-03-10T23:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Aston Martin Valour (Purple Star) (T5 - P14)"
   },
   {
-    "ID": 393,
+    "ID": 394,
     "Date": "2024-03-04T23:00:00.000Z",
     "Output Vision": "Updated WR time for the Aston Martin Valour (Purple Star) (T5 - P14)"
   },
   {
-    "ID": 394,
+    "ID": 395,
     "Date": "2024-03-02T23:00:00.000Z",
     "Output Vision": "Added WR time & driver for the Lotus Evija (Gold Star) (T5 - P91)"
   },
   {
-    "ID": 395,
+    "ID": 396,
     "Date": "2024-03-02T23:00:00.000Z",
     "Output Vision": "Added WR driver for the Lotus Evija (Purple Star) (T5 - P60)"
   },
   {
-    "ID": 396,
+    "ID": 397,
     "Date": "2024-03-02T23:00:00.000Z",
     "Output Vision": "Added WR time & driver for the Aston Martin DB12 (Purple Star) (T5 - P134)"
   },
   {
-    "ID": 397,
+    "ID": 398,
     "Date": "2024-02-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Aston Martin Valkyrie Spider (Purple Star) (T5 - P680)"
   },
   {
-    "ID": 398,
+    "ID": 399,
     "Date": "2024-02-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Audi R8 Coupe V10 GT RWD (Gold Star) (T5 - P385)"
   },
   {
-    "ID": 399,
+    "ID": 400,
     "Date": "2024-02-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Audi R8 Coupe V10 GT RWD (Purple Star) (T5 - P351)"
   },
   {
-    "ID": 400,
+    "ID": 401,
     "Date": "2024-02-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Chevrolet Rocket Bunny Camaro Z28 (Purple Star) (T5 - P191)"
   },
   {
-    "ID": 401,
+    "ID": 402,
     "Date": "2024-02-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Honda 1992 NSX Type R (E.C. Level 0) (Non Star) (T5 - P531)"
   },
   {
-    "ID": 402,
+    "ID": 403,
     "Date": "2024-02-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Honda 1992 NSX Type R (E.C. Level 35) (Purple Star) (T5 - P126)"
   },
   {
-    "ID": 403,
+    "ID": 404,
     "Date": "2024-02-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Mitsubishi Voltex Lancer Evolution IX (Gold Star) (T4 - P49)"
   },
   {
-    "ID": 404,
+    "ID": 405,
     "Date": "2024-02-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Mitsubishi Voltex Lancer Evolution IX (Purple Star) (T4 - P37)"
   },
   {
-    "ID": 405,
+    "ID": 406,
     "Date": "2024-02-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Pagani Utopia (Gold Star) (T5 - P59)"
   },
   {
-    "ID": 406,
+    "ID": 407,
     "Date": "2024-02-29T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Pagani Utopia 'Carbon Edition' (Purple Star) (T5 - P36)"
   },
   {
-    "ID": 407,
+    "ID": 408,
     "Date": "2024-02-29T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the BMW 2023 M2 Coupé ''M Performance'' (Purple Star) (T3 - P6)"
   },
   {
-    "ID": 408,
+    "ID": 409,
     "Date": "2024-02-25T23:00:00.000Z",
     "Output Vision": "Updated WR time & shift pattern for the Pininfarina Battista Anniversario (Purple Star) (T5 - P47)"
   },
   {
-    "ID": 409,
+    "ID": 410,
     "Date": "2024-02-25T23:00:00.000Z",
     "Output Vision": "Updated WR time & shift pattern for the Hyundai Elantra N (Purple Star) (T3 - P17)"
   },
   {
-    "ID": 410,
+    "ID": 411,
     "Date": "2024-02-25T23:00:00.000Z",
     "Output Vision": "Updated WR time & shift pattern for the Hyundai Elantra N (Gold Star) (T3 - P23)"
   },
   {
-    "ID": 411,
+    "ID": 412,
     "Date": "2024-02-25T23:00:00.000Z",
     "Output Vision": "Updated WR time & shift pattern for the Lotus Evija (Purple Star) (T5 - P60)"
   },
   {
-    "ID": 412,
+    "ID": 413,
     "Date": "2024-02-25T23:00:00.000Z",
     "Output Vision": "Updated WR time & shift pattern for the Lotus Evija (Gold Star) (T5 - P91)"
   },
   {
-    "ID": 413,
+    "ID": 414,
     "Date": "2024-02-22T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time & shift pattern for the Hyundai Elantra N (Purple Star) (T3 - P17)"
   },
   {
-    "ID": 414,
+    "ID": 415,
     "Date": "2024-02-22T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time & shift pattern for the Hyundai Elantra N (Gold Star) (T3 - P23)"
   },
   {
-    "ID": 415,
+    "ID": 416,
     "Date": "2024-02-21T23:00:00.000Z",
     "Output Vision": "Added WR time & shift pattern for the Maserati MC20 Cielo (Gold Star) (T5 - P263)"
   },
   {
-    "ID": 416,
+    "ID": 417,
     "Date": "2024-02-21T23:00:00.000Z",
     "Output Vision": "Updated WR time & shift pattern for the Aston Martin DB12 (Purple Star) (T5 - P134)"
   },
   {
-    "ID": 417,
+    "ID": 418,
     "Date": "2024-02-19T23:00:00.000Z",
     "Output Vision": "Added WR INFO & shift pattern for the Aston Martin Valour (Purple Star) (T5 - P14)"
   },
   {
-    "ID": 418,
+    "ID": 419,
     "Date": "2024-02-19T23:00:00.000Z",
     "Output Vision": "Added WR INFO & driver for the Ferrari Purosangue (Purple Star) (T4 - P46)"
   },
   {
-    "ID": 419,
+    "ID": 420,
     "Date": "2024-02-19T23:00:00.000Z",
     "Output Vision": "Added WR INFO & driver for the Ferrari Purosangue (Gold Star) (T4 - P53)"
   },
   {
-    "ID": 420,
+    "ID": 421,
     "Date": "2024-02-18T23:00:00.000Z",
     "Output Vision": "Updated WR tune for the Audi RS 3 Sedan performance edition (Purple Star) (T3 - P1)"
   },
   {
-    "ID": 421,
+    "ID": 422,
     "Date": "2024-02-18T23:00:00.000Z",
     "Output Vision": "Updated WR tune for the Audi RS 3 Sedan performance edition (Gold Star) (T3 - P2)"
   },
   {
-    "ID": 422,
+    "ID": 423,
     "Date": "2024-02-17T23:00:00.000Z",
     "Output Vision": "Added WR tune, time & shift pattern for the Aston Martin Valkyrie AMR Pro (Purple Star) (T5 - P29)"
   },
   {
-    "ID": 423,
+    "ID": 424,
     "Date": "2024-02-17T23:00:00.000Z",
     "Output Vision": "Updated WR tune for the Aston Martin Valkyrie AMR Pro (Purple Star) (T5 - P29)"
   },
   {
-    "ID": 424,
+    "ID": 425,
     "Date": "2024-02-17T23:00:00.000Z",
     "Output Vision": "Added WR time & shift pattern for the Aston Martin Vantage GTE (Purple Star) (T5 - P130)"
   },
   {
-    "ID": 425,
+    "ID": 426,
     "Date": "2024-02-17T23:00:00.000Z",
     "Output Vision": "Added WR time & shift pattern for the Aston Martin DB12 (Purple Star) (T5 - P134)"
   },
   {
-    "ID": 426,
+    "ID": 427,
     "Date": "2024-02-16T23:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Czinger 21C V Max (Purple Star) (T5 - P12)"
   },
   {
-    "ID": 427,
+    "ID": 428,
     "Date": "2024-02-16T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & driver for the Koenigsegg CC850 (Purple Star) (T5 - P27)"
   },
   {
-    "ID": 428,
+    "ID": 429,
     "Date": "2024-02-15T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Aston Martin Vantage (E.C. Level 50) (Gold Star) (T4 - P100)"
   },
   {
-    "ID": 429,
+    "ID": 430,
     "Date": "2024-02-12T23:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Aston Martin Vantage (E.C. Level 50) (Gold Star) (T4 - P100)"
   },
   {
-    "ID": 430,
+    "ID": 431,
     "Date": "2024-02-12T23:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Maserati MC20 Cielo (Purple Star) (T5 - P241)"
   },
   {
-    "ID": 431,
+    "ID": 432,
     "Date": "2024-02-10T23:00:00.000Z",
     "Output Vision": "Updated WR time & shift pattern for the Ferrari Purosangue (Gold Star) (T4 - P53)"
   },
   {
-    "ID": 432,
+    "ID": 433,
     "Date": "2024-02-10T23:00:00.000Z",
     "Output Vision": "Updated WR time & driver for the Aston Martin DB12 (Purple Star) (T5 - P134)"
   },
   {
-    "ID": 433,
+    "ID": 434,
     "Date": "2024-02-09T23:00:00.000Z",
     "Output Vision": "Added WR tune, time, INFO, shift pattern, driver & S6 effects for the Aston Martin DB12 (Purple Star) (T5 - P134)"
   },
   {
-    "ID": 434,
+    "ID": 435,
     "Date": "2024-02-09T23:00:00.000Z",
     "Output Vision": "Added WR tune, time, INFO, shift pattern, driver & S6 effects for the Aston Martin Valkyrie AMR Pro (Purple Star) (T5 - P29)"
   },
   {
-    "ID": 435,
+    "ID": 436,
     "Date": "2024-02-09T23:00:00.000Z",
     "Output Vision": "Added WR tune, time, INFO, shift pattern, driver & S6 effects for the Aston Martin Valour (Purple Star) (T5 - P14)"
   },
   {
-    "ID": 436,
+    "ID": 437,
     "Date": "2024-02-09T23:00:00.000Z",
     "Output Vision": "Added WR tune, time, INFO, shift pattern, driver & S6 effects for the Aston Martin Vantage GTE (Purple Star) (T5 - P130)"
   },
   {
-    "ID": 437,
+    "ID": 438,
     "Date": "2024-02-09T23:00:00.000Z",
     "Output Vision": "Added WR tune, time, INFO, shift pattern, driver & S6 effects for the Audi RS 3 Sedan performance edition (Gold Star) (T3 - P2)"
   },
   {
-    "ID": 438,
+    "ID": 439,
     "Date": "2024-02-09T23:00:00.000Z",
     "Output Vision": "Added WR tune, time, INFO, shift pattern, driver & S6 effects for the Audi RS 3 Sedan performance edition (Purple Star) (T3 - P1)"
   },
   {
-    "ID": 439,
+    "ID": 440,
     "Date": "2024-02-09T23:00:00.000Z",
     "Output Vision": "Added WR tune, time, INFO, shift pattern, driver & S6 effects for the Rimac Nevera (Gold Star) (T5 - P23)"
   },
   {
-    "ID": 440,
+    "ID": 441,
     "Date": "2024-02-09T23:00:00.000Z",
     "Output Vision": "Added WR tune, time, INFO, shift pattern, driver & S6 effects for the Rimac Nevera Time Attack (Purple Star) (T5 - P11)"
   },
   {
-    "ID": 441,
+    "ID": 442,
     "Date": "2024-02-03T23:00:00.000Z",
     "Output Vision": "Updated WR shift pattern for the McLaren 720S (E.C. Level 35) (Purple Star) (T5 - P53)"
   },
   {
-    "ID": 442,
+    "ID": 443,
     "Date": "2024-02-03T23:00:00.000Z",
     "Output Vision": "Updated WR shift pattern for the Porsche 911 Speedster ''Heritage Design Package'' (Purple Star) (T5 - P534)"
   },
   {
-    "ID": 443,
+    "ID": 444,
     "Date": "2024-02-03T23:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Lamborghini Invencible (Purple Star) (T5 - P73)"
   },
   {
-    "ID": 444,
+    "ID": 445,
     "Date": "2024-02-01T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & driver for the Porsche 911 Speedster ''Heritage Design Package'' (Purple Star) (T5 - P534)"
   },
   {
-    "ID": 445,
+    "ID": 446,
     "Date": "2024-01-31T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & driver for the Volkswagen Electric R (Purple Star) (T5 - P16)"
   },
   {
-    "ID": 446,
+    "ID": 447,
     "Date": "2024-01-31T23:00:00.000Z",
     "Output Vision": "Updated WR time & INFO for the Porsche 911 Speedster (Gold Star) (T5 - P558)"
   },
   {
-    "ID": 447,
+    "ID": 448,
     "Date": "2024-01-26T23:00:00.000Z",
     "Output Vision": "Updated S6 effects for the Apollo Intensa Emozione 'Orange Dragon' (Purple Star) (T5 - P280)"
   },
   {
-    "ID": 448,
+    "ID": 449,
     "Date": "2024-01-26T23:00:00.000Z",
     "Output Vision": "Updated S6 effects for the Chevrolet Hoonigan Caprice 'DONK' (Purple Star) (T5 - P186)"
   },
   {
-    "ID": 449,
+    "ID": 450,
     "Date": "2024-01-26T23:00:00.000Z",
     "Output Vision": "Updated S6 effects for the Czinger 21C V Max (Purple Star) (T5 - P12)"
   },
   {
-    "ID": 450,
+    "ID": 451,
     "Date": "2024-01-26T23:00:00.000Z",
     "Output Vision": "Updated S6 effects for the Koenigsegg CC850 (Purple Star) (T5 - P27)"
   },
   {
-    "ID": 451,
+    "ID": 452,
     "Date": "2024-01-26T23:00:00.000Z",
     "Output Vision": "Updated S6 effects for the Lamborghini Invencible (Purple Star) (T5 - P73)"
   },
   {
-    "ID": 452,
+    "ID": 453,
     "Date": "2024-01-26T23:00:00.000Z",
     "Output Vision": "Updated S6 effects for the Lotus Evija (Gold Star) (T5 - P91)"
   },
   {
-    "ID": 453,
+    "ID": 454,
     "Date": "2024-01-26T23:00:00.000Z",
     "Output Vision": "Updated S6 effects for the Lotus Evija (Purple Star) (T5 - P60)"
   },
   {
-    "ID": 454,
+    "ID": 455,
     "Date": "2024-01-26T23:00:00.000Z",
     "Output Vision": "Updated S6 effects for the Maserati MC20 Cielo (Gold Star) (T5 - P263)"
   },
   {
-    "ID": 455,
+    "ID": 456,
     "Date": "2024-01-26T23:00:00.000Z",
     "Output Vision": "Updated S6 effects for the Maserati MC20 Cielo (Purple Star) (T5 - P241)"
   },
   {
-    "ID": 456,
+    "ID": 457,
     "Date": "2024-01-26T23:00:00.000Z",
     "Output Vision": "Updated S6 effects for the Porsche 911 Speedster ''Heritage Design Package'' (Purple Star) (T5 - P534)"
   },
   {
-    "ID": 457,
+    "ID": 458,
     "Date": "2024-01-26T23:00:00.000Z",
     "Output Vision": "Updated WR shift pattern for the Porsche 911 Speedster (Gold Star) (T5 - P558)"
   },
   {
-    "ID": 458,
+    "ID": 459,
     "Date": "2024-01-24T23:00:00.000Z",
     "Output Vision": "Updated WR shift pattern for the Chevrolet Greening Auto Company Camaro IROC Z28 (Purple Star) (T5 - P42)"
   },
   {
-    "ID": 459,
+    "ID": 460,
     "Date": "2024-01-24T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & driver for the Lamborghini Veneno (Gold Star) (T5 - P297)"
   },
   {
-    "ID": 460,
+    "ID": 461,
     "Date": "2024-01-24T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & driver for the Ferrari LaFerrari Aperta ''70th Anniversary'' (Purple Star) (T5 - P362)"
   },
   {
-    "ID": 461,
+    "ID": 462,
     "Date": "2024-01-22T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & driver for the Porsche 911 Speedster (Gold Star) (T5 - P558)"
   },
   {
-    "ID": 462,
+    "ID": 463,
     "Date": "2024-01-22T23:00:00.000Z",
     "Output Vision": "Updated WR driver for the Lamborghini Revuelto (Purple Star) (T5 - P61)"
   },
   {
-    "ID": 463,
+    "ID": 464,
     "Date": "2024-01-22T23:00:00.000Z",
     "Output Vision": "Updated WR shift pattern for the Porsche 911 Speedster ''Heritage Design Package'' (Purple Star) (T5 - P534)"
   },
   {
-    "ID": 464,
-    "Date": "2024-01-22T23:00:00.000Z",
-    "Output Vision": "Updated WR INFO & driver for the Lamborghini Revuelto (Gold Star) (T5 - P89)"
-  },
-  {
     "ID": 465,
     "Date": "2024-01-22T23:00:00.000Z",
-    "Output Vision": "Updated WR INFO & driver for the Chevrolet Greening Auto Company Camaro IROC Z28 (Purple Star) (T5 - P42)"
+    "Output Vision": "Updated WR INFO & driver for the Lamborghini Revuelto (Gold Star) (T5 - P89)"
   },
   {
     "ID": 466,
     "Date": "2024-01-22T23:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO & driver for the McLaren 720S (E.C. Level 0) (Non Star) (T5 - P492)"
+    "Output Vision": "Updated WR INFO & driver for the Chevrolet Greening Auto Company Camaro IROC Z28 (Purple Star) (T5 - P42)"
   },
   {
     "ID": 467,
     "Date": "2024-01-22T23:00:00.000Z",
-    "Output Vision": "Updated WR tune, INFO & driver for the Chevrolet Hoonigan Napalm Nova (Purple Star) (T5 - P7)"
+    "Output Vision": "Updated WR tune, time, INFO & driver for the McLaren 720S (E.C. Level 0) (Non Star) (T5 - P492)"
   },
   {
     "ID": 468,
     "Date": "2024-01-22T23:00:00.000Z",
-    "Output Vision": "Updated WR INFO & driver for the Porsche Hoonigan RWB 911 Turbo (Purple Star) (T5 - P220)"
+    "Output Vision": "Updated WR tune, INFO & driver for the Chevrolet Hoonigan Napalm Nova (Purple Star) (T5 - P7)"
   },
   {
     "ID": 469,
     "Date": "2024-01-22T23:00:00.000Z",
-    "Output Vision": "Updated WR INFO & driver for the Koenigsegg Agera RS (Purple Star) (T5 - P308)"
+    "Output Vision": "Updated WR INFO & driver for the Porsche Hoonigan RWB 911 Turbo (Purple Star) (T5 - P220)"
   },
   {
     "ID": 470,
-    "Date": "2024-01-21T23:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO & driver for the Porsche 911 Speedster ''Heritage Design Package'' (Purple Star) (T5 - P534)"
+    "Date": "2024-01-22T23:00:00.000Z",
+    "Output Vision": "Updated WR INFO & driver for the Koenigsegg Agera RS (Purple Star) (T5 - P308)"
   },
   {
     "ID": 471,
     "Date": "2024-01-21T23:00:00.000Z",
-    "Output Vision": "Added WR time, INFO & driver for the Pininfarina Battista (Gold Star) (T5 - P66)"
+    "Output Vision": "Updated WR tune, time, INFO & driver for the Porsche 911 Speedster ''Heritage Design Package'' (Purple Star) (T5 - P534)"
   },
   {
     "ID": 472,
+    "Date": "2024-01-21T23:00:00.000Z",
+    "Output Vision": "Added WR time, INFO & driver for the Pininfarina Battista (Gold Star) (T5 - P66)"
+  },
+  {
+    "ID": 473,
     "Date": "2024-01-20T23:00:00.000Z",
     "Output Vision": "Added WR INFO & driver for the Chevrolet Hoonigan Caprice 'DONK' (Purple Star) (T5 - P186)"
   },
   {
-    "ID": 473,
+    "ID": 474,
     "Date": "2024-01-19T23:00:00.000Z",
     "Output Vision": "Added WR time & shift pattern for the Ferrari Purosangue (Purple Star) (T4 - P46)"
   },
   {
-    "ID": 474,
+    "ID": 475,
     "Date": "2024-01-19T23:00:00.000Z",
     "Output Vision": "Added WR time & shift pattern for the Ferrari Purosangue (Gold Star) (T4 - P53)"
   },
   {
-    "ID": 475,
+    "ID": 476,
     "Date": "2024-01-19T23:00:00.000Z",
     "Output Vision": "Added WR time & shift pattern for the Koenigsegg CC850 (Purple Star) (T5 - P27)"
   },
   {
-    "ID": 476,
+    "ID": 477,
     "Date": "2024-01-19T23:00:00.000Z",
     "Output Vision": "Added WR time & shift pattern for the Lamborghini Invencible (Purple Star) (T5 - P73)"
   },
   {
-    "ID": 477,
+    "ID": 478,
     "Date": "2024-01-15T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time & shift pattern for the Chevrolet Hoonigan Napalm Nova (Purple Star) (T5 - P7)"
   },
   {
-    "ID": 478,
+    "ID": 479,
     "Date": "2024-01-15T23:00:00.000Z",
     "Output Vision": "Added WR tune & time for the Lotus Evija (Purple Star) (T5 - P60)"
   },
   {
-    "ID": 479,
+    "ID": 480,
     "Date": "2024-01-15T23:00:00.000Z",
     "Output Vision": "Added WR tune & time for the Lotus Evija (Gold Star) (T5 - P91)"
   },
   {
-    "ID": 480,
+    "ID": 481,
     "Date": "2024-01-15T23:00:00.000Z",
     "Output Vision": "Added WR tune & time for the Maserati MC20 Cielo (Purple Star) (T5 - P241)"
   },
   {
-    "ID": 481,
+    "ID": 482,
     "Date": "2024-01-15T23:00:00.000Z",
     "Output Vision": "Added WR tune & time for the Maserati MC20 Cielo (Gold Star) (T5 - P263)"
   },
   {
-    "ID": 482,
+    "ID": 483,
     "Date": "2024-01-15T23:00:00.000Z",
     "Output Vision": "Added WR tune, time & shift pattern for the Czinger 21C V Max (Purple Star) (T5 - P12)"
   },
   {
-    "ID": 483,
+    "ID": 484,
     "Date": "2024-01-15T23:00:00.000Z",
     "Output Vision": "Added WR tune & time for the Lamborghini Invencible (Purple Star) (T5 - P73)"
   },
   {
-    "ID": 484,
+    "ID": 485,
     "Date": "2024-01-15T23:00:00.000Z",
     "Output Vision": "Added WR tune & time for the Koenigsegg CC850 (Purple Star) (T5 - P27)"
   },
   {
-    "ID": 485,
+    "ID": 486,
     "Date": "2024-01-15T23:00:00.000Z",
     "Output Vision": "Added WR tune, time & shift pattern for the Apollo Intensa Emozione 'Orange Dragon' (Purple Star) (T5 - P280)"
   },
   {
-    "ID": 486,
+    "ID": 487,
     "Date": "2024-01-15T23:00:00.000Z",
     "Output Vision": "Added WR tune, time & shift pattern for the Chevrolet Hoonigan Caprice 'DONK' (Purple Star) (T5 - P186)"
   },
   {
-    "ID": 487,
+    "ID": 488,
     "Date": "2024-01-12T23:00:00.000Z",
     "Output Vision": "Updated WR time & driver for the Chevrolet Corvette ZR1 (Gold Star) (T5 - P485)"
   },
   {
-    "ID": 488,
+    "ID": 489,
     "Date": "2024-01-12T23:00:00.000Z",
     "Output Vision": "Updated WR time & driver for the McLaren 570S (Gold Star) (T5 - P661)"
   },
   {
-    "ID": 489,
+    "ID": 490,
     "Date": "2024-01-07T23:00:00.000Z",
     "Output Vision": "Updated WR driver for the Honda Hoonigan Indy Truck (Purple Star) (T5 - P1)"
   },
   {
-    "ID": 490,
+    "ID": 491,
     "Date": "2024-01-06T23:00:00.000Z",
     "Output Vision": "Updated WR time & shift pattern for the Chevrolet Hoonigan Camaro '632' (Purple Star) (T5 - P83)"
   },
   {
-    "ID": 491,
+    "ID": 492,
     "Date": "2024-01-06T23:00:00.000Z",
     "Output Vision": "Updated WR time & shift pattern for the Mazda LB Silhouette RX-7 (Purple Star) (T5 - P425)"
   },
   {
-    "ID": 492,
+    "ID": 493,
     "Date": "2023-12-29T23:00:00.000Z",
     "Output Vision": "Updated WR INFO & driver for the McLaren Liberty Walk 650S (Gold Star) (T5 - P607)"
   },
   {
-    "ID": 493,
+    "ID": 494,
     "Date": "2023-12-29T23:00:00.000Z",
     "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Honda Hoonigan Indy Truck (Purple Star) (T5 - P1)"
   },
   {
-    "ID": 494,
+    "ID": 495,
     "Date": "2023-12-29T23:00:00.000Z",
     "Output Vision": "Updated WR INFO & driver for the Lamborghini Revuelto (Gold Star) (T5 - P89)"
   },
   {
-    "ID": 495,
+    "ID": 496,
     "Date": "2023-12-29T23:00:00.000Z",
     "Output Vision": "Updated WR INFO & driver for the Lamborghini Revuelto (Purple Star) (T5 - P61)"
   },
   {
-    "ID": 496,
+    "ID": 497,
     "Date": "2023-12-25T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time & shift pattern for the Porsche Hoonigan RWB 911 Turbo (Purple Star) (T5 - P220)"
   },
   {
-    "ID": 497,
+    "ID": 498,
     "Date": "2023-12-25T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time & shift pattern for the Mazda LB Silhouette RX-7 (Purple Star) (T5 - P425)"
   },
   {
-    "ID": 498,
-    "Date": "2023-12-25T23:00:00.000Z",
-    "Output Vision": "Updated WR time & shift pattern for the Lamborghini Revuelto (Purple Star) (T5 - P61)"
-  },
-  {
     "ID": 499,
     "Date": "2023-12-25T23:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the McLaren Liberty Walk 650S (Purple Star) (T5 - P598)"
+    "Output Vision": "Updated WR time & shift pattern for the Lamborghini Revuelto (Purple Star) (T5 - P61)"
   },
   {
     "ID": 500,
     "Date": "2023-12-25T23:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO & shift pattern for the Nissan KRC Japan GT-R (R35) (Purple Star) (T5 - P182)"
+    "Output Vision": "Updated WR time, INFO & driver for the McLaren Liberty Walk 650S (Purple Star) (T5 - P598)"
   },
   {
     "ID": 501,
-    "Date": "2023-12-21T23:00:00.000Z",
-    "Output Vision": "Updated WR time, shift pattern & driver for the Audi RS e-tron GT (Purple Star) (T5 - P368)"
+    "Date": "2023-12-25T23:00:00.000Z",
+    "Output Vision": "Updated WR tune, time, INFO & shift pattern for the Nissan KRC Japan GT-R (R35) (Purple Star) (T5 - P182)"
   },
   {
     "ID": 502,
     "Date": "2023-12-21T23:00:00.000Z",
-    "Output Vision": "Updated WR tune, time & shift pattern for the McLaren 720S (E.C. Level 0) (Non Star) (T5 - P492)"
+    "Output Vision": "Updated WR time, shift pattern & driver for the Audi RS e-tron GT (Purple Star) (T5 - P368)"
   },
   {
     "ID": 503,
     "Date": "2023-12-21T23:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the McLaren 720S (E.C. Level 35) (Purple Star) (T5 - P53)"
+    "Output Vision": "Updated WR tune, time & shift pattern for the McLaren 720S (E.C. Level 0) (Non Star) (T5 - P492)"
   },
   {
     "ID": 504,
-    "Date": "2023-12-18T23:00:00.000Z",
-    "Output Vision": "Updated WR INFO, shift pattern & driver for the Porsche 718 Spyder RS (Purple Star) (T5 - P325)"
+    "Date": "2023-12-21T23:00:00.000Z",
+    "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the McLaren 720S (E.C. Level 35) (Purple Star) (T5 - P53)"
   },
   {
     "ID": 505,
     "Date": "2023-12-18T23:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Ferrari Purosangue (Gold Star) (T4 - P53)"
+    "Output Vision": "Updated WR INFO, shift pattern & driver for the Porsche 718 Spyder RS (Purple Star) (T5 - P325)"
   },
   {
     "ID": 506,
     "Date": "2023-12-18T23:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Ferrari Purosangue (Purple Star) (T4 - P46)"
+    "Output Vision": "Added S6 effects for the Ferrari Purosangue (Gold Star) (T4 - P53)"
   },
   {
     "ID": 507,
-    "Date": "2023-12-17T23:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the Chevrolet Ringbrothers Loadmaster 'ENYO' (Purple Star) (T5 - P4)"
+    "Date": "2023-12-18T23:00:00.000Z",
+    "Output Vision": "Added S6 effects for the Ferrari Purosangue (Purple Star) (T4 - P46)"
   },
   {
     "ID": 508,
     "Date": "2023-12-17T23:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Chevrolet Hoonigan Camaro '632' (Purple Star) (T5 - P83)"
+    "Output Vision": "Updated WR shift pattern for the Chevrolet Ringbrothers Loadmaster 'ENYO' (Purple Star) (T5 - P4)"
   },
   {
     "ID": 509,
     "Date": "2023-12-17T23:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Chevrolet Hoonigan Napalm Nova (Purple Star) (T5 - P7)"
+    "Output Vision": "Added S6 effects for the Chevrolet Hoonigan Camaro '632' (Purple Star) (T5 - P83)"
   },
   {
     "ID": 510,
     "Date": "2023-12-17T23:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Mazda LB Silhouette RX-7 (Purple Star) (T5 - P425)"
+    "Output Vision": "Added S6 effects for the Chevrolet Hoonigan Napalm Nova (Purple Star) (T5 - P7)"
   },
   {
     "ID": 511,
     "Date": "2023-12-17T23:00:00.000Z",
-    "Output Vision": "Added S6 effects for the McLaren 720S (E.C. Level 0) (Non Star) (T5 - P492)"
+    "Output Vision": "Added S6 effects for the Mazda LB Silhouette RX-7 (Purple Star) (T5 - P425)"
   },
   {
     "ID": 512,
     "Date": "2023-12-17T23:00:00.000Z",
-    "Output Vision": "Added S6 effects for the McLaren 720S (E.C. Level 35) (Purple Star) (T5 - P53)"
+    "Output Vision": "Added S6 effects for the McLaren 720S (E.C. Level 0) (Non Star) (T5 - P492)"
   },
   {
     "ID": 513,
-    "Date": "2023-12-13T23:00:00.000Z",
-    "Output Vision": "Updated WR time & shift pattern for the Chevrolet Hoonigan Napalm Nova (Purple Star) (T5 - P7)"
+    "Date": "2023-12-17T23:00:00.000Z",
+    "Output Vision": "Added S6 effects for the McLaren 720S (E.C. Level 35) (Purple Star) (T5 - P53)"
   },
   {
     "ID": 514,
     "Date": "2023-12-13T23:00:00.000Z",
-    "Output Vision": "Updated WR time & shift pattern for the Honda Hoonigan Indy Truck (Purple Star) (T5 - P1)"
+    "Output Vision": "Updated WR time & shift pattern for the Chevrolet Hoonigan Napalm Nova (Purple Star) (T5 - P7)"
   },
   {
     "ID": 515,
     "Date": "2023-12-13T23:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Porsche Hoonigan RWB 911 Turbo (Purple Star) (T5 - P220)"
+    "Output Vision": "Updated WR time & shift pattern for the Honda Hoonigan Indy Truck (Purple Star) (T5 - P1)"
   },
   {
     "ID": 516,
     "Date": "2023-12-13T23:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Pininfarina Battista (Gold Star) (T5 - P66)"
+    "Output Vision": "Updated S6 effects for the Porsche Hoonigan RWB 911 Turbo (Purple Star) (T5 - P220)"
   },
   {
     "ID": 517,
     "Date": "2023-12-13T23:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Pininfarina Battista Anniversario (Purple Star) (T5 - P47)"
+    "Output Vision": "Updated S6 effects for the Pininfarina Battista (Gold Star) (T5 - P66)"
   },
   {
     "ID": 518,
     "Date": "2023-12-13T23:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Honda Hoonigan Indy Truck (Purple Star) (T5 - P1)"
+    "Output Vision": "Updated S6 effects for the Pininfarina Battista Anniversario (Purple Star) (T5 - P47)"
   },
   {
     "ID": 519,
-    "Date": "2023-12-12T23:00:00.000Z",
-    "Output Vision": "Updated WR time & driver for the Audi RS e-tron GT (Purple Star) (T5 - P368)"
+    "Date": "2023-12-13T23:00:00.000Z",
+    "Output Vision": "Updated S6 effects for the Honda Hoonigan Indy Truck (Purple Star) (T5 - P1)"
   },
   {
     "ID": 520,
     "Date": "2023-12-12T23:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the Ford Weaver Customs Mustang Fastback 'Shotgun' (Purple Star) (T5 - P81)"
+    "Output Vision": "Updated WR time & driver for the Audi RS e-tron GT (Purple Star) (T5 - P368)"
   },
   {
     "ID": 521,
     "Date": "2023-12-12T23:00:00.000Z",
-    "Output Vision": "Updated WR time & shift pattern for the McLaren 720S (E.C. Level 35) (Purple Star) (T5 - P53)"
+    "Output Vision": "Updated WR shift pattern for the Ford Weaver Customs Mustang Fastback 'Shotgun' (Purple Star) (T5 - P81)"
   },
   {
     "ID": 522,
     "Date": "2023-12-12T23:00:00.000Z",
-    "Output Vision": "Updated WR time & shift pattern for the Lamborghini Revuelto (Gold Star) (T5 - P89)"
+    "Output Vision": "Updated WR time & shift pattern for the McLaren 720S (E.C. Level 35) (Purple Star) (T5 - P53)"
   },
   {
     "ID": 523,
     "Date": "2023-12-12T23:00:00.000Z",
-    "Output Vision": "Updated WR time & shift pattern for the Lamborghini Revuelto (Purple Star) (T5 - P61)"
+    "Output Vision": "Updated WR time & shift pattern for the Lamborghini Revuelto (Gold Star) (T5 - P89)"
   },
   {
     "ID": 524,
     "Date": "2023-12-12T23:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the Porsche 718 Spyder RS (Gold Star) (T5 - P347)"
+    "Output Vision": "Updated WR time & shift pattern for the Lamborghini Revuelto (Purple Star) (T5 - P61)"
   },
   {
     "ID": 525,
     "Date": "2023-12-12T23:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the Koenigsegg Agera RS (Purple Star) (T5 - P308)"
+    "Output Vision": "Updated WR shift pattern for the Porsche 718 Spyder RS (Gold Star) (T5 - P347)"
   },
   {
     "ID": 526,
     "Date": "2023-12-12T23:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Koenigsegg Agera RS (Gold Star) (T5 - P337)"
+    "Output Vision": "Updated WR shift pattern for the Koenigsegg Agera RS (Purple Star) (T5 - P308)"
   },
   {
     "ID": 527,
-    "Date": "2023-12-10T23:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO & driver for the Koenigsegg Agera RS (Purple Star) (T5 - P308)"
+    "Date": "2023-12-12T23:00:00.000Z",
+    "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Koenigsegg Agera RS (Gold Star) (T5 - P337)"
   },
   {
     "ID": 528,
     "Date": "2023-12-10T23:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Chevrolet Ringbrothers Chevelle 'Recoil' (Purple Star) (T5 - P18)"
+    "Output Vision": "Updated WR tune, time, INFO & driver for the Koenigsegg Agera RS (Purple Star) (T5 - P308)"
   },
   {
     "ID": 529,
     "Date": "2023-12-10T23:00:00.000Z",
-    "Output Vision": "Added WR tune for the Porsche Hoonigan RWB 911 Turbo (Purple Star) (T5 - P220)"
+    "Output Vision": "Updated WR time, INFO & driver for the Chevrolet Ringbrothers Chevelle 'Recoil' (Purple Star) (T5 - P18)"
   },
   {
     "ID": 530,
     "Date": "2023-12-10T23:00:00.000Z",
-    "Output Vision": "Added WR tune for the Pininfarina Battista Anniversario (Purple Star) (T5 - P47)"
+    "Output Vision": "Added WR tune for the Porsche Hoonigan RWB 911 Turbo (Purple Star) (T5 - P220)"
   },
   {
     "ID": 531,
     "Date": "2023-12-10T23:00:00.000Z",
-    "Output Vision": "Added WR tune for the Pininfarina Battista (Gold Star) (T5 - P66)"
+    "Output Vision": "Added WR tune for the Pininfarina Battista Anniversario (Purple Star) (T5 - P47)"
   },
   {
     "ID": 532,
     "Date": "2023-12-10T23:00:00.000Z",
-    "Output Vision": "Added WR tune for the McLaren 720S (E.C. Level 35) (Purple Star) (T5 - P53)"
+    "Output Vision": "Added WR tune for the Pininfarina Battista (Gold Star) (T5 - P66)"
   },
   {
     "ID": 533,
     "Date": "2023-12-10T23:00:00.000Z",
-    "Output Vision": "Added WR tune for the McLaren 720S (E.C. Level 0) (Non Star) (T5 - P492)"
+    "Output Vision": "Added WR tune for the McLaren 720S (E.C. Level 35) (Purple Star) (T5 - P53)"
   },
   {
     "ID": 534,
     "Date": "2023-12-10T23:00:00.000Z",
-    "Output Vision": "Added WR tune for the Mazda LB Silhouette RX-7 (Purple Star) (T5 - P425)"
+    "Output Vision": "Added WR tune for the McLaren 720S (E.C. Level 0) (Non Star) (T5 - P492)"
   },
   {
     "ID": 535,
     "Date": "2023-12-10T23:00:00.000Z",
-    "Output Vision": "Added WR tune for the Honda Hoonigan Indy Truck (Purple Star) (T5 - P1)"
+    "Output Vision": "Added WR tune for the Mazda LB Silhouette RX-7 (Purple Star) (T5 - P425)"
   },
   {
     "ID": 536,
     "Date": "2023-12-10T23:00:00.000Z",
-    "Output Vision": "Added WR tune for the Chevrolet Hoonigan Napalm Nova (Purple Star) (T5 - P7)"
+    "Output Vision": "Added WR tune for the Honda Hoonigan Indy Truck (Purple Star) (T5 - P1)"
   },
   {
     "ID": 537,
     "Date": "2023-12-10T23:00:00.000Z",
-    "Output Vision": "Added WR tune for the Chevrolet Hoonigan Camaro '632' (Purple Star) (T5 - P83)"
+    "Output Vision": "Added WR tune for the Chevrolet Hoonigan Napalm Nova (Purple Star) (T5 - P7)"
   },
   {
     "ID": 538,
     "Date": "2023-12-10T23:00:00.000Z",
-    "Output Vision": "Added WR tune for the Ferrari Purosangue (Purple Star) (T4 - P46)"
+    "Output Vision": "Added WR tune for the Chevrolet Hoonigan Camaro '632' (Purple Star) (T5 - P83)"
   },
   {
     "ID": 539,
     "Date": "2023-12-10T23:00:00.000Z",
-    "Output Vision": "Added WR tune for the Ferrari Purosangue (Gold Star) (T4 - P53)"
+    "Output Vision": "Added WR tune for the Ferrari Purosangue (Purple Star) (T4 - P46)"
   },
   {
     "ID": 540,
-    "Date": "2023-12-09T23:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the Porsche 718 Spyder RS (Gold Star) (T5 - P347)"
+    "Date": "2023-12-10T23:00:00.000Z",
+    "Output Vision": "Added WR tune for the Ferrari Purosangue (Gold Star) (T4 - P53)"
   },
   {
     "ID": 541,
     "Date": "2023-12-09T23:00:00.000Z",
-    "Output Vision": "Added WR tune, time & shift pattern for the Porsche 718 Spyder RS (Purple Star) (T5 - P325)"
+    "Output Vision": "Added WR time & shift pattern for the Porsche 718 Spyder RS (Gold Star) (T5 - P347)"
   },
   {
     "ID": 542,
     "Date": "2023-12-09T23:00:00.000Z",
-    "Output Vision": "Updated WR INFO, shift pattern & driver for the Ford Weaver Customs Mustang Fastback 'Shotgun' (Purple Star) (T5 - P81)"
+    "Output Vision": "Added WR tune, time & shift pattern for the Porsche 718 Spyder RS (Purple Star) (T5 - P325)"
   },
   {
     "ID": 543,
     "Date": "2023-12-09T23:00:00.000Z",
-    "Output Vision": "Updated WR INFO, shift pattern & driver for the Lamborghini Lanzador Concept (Gold Star) (T5 - P311)"
+    "Output Vision": "Updated WR INFO, shift pattern & driver for the Ford Weaver Customs Mustang Fastback 'Shotgun' (Purple Star) (T5 - P81)"
   },
   {
     "ID": 544,
-    "Date": "2023-12-06T23:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Lamborghini Lanzador Concept (Purple Star) (T5 - P287)"
+    "Date": "2023-12-09T23:00:00.000Z",
+    "Output Vision": "Updated WR INFO, shift pattern & driver for the Lamborghini Lanzador Concept (Gold Star) (T5 - P311)"
   },
   {
     "ID": 545,
     "Date": "2023-12-06T23:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Chevrolet Ringbrothers Loadmaster 'ENYO' (Purple Star) (T5 - P4)"
+    "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Lamborghini Lanzador Concept (Purple Star) (T5 - P287)"
   },
   {
     "ID": 546,
+    "Date": "2023-12-06T23:00:00.000Z",
+    "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Chevrolet Ringbrothers Loadmaster 'ENYO' (Purple Star) (T5 - P4)"
+  },
+  {
+    "ID": 547,
     "Date": "2023-12-03T23:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Ford Mustang Dark Horse (Purple Star) (T4 - P1)"
   },
   {
-    "ID": 547,
+    "ID": 548,
     "Date": "2023-11-30T23:00:00.000Z",
     "Output Vision": "Updated WR INFO & driver for the Ferrari 296 GTS (Gold Star) (T5 - P279)"
   },
   {
-    "ID": 548,
+    "ID": 549,
     "Date": "2023-11-25T23:00:00.000Z",
     "Output Vision": "Updated WR time for the Chevrolet Ringbrothers Chevelle 'Recoil' (Purple Star) (T5 - P18)"
   },
   {
-    "ID": 549,
+    "ID": 550,
     "Date": "2023-11-25T23:00:00.000Z",
     "Output Vision": "Added WR time & shift pattern for the Lamborghini Lanzador Concept (Gold Star) (T5 - P311)"
   },
   {
-    "ID": 550,
+    "ID": 551,
     "Date": "2023-11-24T23:00:00.000Z",
     "Output Vision": "Added WR time, INFO, shift pattern & driver for the Lamborghini Lanzador Concept (Purple Star) (T5 - P287)"
   },
   {
-    "ID": 551,
+    "ID": 552,
     "Date": "2023-11-21T23:00:00.000Z",
     "Output Vision": "Updated S6 effects for the Nissan Silvia Spec R (S15) (E.C. Level 35) (Purple Star) (T5 - P51)"
   },
   {
-    "ID": 552,
+    "ID": 553,
     "Date": "2023-11-18T23:00:00.000Z",
     "Output Vision": "Updated WR tune, INFO, shift pattern & driver for the Plymouth HEMI®️ 'Cuda (E.C. Level 50) (Gold Star) (T4 - P44)"
   },
   {
-    "ID": 553,
+    "ID": 554,
     "Date": "2023-11-14T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time & shift pattern for the Plymouth HEMI®️ 'Cuda (E.C. Level 50) (Gold Star) (T4 - P44)"
   },
   {
-    "ID": 554,
+    "ID": 555,
     "Date": "2023-11-14T23:00:00.000Z",
     "Output Vision": "Added WR time & shift pattern for the Ferrari 296 GTS (Gold Star) (T5 - P279)"
   },
   {
-    "ID": 555,
+    "ID": 556,
     "Date": "2023-11-14T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time & INFO for the Bugatti Atlantic Concept (ESS) (Purple Star) (T5 - P188)"
   },
   {
-    "ID": 556,
+    "ID": 557,
     "Date": "2023-11-11T23:00:00.000Z",
     "Output Vision": "Updated WR tune, time & INFO for the Acura 2022 NSX Type S (Purple Star) (T5 - P439)"
   },
   {
-    "ID": 557,
+    "ID": 558,
     "Date": "2023-11-11T23:00:00.000Z",
     "Output Vision": "Updated S6 effects for the Ultima RS (Purple Star) (T5 - P139)"
   },
   {
-    "ID": 558,
+    "ID": 559,
     "Date": "2023-11-11T23:00:00.000Z",
     "Output Vision": "Updated S6 effects for the Ultima RS (Gold Star) (T5 - P172)"
   },
   {
-    "ID": 559,
+    "ID": 560,
     "Date": "2023-11-11T23:00:00.000Z",
     "Output Vision": "Updated S6 effects for the Volkswagen Electric R (Purple Star) (T5 - P16)"
   },
   {
-    "ID": 560,
+    "ID": 561,
     "Date": "2023-11-11T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the VUHL 05RR (Gold Star) (T5 - P604)"
   },
   {
-    "ID": 561,
+    "ID": 562,
     "Date": "2023-11-11T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the VUHL 05RR Fighter (Purple Star) (T5 - P594)"
   },
   {
-    "ID": 562,
+    "ID": 563,
     "Date": "2023-11-11T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the W Motors Fenyr Supersport (Gold Star) (T5 - P521)"
   },
   {
-    "ID": 563,
+    "ID": 564,
     "Date": "2023-11-11T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the W Motors Fenyr Supersport (Purple Star) (T5 - P508)"
   },
   {
-    "ID": 564,
+    "ID": 565,
     "Date": "2023-11-11T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the W Motors Lykan HyperSport (Gold Star) (T5 - P647)"
   },
   {
-    "ID": 565,
+    "ID": 566,
     "Date": "2023-11-11T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the W Motors Lykan HyperSport (Purple Star) (T5 - P639)"
   },
   {
-    "ID": 566,
+    "ID": 567,
     "Date": "2023-11-11T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Zenvo TS1 GT (Gold Star) (T5 - P275)"
   },
   {
-    "ID": 567,
+    "ID": 568,
     "Date": "2023-11-11T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Zenvo TS1 GT (Purple Star) (T5 - P261)"
   },
   {
-    "ID": 568,
+    "ID": 569,
     "Date": "2023-11-11T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Zenvo TS1 GT 'Sleipnir' 10th Anniversary (Purple Star) (T5 - P253)"
   },
   {
-    "ID": 569,
+    "ID": 570,
     "Date": "2023-11-11T23:00:00.000Z",
     "Output Vision": "Updated S6 effects for the Zenvo TSR-S (Purple Star) (T5 - P213)"
   },
   {
-    "ID": 570,
+    "ID": 571,
     "Date": "2023-11-11T23:00:00.000Z",
     "Output Vision": "Updated S6 effects for the Zenvo TSR-S ''Chassis No.3'' (Purple Star) (T5 - P231)"
   },
   {
-    "ID": 571,
+    "ID": 572,
     "Date": "2023-11-10T23:00:00.000Z",
     "Output Vision": "Added S6 effects for the Zenvo TSR-S ''Chassis No.2'' (Purple Star) (T5 - P233)"
   },
   {
-    "ID": 572,
+    "ID": 573,
     "Date": "2023-11-10T23:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the BMW 2021 M5 CS (Purple Star) (T4 - P69)"
   },
   {
-    "ID": 573,
+    "ID": 574,
     "Date": "2023-11-10T23:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Pininfarina Battista (Purple Star) (T5 - P43)"
   },
   {
-    "ID": 574,
+    "ID": 575,
     "Date": "2023-11-10T23:00:00.000Z",
     "Output Vision": "Updated WR time, INFO, shift pattern & driver for the McLaren 600LT (7.611 possible) (Gold Star) (T5 - P414)"
   },
   {
-    "ID": 575,
-    "Date": "2023-11-10T23:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Buick Roadster Shops Grand National (Purple Star) (T5 - P20)"
-  },
-  {
     "ID": 576,
     "Date": "2023-11-10T23:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the Ford Ringbrothers Mustang Mach 1 'Patriarc' (Purple Star) (T5 - P21)"
+    "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Buick Roadster Shops Grand National (Purple Star) (T5 - P20)"
   },
   {
     "ID": 577,
     "Date": "2023-11-10T23:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the Acura 2022 NSX Type S (Gold Star) (T5 - P466)"
+    "Output Vision": "Updated WR shift pattern for the Ford Ringbrothers Mustang Mach 1 'Patriarc' (Purple Star) (T5 - P21)"
   },
   {
     "ID": 578,
     "Date": "2023-11-10T23:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the McLaren P1™ GTR (Purple Star) (T5 - P390)"
+    "Output Vision": "Updated WR shift pattern for the Acura 2022 NSX Type S (Gold Star) (T5 - P466)"
   },
   {
     "ID": 579,
     "Date": "2023-11-10T23:00:00.000Z",
-    "Output Vision": "Added WR INFO, shift pattern & driver for the Ferrari 296 GTS (Purple Star) (T5 - P264)"
+    "Output Vision": "Updated WR shift pattern for the McLaren P1™ GTR (Purple Star) (T5 - P390)"
   },
   {
     "ID": 580,
-    "Date": "2023-11-09T23:00:00.000Z",
-    "Output Vision": "Updated WR time for the Plymouth HEMI®️ 'Cuda (E.C. Level 50) (Gold Star) (T4 - P44)"
+    "Date": "2023-11-10T23:00:00.000Z",
+    "Output Vision": "Added WR INFO, shift pattern & driver for the Ferrari 296 GTS (Purple Star) (T5 - P264)"
   },
   {
     "ID": 581,
     "Date": "2023-11-09T23:00:00.000Z",
-    "Output Vision": "Added WR time for the Ferrari 296 GTS (Purple Star) (T5 - P264)"
+    "Output Vision": "Updated WR time for the Plymouth HEMI®️ 'Cuda (E.C. Level 50) (Gold Star) (T4 - P44)"
   },
   {
     "ID": 582,
-    "Date": "2023-11-06T23:00:00.000Z",
-    "Output Vision": "Updated WR INFO & driver for the Nissan 2024 GT-R NISMO (R35) Japan Spec (Purple Star) (T5 - P361)"
+    "Date": "2023-11-09T23:00:00.000Z",
+    "Output Vision": "Added WR time for the Ferrari 296 GTS (Purple Star) (T5 - P264)"
   },
   {
     "ID": 583,
     "Date": "2023-11-06T23:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the McLaren P1™ GTR (Purple Star) (T5 - P390)"
+    "Output Vision": "Updated WR INFO & driver for the Nissan 2024 GT-R NISMO (R35) Japan Spec (Purple Star) (T5 - P361)"
   },
   {
     "ID": 584,
+    "Date": "2023-11-06T23:00:00.000Z",
+    "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the McLaren P1™ GTR (Purple Star) (T5 - P390)"
+  },
+  {
+    "ID": 585,
     "Date": "2023-11-01T23:00:00.000Z",
     "Output Vision": "Updated WR INFO & driver for the Dodge Ringbrothers Charger 'CAPTIV' (Purple Star) (T5 - P64)"
   },
   {
-    "ID": 585,
-    "Date": "2023-10-31T23:00:00.000Z",
-    "Output Vision": "Updated WR tune, time & shift pattern for the Dodge Ringbrothers Charger 'CAPTIV' (Purple Star) (T5 - P64)"
-  },
-  {
     "ID": 586,
     "Date": "2023-10-31T23:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the Ford Mustang RTR Hoonicorn V1 (Purple Star) (T5 - P41)"
+    "Output Vision": "Updated WR tune, time & shift pattern for the Dodge Ringbrothers Charger 'CAPTIV' (Purple Star) (T5 - P64)"
   },
   {
     "ID": 587,
     "Date": "2023-10-31T23:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the Ford Weaver Customs Mustang Fastback 'Shotgun' (Purple Star) (T5 - P81)"
+    "Output Vision": "Added WR time & shift pattern for the Ford Mustang RTR Hoonicorn V1 (Purple Star) (T5 - P41)"
   },
   {
     "ID": 588,
     "Date": "2023-10-31T23:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the Chevrolet Ringbrothers Chevelle 'Recoil' (Purple Star) (T5 - P18)"
+    "Output Vision": "Added WR time & shift pattern for the Ford Weaver Customs Mustang Fastback 'Shotgun' (Purple Star) (T5 - P81)"
   },
   {
     "ID": 589,
     "Date": "2023-10-31T23:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the Buick Roadster Shops Grand National (Purple Star) (T5 - P20)"
+    "Output Vision": "Added WR time & shift pattern for the Chevrolet Ringbrothers Chevelle 'Recoil' (Purple Star) (T5 - P18)"
   },
   {
     "ID": 590,
-    "Date": "2023-10-29T23:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Nissan KRC Japan GT-R (R35) (Gold Star) (T5 - P225)"
+    "Date": "2023-10-31T23:00:00.000Z",
+    "Output Vision": "Updated WR shift pattern for the Buick Roadster Shops Grand National (Purple Star) (T5 - P20)"
   },
   {
     "ID": 591,
     "Date": "2023-10-29T23:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Acura 2022 NSX Type S (Gold Star) (T5 - P466)"
+    "Output Vision": "Updated WR time, INFO & driver for the Nissan KRC Japan GT-R (R35) (Gold Star) (T5 - P225)"
   },
   {
     "ID": 592,
     "Date": "2023-10-29T23:00:00.000Z",
-    "Output Vision": "Updated WR time & shift pattern for the Nissan 2024 GT-R NISMO (R35) Japan Spec (Purple Star) (T5 - P361)"
+    "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Acura 2022 NSX Type S (Gold Star) (T5 - P466)"
   },
   {
     "ID": 593,
     "Date": "2023-10-29T23:00:00.000Z",
-    "Output Vision": "Updated WR time & shift pattern for the Nissan 2024 GT-R NISMO (R35) Japan Spec (Gold Star) (T5 - P399)"
+    "Output Vision": "Updated WR time & shift pattern for the Nissan 2024 GT-R NISMO (R35) Japan Spec (Purple Star) (T5 - P361)"
   },
   {
     "ID": 594,
     "Date": "2023-10-29T23:00:00.000Z",
-    "Output Vision": "Updated WR tune, time & shift pattern for the Dodge Ringbrothers Charger 'CAPTIV' (Purple Star) (T5 - P64)"
+    "Output Vision": "Updated WR time & shift pattern for the Nissan 2024 GT-R NISMO (R35) Japan Spec (Gold Star) (T5 - P399)"
   },
   {
     "ID": 595,
     "Date": "2023-10-29T23:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Bugatti Chiron Pur Sport (Purple Star) (T5 - P242)"
+    "Output Vision": "Updated WR tune, time & shift pattern for the Dodge Ringbrothers Charger 'CAPTIV' (Purple Star) (T5 - P64)"
   },
   {
     "ID": 596,
     "Date": "2023-10-29T23:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Porsche 718 Cayman GT4 RS ''Weissach Package'' (Gold Star) (T5 - P318)"
+    "Output Vision": "Updated WR time, INFO & driver for the Bugatti Chiron Pur Sport (Purple Star) (T5 - P242)"
   },
   {
     "ID": 597,
     "Date": "2023-10-29T23:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Buick Roadster Shops Grand National (Purple Star) (T5 - P20)"
+    "Output Vision": "Updated WR time, INFO & driver for the Porsche 718 Cayman GT4 RS ''Weissach Package'' (Gold Star) (T5 - P318)"
   },
   {
     "ID": 598,
-    "Date": "2023-10-28T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Chevrolet Ringbrothers Chevelle 'Recoil' (Purple Star) (T5 - P18)"
+    "Date": "2023-10-29T23:00:00.000Z",
+    "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Buick Roadster Shops Grand National (Purple Star) (T5 - P20)"
   },
   {
     "ID": 599,
     "Date": "2023-10-28T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Ford Mustang RTR Hoonicorn V1 (Purple Star) (T5 - P41)"
+    "Output Vision": "Added WR tune & S6 effects for the Chevrolet Ringbrothers Chevelle 'Recoil' (Purple Star) (T5 - P18)"
   },
   {
     "ID": 600,
     "Date": "2023-10-28T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Ford Weaver Customs Mustang Fastback 'Shotgun' (Purple Star) (T5 - P81)"
+    "Output Vision": "Added WR tune & S6 effects for the Ford Mustang RTR Hoonicorn V1 (Purple Star) (T5 - P41)"
   },
   {
     "ID": 601,
     "Date": "2023-10-28T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Lanzador Concept (Gold Star) (T5 - P311)"
+    "Output Vision": "Added WR tune & S6 effects for the Ford Weaver Customs Mustang Fastback 'Shotgun' (Purple Star) (T5 - P81)"
   },
   {
     "ID": 602,
     "Date": "2023-10-28T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Lanzador Concept (Purple Star) (T5 - P287)"
+    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Lanzador Concept (Gold Star) (T5 - P311)"
   },
   {
     "ID": 603,
     "Date": "2023-10-28T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Revuelto (Gold Star) (T5 - P89)"
+    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Lanzador Concept (Purple Star) (T5 - P287)"
   },
   {
     "ID": 604,
     "Date": "2023-10-28T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Revuelto (Purple Star) (T5 - P61)"
+    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Revuelto (Gold Star) (T5 - P89)"
   },
   {
     "ID": 605,
     "Date": "2023-10-28T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Porsche 718 Spyder RS (Gold Star) (T5 - P347)"
+    "Output Vision": "Added WR tune & S6 effects for the Lamborghini Revuelto (Purple Star) (T5 - P61)"
   },
   {
     "ID": 606,
     "Date": "2023-10-28T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Porsche 718 Spyder RS (Purple Star) (T5 - P325)"
+    "Output Vision": "Added WR tune & S6 effects for the Porsche 718 Spyder RS (Gold Star) (T5 - P347)"
   },
   {
     "ID": 607,
     "Date": "2023-10-28T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the McLaren 600LT (Purple Star) (T5 - P375)"
+    "Output Vision": "Added WR tune & S6 effects for the Porsche 718 Spyder RS (Purple Star) (T5 - P325)"
   },
   {
     "ID": 608,
     "Date": "2023-10-28T22:00:00.000Z",
-    "Output Vision": "Updated WR INFO & driver for the McLaren F1 LM (Purple Star) (T5 - P165)"
+    "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the McLaren 600LT (Purple Star) (T5 - P375)"
   },
   {
     "ID": 609,
     "Date": "2023-10-28T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Dodge Viper ACR 'Voodoo II' (Purple Star) (T5 - P634)"
+    "Output Vision": "Updated WR INFO & driver for the McLaren F1 LM (Purple Star) (T5 - P165)"
   },
   {
     "ID": 610,
-    "Date": "2023-10-26T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Plymouth 'Cuda ''TorC'' Weaver Customs (MIA I) (Purple Star) (T5 - P515)"
+    "Date": "2023-10-28T22:00:00.000Z",
+    "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Dodge Viper ACR 'Voodoo II' (Purple Star) (T5 - P634)"
   },
   {
     "ID": 611,
     "Date": "2023-10-26T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Plymouth 'Cuda ''TorC'' Weaver Customs (Gold Star) (T5 - P533)"
+    "Output Vision": "Added S6 effects for the Plymouth 'Cuda ''TorC'' Weaver Customs (MIA I) (Purple Star) (T5 - P515)"
   },
   {
     "ID": 612,
     "Date": "2023-10-26T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Plymouth 'Cuda ''TorC'' Weaver Customs (Purple Star) (T5 - P525)"
+    "Output Vision": "Added S6 effects for the Plymouth 'Cuda ''TorC'' Weaver Customs (Gold Star) (T5 - P533)"
   },
   {
     "ID": 613,
-    "Date": "2023-10-23T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the McLaren 600LT (7.611 possible) (Gold Star) (T5 - P414)"
+    "Date": "2023-10-26T22:00:00.000Z",
+    "Output Vision": "Added S6 effects for the Plymouth 'Cuda ''TorC'' Weaver Customs (Purple Star) (T5 - P525)"
   },
   {
     "ID": 614,
     "Date": "2023-10-23T22:00:00.000Z",
-    "Output Vision": "Updated WR INFO for the Hennessey Venom GT Spyder (Gold Star) (T5 - P339)"
+    "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the McLaren 600LT (7.611 possible) (Gold Star) (T5 - P414)"
   },
   {
     "ID": 615,
     "Date": "2023-10-23T22:00:00.000Z",
-    "Output Vision": "Updated WR INFO for the Hennessey Venom GT Spyder WFE (Purple Star) (T5 - P321)"
+    "Output Vision": "Updated WR INFO for the Hennessey Venom GT Spyder (Gold Star) (T5 - P339)"
   },
   {
     "ID": 616,
     "Date": "2023-10-23T22:00:00.000Z",
-    "Output Vision": "Updated WR INFO for the Audi RS 7 Sportback (Gold Star) (T4 - P80)"
+    "Output Vision": "Updated WR INFO for the Hennessey Venom GT Spyder WFE (Purple Star) (T5 - P321)"
   },
   {
     "ID": 617,
     "Date": "2023-10-23T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Ford Ringbrothers Mustang Mach 1 'Patriarc' (Purple Star) (T5 - P21)"
+    "Output Vision": "Updated WR INFO for the Audi RS 7 Sportback (Gold Star) (T4 - P80)"
   },
   {
     "ID": 618,
     "Date": "2023-10-23T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Dodge Ringbrothers Charger 'CAPTIV' (Purple Star) (T5 - P64)"
+    "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Ford Ringbrothers Mustang Mach 1 'Patriarc' (Purple Star) (T5 - P21)"
   },
   {
     "ID": 619,
     "Date": "2023-10-23T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Buick Roadster Shops Grand National (Purple Star) (T5 - P20)"
+    "Output Vision": "Added WR tune & S6 effects for the Dodge Ringbrothers Charger 'CAPTIV' (Purple Star) (T5 - P64)"
   },
   {
     "ID": 620,
-    "Date": "2023-10-21T22:00:00.000Z",
-    "Output Vision": "Updated WR shift pattern for the McLaren 600LT (Purple Star) (T5 - P375)"
+    "Date": "2023-10-23T22:00:00.000Z",
+    "Output Vision": "Added WR tune & S6 effects for the Buick Roadster Shops Grand National (Purple Star) (T5 - P20)"
   },
   {
     "ID": 621,
     "Date": "2023-10-21T22:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO & driver for the Ford Ringbrothers Mustang Mach 1 'Patriarc' (Purple Star) (T5 - P21)"
+    "Output Vision": "Updated WR shift pattern for the McLaren 600LT (Purple Star) (T5 - P375)"
   },
   {
     "ID": 622,
+    "Date": "2023-10-21T22:00:00.000Z",
+    "Output Vision": "Updated WR time, INFO & driver for the Ford Ringbrothers Mustang Mach 1 'Patriarc' (Purple Star) (T5 - P21)"
+  },
+  {
+    "ID": 623,
     "Date": "2023-10-20T22:00:00.000Z",
     "Output Vision": "Updated WR time for the Chevrolet 2023 Corvette Z06 Convertible (Gold Star) (T5 - P413)"
   },
   {
-    "ID": 623,
+    "ID": 624,
     "Date": "2023-10-17T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Lamborghini Urus Performante (Purple Star) (T4 - P20)"
   },
   {
-    "ID": 624,
+    "ID": 625,
     "Date": "2023-10-15T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Ford F-150 Hoonitruck (Purple Star) (T5 - P38)"
   },
   {
-    "ID": 625,
+    "ID": 626,
     "Date": "2023-10-15T22:00:00.000Z",
     "Output Vision": "Updated WR time for the Lamborghini Urus Performante (Purple Star) (T4 - P20)"
   },
   {
-    "ID": 626,
+    "ID": 627,
     "Date": "2023-10-15T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Porsche 911 '277' Urban Outlaw (Purple Star) (T4 - P41)"
   },
   {
-    "ID": 627,
+    "ID": 628,
     "Date": "2023-10-13T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Chevrolet Eddie's Rod & Custom Corvette C2 'XP-63' (Purple Star) (T5 - P57)"
   },
   {
-    "ID": 628,
+    "ID": 629,
     "Date": "2023-10-13T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Porsche 911 '277' Urban Outlaw (Purple Star) (T4 - P41)"
   },
   {
-    "ID": 629,
+    "ID": 630,
     "Date": "2023-10-11T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & driver for the McLaren 600LT (Purple Star) (T5 - P375)"
   },
   {
-    "ID": 630,
+    "ID": 631,
     "Date": "2023-10-11T22:00:00.000Z",
     "Output Vision": "Updated WR time & INFO for the Jeep Gladiator 'Rubicon' (Gold Star) (T4 - P96)"
   },
   {
-    "ID": 631,
+    "ID": 632,
     "Date": "2023-10-09T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & driver for the Ford Mustang Dark Horse (Purple Star) (T4 - P1)"
   },
   {
-    "ID": 632,
+    "ID": 633,
     "Date": "2023-10-09T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the BMW 2023 M4 CSL (Gold Star) (T4 - P62)"
   },
   {
-    "ID": 633,
+    "ID": 634,
     "Date": "2023-10-09T22:00:00.000Z",
     "Output Vision": "Updated WR INFO & driver for the Ford Mustang Mach-E GT Performance Edition (Purple Star) (T4 - P103)"
   },
   {
-    "ID": 634,
+    "ID": 635,
     "Date": "2023-10-09T22:00:00.000Z",
     "Output Vision": "Updated WR INFO & driver for the Ford Mustang Mach-E GT Performance Edition (Gold Star) (T4 - P132)"
   },
   {
-    "ID": 635,
+    "ID": 636,
     "Date": "2023-10-09T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the BMW 2023 M4 CSL (Purple Star) (T4 - P55)"
   },
   {
-    "ID": 636,
+    "ID": 637,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Ford Mustang Dark Horse (Purple Star) (T4 - P1)"
   },
   {
-    "ID": 637,
+    "ID": 638,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR time for the Ford F-150 Hoonitruck (Purple Star) (T5 - P38)"
   },
   {
-    "ID": 638,
+    "ID": 639,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Nissan Silvia Spec R (S15) (E.C. Level 0) (Non Star) (T5 - P589)"
   },
   {
-    "ID": 639,
+    "ID": 640,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Hennessey Venom F5 ''Concept'' (Purple Star) (T5 - P108)"
   },
   {
-    "ID": 640,
+    "ID": 641,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Noble M500 (Purple Star) (T5 - P320)"
   },
   {
-    "ID": 641,
+    "ID": 642,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Ferrari Daytona SP3 (Purple Star) (T5 - P35)"
   },
   {
-    "ID": 642,
+    "ID": 643,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Bugatti Chiron Pur Sport (Gold Star) (T5 - P249)"
   },
   {
-    "ID": 643,
+    "ID": 644,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR INFO, shift pattern & driver for the Dodge Viper ACR Extreme Aero (Gold Star) (T5 - P467)"
   },
   {
-    "ID": 644,
+    "ID": 645,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Bugatti Chiron Pur Sport Profilée (Purple Star) (T5 - P238)"
   },
   {
-    "ID": 645,
+    "ID": 646,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR INFO & driver for the Maserati MC20 (Purple Star) (T5 - P245)"
   },
   {
-    "ID": 646,
+    "ID": 647,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Bugatti Divo 'CSR2 Bugatti 110 ans' (Purple Star) (T5 - P290)"
   },
   {
-    "ID": 647,
+    "ID": 648,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Bugatti Divo (Purple Star) (T5 - P291)"
   },
   {
-    "ID": 648,
+    "ID": 649,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Bugatti Chiron Super Sport (Purple Star) (T5 - P115)"
   },
   {
-    "ID": 649,
+    "ID": 650,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR INFO & driver for the Ford Mustang Dark Horse (Purple Star) (T4 - P1)"
   },
   {
-    "ID": 650,
+    "ID": 651,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Ford SuperVan 4 (Purple Star) (T5 - P46)"
   },
   {
-    "ID": 651,
+    "ID": 652,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the McLaren 720S Spider (Gold Star) (T5 - P486)"
   },
   {
-    "ID": 652,
+    "ID": 653,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Subaru RCM WRX 'Gobstopper II' (Purple Star) (T5 - P8)"
   },
   {
-    "ID": 653,
+    "ID": 654,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR INFO & driver for the Ferrari 812 Competizione (Purple Star) (T5 - P118)"
   },
   {
-    "ID": 654,
+    "ID": 655,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR INFO & driver for the Ferrari 812 Competizione (Gold Star) (T5 - P149)"
   },
   {
-    "ID": 655,
+    "ID": 656,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & driver for the Aston Martin DBS Superleggera (Purple Star) (T5 - P469)"
   },
   {
-    "ID": 656,
+    "ID": 657,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Hennessey Venom GT Spyder (Gold Star) (T5 - P339)"
   },
   {
-    "ID": 657,
+    "ID": 658,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Hennessey Venom GT Spyder WFE (Purple Star) (T5 - P321)"
   },
   {
-    "ID": 658,
+    "ID": 659,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Plymouth 'Cuda ''TorC'' Weaver Customs (Purple Star) (T5 - P533)"
   },
   {
-    "ID": 659,
+    "ID": 660,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & driver for the Plymouth 'Cuda ''TorC'' Weaver Customs (MIA I) (Purple Star) (T5 - P515)"
   },
   {
-    "ID": 660,
+    "ID": 661,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & driver for the Audi NEWING Alpil R8 RSR (Purple Star) (T5 - P536)"
   },
   {
-    "ID": 661,
+    "ID": 662,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Mercedes-Benz SLS AMG Black Series (Gold Star) (T4 - P202)"
   },
   {
-    "ID": 662,
+    "ID": 663,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO & driver for the BMW 2023 M2 Coupé ''M Performance'' (Purple Star) (T3 - P6)"
   },
   {
-    "ID": 663,
+    "ID": 664,
     "Date": "2023-10-04T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO, shift pattern & driver for the McLaren Solus GT (Purple Star) (T5 - P3)"
   },
   {
-    "ID": 664,
+    "ID": 665,
     "Date": "2023-10-03T22:00:00.000Z",
     "Output Vision": "Updated WR driver for the Hennessey Venom F5 Roadster (Gold Star) (T5 - P65)"
   },
   {
-    "ID": 665,
+    "ID": 666,
     "Date": "2023-10-03T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Mercedes-Benz 300 SL Coupé (E.C. Level 50) (Gold Star) (T2 - P1)"
   },
   {
-    "ID": 666,
+    "ID": 667,
     "Date": "2023-10-03T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Hyundai IONIQ 5 N (Gold Star) (T4 - P5)"
   },
   {
-    "ID": 667,
+    "ID": 668,
     "Date": "2023-10-03T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Jeep Gladiator 'Rubicon' (Gold Star) (T4 - P96)"
   },
   {
-    "ID": 668,
+    "ID": 669,
     "Date": "2023-10-03T22:00:00.000Z",
     "Output Vision": "Updated WR time, INFO & driver for the Porsche 911 Carrera 4S Cabriolet (Gold Star) (T4 - P92)"
   },
   {
-    "ID": 669,
+    "ID": 670,
     "Date": "2023-10-03T22:00:00.000Z",
     "Output Vision": "Updated WR time & shift pattern for the Pontiac Ryans Rod & Kustom Firebird Trans Am 'Mullet Missile' (Purple Star) (T5 - P9)"
   },
   {
-    "ID": 670,
+    "ID": 671,
     "Date": "2023-10-01T22:00:00.000Z",
     "Output Vision": "Updated WR tune & shift pattern for the Hyundai IONIQ 5 N (Gold Star) (T4 - P5)"
   },
   {
-    "ID": 671,
+    "ID": 672,
     "Date": "2023-09-30T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time & shift pattern for the BMW 2011 Rocket Bunny M3 GTS (Gold Star) (T3 - P13)"
   },
   {
-    "ID": 672,
+    "ID": 673,
     "Date": "2023-09-30T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time & shift pattern for the BMW 2011 Rocket Bunny M3 GTS (Purple Star) (T3 - P13)"
   },
   {
-    "ID": 673,
+    "ID": 674,
     "Date": "2023-09-29T22:00:00.000Z",
     "Output Vision": "Updated WR time & INFO for the Hyundai IONIQ 5 N (Gold Star) (T4 - P5)"
   },
   {
-    "ID": 674,
+    "ID": 675,
     "Date": "2023-09-29T22:00:00.000Z",
     "Output Vision": "Updated WR tune, time, INFO, shift pattern & driver for the Hyundai IONIQ 5 N (Purple Star) (T4 - P5)"
   }
