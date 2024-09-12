@@ -12894,6 +12894,27 @@
     "is EV?": "false"
   },
   {
+    "UniqueID": "T50561",
+    "DB Name": "Pagani_HuayraRoadsterRewardRecycled_2017",
+    "Ingame Name": "Pagani Huayra Roadster",
+    "Un": "T5",
+    "★": "5 Gold Stars",
+    "S5 - PP": 699,
+    "S5 - EVO": 1545,
+    "S5 - NOS": "362/4.2",
+    "S5 - FD": 3.1,
+    "S5 - TIRES": "0/100",
+    "S5 - DYNO": "9.738",
+    "Engine": "9.517",
+    "Turbo": "9.686",
+    "Intake": "9.655",
+    "NOS": "9.517",
+    "Body": "9.440",
+    "Tires": "9.601",
+    "Trans": "9.239",
+    "is EV?": "false"
+  },
+  {
     "UniqueID": "T50563",
     "DB Name": "Pagani_HuayraBCRoadster_2019",
     "Ingame Name": "Pagani Huayra Roadster BC",
