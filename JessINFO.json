@@ -2906,7 +2906,7 @@
   {
     "UniqueID": "T40129",
     "DB Name": "Lamborghini_LBCountachLPRewardRecycled_1988",
-    "Ingame Name Clarification": "Lamborghini LB Countach 1988",
+    "Ingame Name Clarification": "Lamborghini LB Works Countach",
     "Un": "T4",
     "★": "5 Gold Stars",
     "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/refs/heads/main/1.Gold%20Star/Lamborghini/Season%20216%20-%20Lamborghini%20LB%20Countach%201988/Lamborghini%20LB%20Countach%201988%20(BiancoIsis)%202.jpg",
@@ -2917,7 +2917,7 @@
   {
     "UniqueID": "T40130",
     "DB Name": "Lamborghini_LBCountachLPReward_1988",
-    "Ingame Name Clarification": "Lamborghini LB Countach 1988",
+    "Ingame Name Clarification": "Lamborghini LB Works Countach",
     "Un": "T4",
     "★": "5 Purple Stars",
     "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/refs/heads/main/2.Purple%20Star/Lamborghini/Season%20216%20-%20Lamborghini%20LB%20Countach%201988/Lamborghini%20LB%20Countach%201988%20(NeroPegaso).jpg",
@@ -7222,7 +7222,7 @@
     "Un": "T5",
     "★": "5 Purple Stars",
     "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/refs/heads/main/2.Purple%20Star/Ford/Ford%20Ruffian%20Mustang%20'70'/Ford%20Ruffian%20Mustang%20'70'%20(OliveGreen).jpg",
-    "Vision Info": "Added to the game in OTA1 Update 4.6.0 and released in Season XXX ( - ) as the final Prize car of American Road Trip 4 - SEMA Edition in {}.",
+    "Vision Info": "Added to the game in OTA2 Update 5.2.0 and released in Season XXX ( - ) as the final Prize car of American Road Trip 4 - SEMA Edition in {}.",
     "is EV?": "false",
     "thread": "1287044258338963549"
   },
@@ -10016,7 +10016,7 @@
     "Un": "T5",
     "★": "0 Stars",
     "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/refs/heads/main/2.Purple%20Star/Nissan/Nissan%20Z%20NISMO%20(RZ34)%20(ET)/Nissan%20Z%20NISMO%20(RZ34)%20(SeiranBlueTricoat).jpg",
-    "Vision Info": "Added into the game in OTA1 Update 5.1.0 and released in Season 215 (September 22, 2024 - November 21, 2024) as a free car in the Annabella's Tuner Pit event.",
+    "Vision Info": "Added into the game in OTA2 Update 5.2.0 and released in Season 215 (September 22, 2024 - November 21, 2024) as a free car in the Annabella's Tuner Pit event.",
     "is EV?": "false",
     "thread": "1287044197282615390"
   },
@@ -10027,7 +10027,7 @@
     "Un": "T5",
     "★": "5 Purple Stars",
     "IMG": "https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/refs/heads/main/ET-EC%20Specs%20Shots/Screenshot_2024.09.21_15.46.46.913.png",
-    "Vision Info": "Added into the game in OTA1 Update 5.1.0 and released in Season 215 (September 22, 2024 - November 21, 2024) as a free car in the Annabella's Tuner Pit event.",
+    "Vision Info": "Added into the game in OTA2 Update 5.2.0 and released in Season 215 (September 22, 2024 - November 21, 2024) as a free car in the Annabella's Tuner Pit event.",
     "is EV?": "false",
     "thread": "1287044197282615390"
   },
