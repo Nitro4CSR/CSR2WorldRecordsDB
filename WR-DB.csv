@@ -263,8 +263,8 @@ Jeep_GrandCherokeeTrackhawk_2018_EC,Jeep Grand Cherokee Trackhawk (E.C. Level 50
 Jeep_GrandCherokeeTrackhawkF9_2018,Jeep Grand Cherokee Trackhawk (FnF),,P4,673,1095,188/4.0,3.70,0/100,11.514,11.475,,https://www.youtube.com/watch?v=Abf8hUWq0iE,
 Lamborghini_CountachClassic_1988,Lamborghini Countach LP 5000 QV (E.C. Level 0),,0,675,1578,63/12.5,2.47,0/100,10.501,10.154,INFO,https://www.youtube.com/watch?v=JK88lJsYmbE,🃏JOKER86
 Lamborghini_CountachClassic_1988_EC,Lamborghini Countach LP 5000 QV (E.C. Level 50),,5,675,1729,63/12.5,2.41,0/100,10.198,9.851,INFO,https://www.youtube.com/watch?v=qFi_jgAsPec,Ѕᴄᴀɴᴛᴇʀ
-Lamborghini_LBCountachLPRewardRecycled_1988,Lamborghini LB Countach 1988,,5,673,1876,188/4.0,2.45,0/100,9.948,NaN,,,
-Lamborghini_LBCountachLPReward_1988,Lamborghini LB Countach 1988,,P5,673,1897,188/4.0,2.43,0/100,9.906,NaN,,,
+Lamborghini_LBCountachLPRewardRecycled_1988,Lamborghini LB Works Countach,,5,673,1876,188/4.0,2.45,0/100,9.948,NaN,,,
+Lamborghini_LBCountachLPReward_1988,Lamborghini LB Works Countach,,P5,673,1897,188/4.0,2.43,0/100,9.906,NaN,,,
 Lamborghini_UrusRewardRecycled_2018,Lamborghini Urus,,4,673,1026,238/4.6,4.42,16/84,11.664,11.590,INFO,https://www.youtube.com/watch?v=xd81fwbNBQc,疯狂的卡拉恰
 Lamborghini_UrusReward_2018,Lamborghini Urus,,P4,673,1060,247/4.5,4.41,14/86,11.596,11.524,INFO,https://www.youtube.com/watch?v=0m7aTMYZriM,ㄥ乇乂 ㄥㄩㄒ卄ㄖ尺
 Lamborghini_UrusPerformanteRewardRecycled_2023,Lamborghini Urus Performante,,5,673,1830,188/4.0,3.33,0/100,10.048,9.897,INFO,https://www.youtube.com/watch?v=sOiD-DJGAm4,
@@ -1077,6 +1077,14 @@ BMW_M5G99Touring_2024,BMW M5 Touring,,P5,713,2074,188/4.0,2.00,0/100,7.784,NaN,,
 Chevrolet_PickUpVerminsDiner_1936,Chevrolet Justin Woolner's 1/2 Ton Pickup 'Iron Maiden',,P5,713,2413,188/4.0,2.00,0/100,7.097,NaN,,,
 Plymouth_RidesByKamBarracuda_1970,Plymouth Rides by Kam Barracuda 'Notorious',,P5,713,2250,188/4.0,2.00,0/100,7.385,NaN,,,
 Pontiac_HorizonMotorsportsTransAm_1973,Pontiac Horizon Motorsport Trans-Am 'Hammerhead',,P5,713,2518,188/4.0,2.00,0/100,6.832,NaN,,,
+,,,,,,,NaN,,NaN,NaN,,,
+,,,,,,,NaN,,NaN,NaN,,,
+,,,,,,,NaN,,NaN,NaN,,,
+,,,,,,,NaN,,NaN,NaN,,,
+,,,,,,,NaN,,NaN,NaN,,,
+,,,,,,,NaN,,NaN,NaN,,,
+,,,,,,,NaN,,NaN,NaN,,,
+,,,,,,,NaN,,NaN,NaN,,,
 ,,,,,,,NaN,,NaN,NaN,,,
 ,,,,,,,NaN,,NaN,NaN,,,
 ,,,,,,,NaN,,NaN,NaN,,,
