@@ -2,7 +2,7 @@
   {
     "ID": 1,
     "Date": "2024-10-14T22:00:00.000Z",
-    "Output Vision": "Added WR tune, time & shift pattern for the Chevrolet HS Customs Chevelle 'CHIZZLD' (Purple Star) (T5 - P141)"
+    "Output Vision": "Added WR time & shift pattern for the Chevrolet HS Customs Chevelle 'CHIZZLD' (Purple Star) (T5 - P125)"
   },
   {
     "ID": 2,
@@ -172,7 +172,7 @@
   {
     "ID": 35,
     "Date": "2024-09-19T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Chevrolet HS Customs Chevelle 'CHIZZLD' (Purple Star) (T5 - P141)"
+    "Output Vision": "Added WR tune & S6 effects for the Chevrolet HS Customs Chevelle 'CHIZZLD' (Purple Star) (T5 - P125)"
   },
   {
     "ID": 36,
@@ -367,7 +367,7 @@
   {
     "ID": 74,
     "Date": "2024-09-01T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO & driver for the Aston Martin Vantage GTE (Purple Star) (T5 - P135)"
+    "Output Vision": "Updated WR tune, time, INFO & driver for the Aston Martin Vantage GTE (Purple Star) (T5 - P136)"
   },
   {
     "ID": 75,
@@ -1002,7 +1002,7 @@
   {
     "ID": 201,
     "Date": "2024-08-04T22:00:00.000Z",
-    "Output Vision": "Added WR time, INFO & driver for the Ferrari F50 GT (Purple Star) (T5 - P128)"
+    "Output Vision": "Added WR time, INFO & driver for the Ferrari F50 GT (Purple Star) (T5 - P129)"
   },
   {
     "ID": 202,
@@ -1392,7 +1392,7 @@
   {
     "ID": 279,
     "Date": "2024-07-19T22:00:00.000Z",
-    "Output Vision": "Updated WR time & shift pattern for the Ferrari F50 GT (Purple Star) (T5 - P128)"
+    "Output Vision": "Updated WR time & shift pattern for the Ferrari F50 GT (Purple Star) (T5 - P129)"
   },
   {
     "ID": 280,
@@ -1662,7 +1662,7 @@
   {
     "ID": 333,
     "Date": "2024-06-19T22:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the Ferrari F50 GT (Purple Star) (T5 - P128)"
+    "Output Vision": "Added WR time & shift pattern for the Ferrari F50 GT (Purple Star) (T5 - P129)"
   },
   {
     "ID": 334,
@@ -1687,7 +1687,7 @@
   {
     "ID": 338,
     "Date": "2024-06-14T22:00:00.000Z",
-    "Output Vision": "Added WR tune & S6 effects for the Ferrari F50 GT (Purple Star) (T5 - P128)"
+    "Output Vision": "Added WR tune & S6 effects for the Ferrari F50 GT (Purple Star) (T5 - P129)"
   },
   {
     "ID": 339,
@@ -2012,17 +2012,17 @@
   {
     "ID": 403,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Koenigsegg Jesko (White) (Purple Star) (T5 - P137)"
+    "Output Vision": "Updated S6 effects for the Koenigsegg Jesko (White) (Purple Star) (T5 - P138)"
   },
   {
     "ID": 404,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Koenigsegg Jesko (Orange) (Purple Star) (T5 - P136)"
+    "Output Vision": "Updated S6 effects for the Koenigsegg Jesko (Orange) (Purple Star) (T5 - P137)"
   },
   {
     "ID": 405,
     "Date": "2024-04-29T22:00:00.000Z",
-    "Output Vision": "Updated S6 effects for the Koenigsegg Jesko 'Draco Red' (Purple Star) (T5 - P133)"
+    "Output Vision": "Updated S6 effects for the Koenigsegg Jesko 'Draco Red' (Purple Star) (T5 - P134)"
   },
   {
     "ID": 406,
@@ -2247,7 +2247,7 @@
   {
     "ID": 450,
     "Date": "2024-04-14T22:00:00.000Z",
-    "Output Vision": "Added S6 effects for the McLaren Speedtail (Orange) (Purple Star) (T5 - P130)"
+    "Output Vision": "Added S6 effects for the McLaren Speedtail (Orange) (Purple Star) (T5 - P131)"
   },
   {
     "ID": 451,
@@ -2287,7 +2287,7 @@
   {
     "ID": 458,
     "Date": "2024-04-14T22:00:00.000Z",
-    "Output Vision": "Updated WR tune, time, INFO & driver for the Honda 1992 NSX Type R (E.C. Level 35) (Purple Star) (T5 - P134)"
+    "Output Vision": "Updated WR tune, time, INFO & driver for the Honda 1992 NSX Type R (E.C. Level 35) (Purple Star) (T5 - P135)"
   },
   {
     "ID": 459,
@@ -2457,7 +2457,7 @@
   {
     "ID": 492,
     "Date": "2024-03-27T23:00:00.000Z",
-    "Output Vision": "Updated WR tune, time & shift pattern for the Honda 1992 NSX Type R (E.C. Level 35) (Purple Star) (T5 - P134)"
+    "Output Vision": "Updated WR tune, time & shift pattern for the Honda 1992 NSX Type R (E.C. Level 35) (Purple Star) (T5 - P135)"
   },
   {
     "ID": 493,
@@ -2492,7 +2492,7 @@
   {
     "ID": 499,
     "Date": "2024-03-23T23:00:00.000Z",
-    "Output Vision": "Added WR tune, time & shift pattern for the Honda 1992 NSX Type R (E.C. Level 35) (Purple Star) (T5 - P134)"
+    "Output Vision": "Added WR tune, time & shift pattern for the Honda 1992 NSX Type R (E.C. Level 35) (Purple Star) (T5 - P135)"
   },
   {
     "ID": 500,
@@ -2507,7 +2507,7 @@
   {
     "ID": 502,
     "Date": "2024-03-23T23:00:00.000Z",
-    "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Aston Martin Vantage GTE (Purple Star) (T5 - P135)"
+    "Output Vision": "Updated WR time, INFO, shift pattern & driver for the Aston Martin Vantage GTE (Purple Star) (T5 - P136)"
   },
   {
     "ID": 503,
@@ -2577,7 +2577,7 @@
   {
     "ID": 516,
     "Date": "2024-02-29T23:00:00.000Z",
-    "Output Vision": "Added S6 effects for the Honda 1992 NSX Type R (E.C. Level 35) (Purple Star) (T5 - P134)"
+    "Output Vision": "Added S6 effects for the Honda 1992 NSX Type R (E.C. Level 35) (Purple Star) (T5 - P135)"
   },
   {
     "ID": 517,
@@ -2687,7 +2687,7 @@
   {
     "ID": 538,
     "Date": "2024-02-17T23:00:00.000Z",
-    "Output Vision": "Added WR time & shift pattern for the Aston Martin Vantage GTE (Purple Star) (T5 - P135)"
+    "Output Vision": "Added WR time & shift pattern for the Aston Martin Vantage GTE (Purple Star) (T5 - P136)"
   },
   {
     "ID": 539,
@@ -2747,7 +2747,7 @@
   {
     "ID": 550,
     "Date": "2024-02-09T23:00:00.000Z",
-    "Output Vision": "Added WR tune, time, INFO, shift pattern, driver & S6 effects for the Aston Martin Vantage GTE (Purple Star) (T5 - P135)"
+    "Output Vision": "Added WR tune, time, INFO, shift pattern, driver & S6 effects for the Aston Martin Vantage GTE (Purple Star) (T5 - P136)"
   },
   {
     "ID": 551,
@@ -3832,7 +3832,7 @@
   {
     "ID": 767,
     "Date": "2023-10-04T22:00:00.000Z",
-    "Output Vision": "Updated WR INFO & driver for the Ferrari 812 Competizione (Purple Star) (T5 - P126)"
+    "Output Vision": "Updated WR INFO & driver for the Ferrari 812 Competizione (Purple Star) (T5 - P127)"
   },
   {
     "ID": 768,
