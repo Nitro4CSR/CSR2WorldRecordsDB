@@ -15601,5 +15601,26 @@
     "Tires": "8.960",
     "Trans": "8.941",
     "is EV?": "false"
+  },
+  {
+    "UniqueID": "T50729",
+    "DB Name": "Pagani_ImolaRoadster_2023",
+    "Ingame Name": "Pagani Imola Roadster",
+    "Un": "T5",
+    "★": "5 Purple Stars",
+    "S5 - PP": 698,
+    "S5 - EVO": 2159,
+    "S5 - NOS": "50/6.0",
+    "S5 - FD": "2.05",
+    "S5 - TIRES": "0/100",
+    "S5 - DYNO": "8.541",
+    "Engine": "8.370",
+    "Turbo": "8.485",
+    "Intake": "8.481",
+    "NOS": "8.405",
+    "Body": "8.115",
+    "Tires": "8.303",
+    "Trans": "8.166",
+    "is EV?": ""
   }
 ]
