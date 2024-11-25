@@ -4313,17 +4313,6 @@
   },
   {
     "UniqueID": "T50037",
-    "DB Name": "AstonMartin_VanquishZagatoRewardRecycled_2017",
-    "Ingame Name": "Aston Martin Vanquish Zagato Coupé",
-    "Un": "T5",
-    "★": "5 Gold Stars",
-    "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/main/1.Gold%20Star/Aston%20Martin/Season%20083%20-%20Aston%20Martin%20Vanquish%20Zagato%20Coupe/Aston%20Martin%20Vanquish%20Zagato%20Coupe%20(QbyCaplanRoadsterGreen).jpg",
-    "Vision Info": "Added into the game in Update 2.6.0 and released in Season 83 (August 22, 2019 - September 5, 2019) as a Crew Milestone car.",
-    "is EV?": "false",
-    "thread": "1122713252162437210"
-  },
-  {
-    "UniqueID": "T50038",
     "DB Name": "AstonMartin_VantageGTE_2020",
     "Ingame Name": "Aston Martin Vantage GTE",
     "Un": "T5",
@@ -4332,6 +4321,17 @@
     "Vision Info": "Added into the game in OTA1 Update 4.9.0 and released in Season 201 (March 11, 2024 - March 21, 2024) as a Prize car for the Icon Series Aston martin 110 Iconic Years: Vantage Point Duality event.",
     "is EV?": "false",
     "thread": "1205283358481977465"
+  },
+  {
+    "UniqueID": "T50038",
+    "DB Name": "AstonMartin_VanquishZagatoRewardRecycled_2017",
+    "Ingame Name": "Aston Martin Vanquish Zagato Coupé",
+    "Un": "T5",
+    "★": "5 Gold Stars",
+    "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/main/1.Gold%20Star/Aston%20Martin/Season%20083%20-%20Aston%20Martin%20Vanquish%20Zagato%20Coupe/Aston%20Martin%20Vanquish%20Zagato%20Coupe%20(QbyCaplanRoadsterGreen).jpg",
+    "Vision Info": "Added into the game in Update 2.6.0 and released in Season 83 (August 22, 2019 - September 5, 2019) as a Crew Milestone car.",
+    "is EV?": "false",
+    "thread": "1122713252162437210"
   },
   {
     "UniqueID": "T50039",
