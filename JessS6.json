@@ -15813,7 +15813,7 @@
     "is EV?": "false"
   },
   {
-    "UniqueID": "T50734",
+    "UniqueID": "T50735",
     "DB Name": "BMW_M4CompetitionG82TNR_2021_EC",
     "Ingame Name": "BMW M4 Competition (E.C. Level 35)",
     "Un": "T5",
@@ -15827,14 +15827,14 @@
     "Engine": "8.064",
     "Turbo": "8.084",
     "Intake": "8.106",
-    "NOS": "0.000",
-    "Body": "0.000",
-    "Tires": "0.000",
-    "Trans": "0.000",
+    "NOS": "8.036",
+    "Body": "7.851",
+    "Tires": "7.988",
+    "Trans": "7.780",
     "is EV?": "false"
   },
   {
-    "UniqueID": "T50735",
+    "UniqueID": "T50736",
     "DB Name": "Lamborghini_FewOffAdPersonam_2020",
     "Ingame Name": "Lamborghini Sián FKP 37 Ad Personam",
     "Un": "T5",
@@ -15855,7 +15855,7 @@
     "is EV?": "false"
   },
   {
-    "UniqueID": "T50736",
+    "UniqueID": "T50737",
     "DB Name": "Porsche_Bisimoto935K3V_1984",
     "Ingame Name": "Porsche Bisimoto 935 K3V",
     "Un": "T5",
@@ -15876,7 +15876,7 @@
     "is EV?": "true"
   },
   {
-    "UniqueID": "T50738",
+    "UniqueID": "T50739",
     "DB Name": "Radford_Type62Reward_2021",
     "Ingame Name": "RadFord Type 62-2",
     "Un": "T5",
