@@ -7641,7 +7641,7 @@
     "Body": "8.330",
     "Tires": "8.462",
     "Trans": "8.445",
-    "is EV?": ""
+    "is EV?": "false"
   },
   {
     "UniqueID": "T50215",
@@ -7662,7 +7662,7 @@
     "Body": "8.281",
     "Tires": "8.411",
     "Trans": "8.393",
-    "is EV?": ""
+    "is EV?": "false"
   },
   {
     "UniqueID": "T50216",
@@ -8775,7 +8775,7 @@
     "Body": "7.927",
     "Tires": "8.043",
     "Trans": "7.977",
-    "is EV?": ""
+    "is EV?": "false"
   },
   {
     "UniqueID": "T50306",
@@ -8796,7 +8796,7 @@
     "Body": "8.161",
     "Tires": "8.265",
     "Trans": "8.186",
-    "is EV?": ""
+    "is EV?": "false"
   },
   {
     "UniqueID": "T50307",
@@ -8817,7 +8817,7 @@
     "Body": "8.271",
     "Tires": "8.391",
     "Trans": "8.304",
-    "is EV?": ""
+    "is EV?": "false"
   },
   {
     "UniqueID": "T50308",
@@ -12681,7 +12681,7 @@
     "Body": "7.992",
     "Tires": "8.103",
     "Trans": "8.129",
-    "is EV?": ""
+    "is EV?": "false"
   },
   {
     "UniqueID": "T50544",
@@ -13416,7 +13416,7 @@
     "Body": "8.115",
     "Tires": "8.303",
     "Trans": "8.166",
-    "is EV?": ""
+    "is EV?": "false"
   },
   {
     "UniqueID": "T50588",
@@ -14277,7 +14277,7 @@
     "Body": "8.445",
     "Tires": "8.525",
     "Trans": "8.439",
-    "is EV?": ""
+    "is EV?": "false"
   },
   {
     "UniqueID": "T50639",
@@ -14298,7 +14298,7 @@
     "Body": "8.410",
     "Tires": "8.490",
     "Trans": "8.393",
-    "is EV?": ""
+    "is EV?": "false"
   },
   {
     "UniqueID": "T50642",
