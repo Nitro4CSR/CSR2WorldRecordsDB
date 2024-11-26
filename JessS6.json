@@ -15813,6 +15813,27 @@
     "is EV?": "false"
   },
   {
+    "UniqueID": "T50734",
+    "DB Name": "BMW_M4CompetitionG82TNR_2021_EC",
+    "Ingame Name": "BMW M4 Competition (E.C. Level 35)",
+    "Un": "T5",
+    "★": "5 Purple Stars",
+    "S5 - PP": 698,
+    "S5 - EVO": 2349,
+    "S5 - NOS": "150/2.0",
+    "S5 - FD": "2.00",
+    "S5 - TIRES": "0/100",
+    "S5 - DYNO": "8.171",
+    "Engine": "8.064",
+    "Turbo": "8.084",
+    "Intake": "8.106",
+    "NOS": "0.000",
+    "Body": "0.000",
+    "Tires": "0.000",
+    "Trans": "0.000",
+    "is EV?": "false"
+  },
+  {
     "UniqueID": "T50735",
     "DB Name": "Lamborghini_FewOffAdPersonam_2020",
     "Ingame Name": "Lamborghini Sián FKP 37 Ad Personam",
