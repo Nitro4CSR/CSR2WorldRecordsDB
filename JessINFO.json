@@ -11955,5 +11955,93 @@
     "Vision Info": "Added into the game in OTA1 Update 4.5.1 and released in Season 184 (July 14, 2023 - July 28, 2023) as a Prize car for the Icon Series Hillclimb: Duality Evolution event.",
     "is EV?": "false",
     "thread": "1124977944520040469"
+  },
+  {
+    "UniqueID": "T50732",
+    "DB Name": "AstonMartin_ValourRewardRecycled_2024",
+    "Ingame Name": "",
+    "Un": "T5",
+    "★": "5 Gold Stars",
+    "IMG": "",
+    "Vision Info": "",
+    "is EV?": "false",
+    "thread": ""
+  },
+  {
+    "UniqueID": "T50733",
+    "DB Name": "AstonMartin_ValourReward_2024",
+    "Ingame Name": "",
+    "Un": "T5",
+    "★": "5 Purple Stars",
+    "IMG": "",
+    "Vision Info": "",
+    "is EV?": "false",
+    "thread": ""
+  },
+  {
+    "UniqueID": "T50734",
+    "DB Name": "BMW_M4CompetitionG82TNR_2021",
+    "Ingame Name": "",
+    "Un": "T5",
+    "★": "0 Stars",
+    "IMG": "",
+    "Vision Info": "",
+    "is EV?": "false",
+    "thread": ""
+  },
+  {
+    "UniqueID": "T50734",
+    "DB Name": "BMW_M4CompetitionG82TNR_2021_EC",
+    "Ingame Name": "",
+    "Un": "T5",
+    "★": "5 Purple Stars",
+    "IMG": "",
+    "Vision Info": "",
+    "is EV?": "false",
+    "thread": ""
+  },
+  {
+    "UniqueID": "T50735",
+    "DB Name": "Lamborghini_FewOffAdPersonam_2020",
+    "Ingame Name": "",
+    "Un": "T5",
+    "★": "5 Purple Stars",
+    "IMG": "",
+    "Vision Info": "",
+    "is EV?": "false",
+    "thread": ""
+  },
+  {
+    "UniqueID": "T50736",
+    "DB Name": "Porsche_Bisimoto935K3V_1984",
+    "Ingame Name": "",
+    "Un": "T5",
+    "★": "5 Purple Stars",
+    "IMG": "",
+    "Vision Info": "",
+    "is EV?": "true",
+    "thread": ""
+  },
+  {
+    "UniqueID": "T50737",
+    "DB Name": "Radford_Type62RewardRecycled_2021",
+    "Ingame Name": "",
+    "Un": "T5",
+    "★": "5 Gold Stars",
+    "IMG": "",
+    "Vision Info": "",
+    "is EV?": "false",
+    "thread": ""
+  },
+  {
+    "UniqueID": "T50738",
+    "DB Name": "Radford_Type62Reward_2021",
+    "Ingame Name": "",
+    "Un": "T5",
+    "★": "5 Purple Stars",
+    "IMG": "",
+    "Vision Info": "",
+    "is EV?": "false",
+    "thread": ""
   }
 ]
