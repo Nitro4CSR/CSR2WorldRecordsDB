@@ -4309,7 +4309,7 @@
     "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/refs/heads/main/1.Gold%20Star/Aston%20Martin/Season%20222%20-%20Aston%20Martin%20Valour/Aston%20Martin%20Valour%20(JetBlack).jpg",
     "Vision Info": "Added into the game in OTA1 Update 5.4.0 and released in Season 222 (December 19, 2024 - January 2, 2025) as a Crew Milestone car at 20M Crew RP.",
     "is EV?": "false",
-    "thread": ""
+    "thread": "1316900658204381235"
   },
   {
     "UniqueID": "T50037",
@@ -4320,7 +4320,7 @@
     "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/refs/heads/main/2.Purple%20Star/Aston%20Martin/Season%20222%20-%20Aston%20Martin%20Valour/Aston%20Martin%20Valour%20(QVerdantJade).jpg",
     "Vision Info": "Added into the game in OTA1 Update 5.4.0 and released in Season 222 (December 19, 2024 - January 2, 2025) as a Crew Milestone car at 135M Crew RP.",
     "is EV?": "false",
-    "thread": ""
+    "thread": "1316901583513976832"
   },
   {
     "UniqueID": "T50038",
@@ -4947,7 +4947,7 @@
     "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/refs/heads/main/2.Purple%20Star/BMW/BMW%20M4%20Competition%20(TNR)/BMW%20M4%20Competition%20(PortimaoBlue).jpg",
     "Vision Info": "Added into the game in OTA1 Update 5.4.0 and released in Season 222 (December 19, 2024 - February 2, 2025) as a free car in the Benji's Tuner Pit event.",
     "is EV?": "false",
-    "thread": ""
+    "thread": "1316901910363771021"
   },
   {
     "UniqueID": "T50095",
@@ -4958,7 +4958,7 @@
     "IMG": "https://raw.githubusercontent.com/Nitro4CSR/ProjectMedia/refs/heads/main/ET-EC%20Specs%20Shots/Screenshot_2024.12.13_16.10.18.166.png",
     "Vision Info": "Added into the game in OTA1 Update 5.4.0 and released in Season 222 (December 19, 2024 - February 2, 2025) as a free car in the Benji's Tuner Pit event.",
     "is EV?": "false",
-    "thread": ""
+    "thread": "1316901910363771021"
   },
   {
     "UniqueID": "T50096",
@@ -8764,7 +8764,7 @@
     "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/refs/heads/main/2.Purple%20Star/Lamborghini/Lamborghini%20Sian%20FKP%2037%20Ad%20Personam/Lamborghini%20Sian%20FKP%2037%20Ad%20Personam%20(GialloBelenus).jpg",
     "Vision Info": "Added into the game in OTA1 Update 5.4.0 and released in Season 221 (December 21, 2024 - December 27, 2024) as a prize car in the Festive Sprint (Christmas 2024) event.",
     "is EV?": "false",
-    "thread": ""
+    "thread": "1316902067461423155"
   },
   {
     "UniqueID": "T50442",
@@ -11173,7 +11173,7 @@
     "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/refs/heads/main/2.Purple%20Star/Porsche/Porsche%20Bisimoto%20935%20K3V/Porsche%20Bisimoto%20935%20K3V%20(SlateGray).jpg",
     "Vision Info": "Added into the game in OTA1 Update 5.4.0 and released in Season 222 (December 23, 2024 - January 2, 2025) as a prize car in 2024 Champions' Invitational event.",
     "is EV?": "true",
-    "thread": ""
+    "thread": "1316902196226560070"
   },
   {
     "UniqueID": "T50661",
@@ -11349,7 +11349,7 @@
     "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/refs/heads/main/1.Gold%20Star/RadFord/Season%20223%20-%20RadFord%20Type%2062-2/RadFord%20Type%2062-2%20(Maroon).jpg",
     "Vision Info": "Added into the game in OTA1 Update 5.4.0 and released in Season 223 (January 2, 2025 - January 16, 2025) as a Crew Milestone car at 20M Crew RP.",
     "is EV?": "false",
-    "thread": ""
+    "thread": "1316901181750251603"
   },
   {
     "UniqueID": "T50677",
@@ -11360,7 +11360,7 @@
     "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/refs/heads/main/2.Purple%20Star/RadFord/Season%20223%20-%20RadFord%20Type%2062-2/RadFord%20Type%2062-2%20(Red).jpg",
     "Vision Info": "Added into the game in OTA1 Update 5.4.0 and released in Season 223 (January 2, 2025 - January 16, 2025) as a Crew Milestone car at 135M Crew RP.",
     "is EV?": "false",
-    "thread": ""
+    "thread": "1316901714707611648"
   },
   {
     "UniqueID": "T50678",
@@ -12045,91 +12045,91 @@
     "thread": "1124977944520040469"
   },
   {
-    "UniqueID": "T50740",
+    "UniqueID": "T40740",
     "DB Name": "Audi_RS6AvantGTReward_2024",
-    "Ingame Name": "Audi",
-    "Un": "T5",
+    "Ingame Name": "Audi RS 6 Avant GT",
+    "Un": "T4",
     "★": "5 Gold Stars",
     "IMG": "",
     "Vision Info": "",
-    "is EV?": "",
+    "is EV?": "false",
     "thread": ""
   },
   {
-    "UniqueID": "T50741",
+    "UniqueID": "T40741",
     "DB Name": "Audi_RS6AvantGTRewardRecycled_2024",
-    "Ingame Name": "Audi",
-    "Un": "T5",
+    "Ingame Name": "Audi RS 6 Avant GT",
+    "Un": "T4",
     "★": "5 Purple Stars",
     "IMG": "",
     "Vision Info": "",
-    "is EV?": "",
+    "is EV?": "false",
     "thread": ""
   },
   {
     "UniqueID": "T50742",
     "DB Name": "Bugatti_Tourbillon_2026",
-    "Ingame Name": "Bugatti",
+    "Ingame Name": "Bugatti Tourbillon Show Car 2026",
     "Un": "T5",
     "★": "5 Purple Stars",
     "IMG": "",
     "Vision Info": "",
-    "is EV?": "",
+    "is EV?": "false",
     "thread": ""
   },
   {
     "UniqueID": "T50743",
     "DB Name": "Chevrolet_RoadsterShopCamaro_1970",
-    "Ingame Name": "Chevrolet",
+    "Ingame Name": "Chevrolet Roadster Shop Camaro 'Road Rage'",
     "Un": "T5",
     "★": "5 Purple Stars",
     "IMG": "",
     "Vision Info": "",
-    "is EV?": "",
+    "is EV?": "false",
     "thread": ""
   },
   {
     "UniqueID": "T50744",
     "DB Name": "Dodge_RingbrothersChargerTUSK_1969",
-    "Ingame Name": "Dodge",
+    "Ingame Name": "Dodge Ringbrothers Charger 'Tusk'",
     "Un": "T5",
     "★": "5 Purple Stars",
     "IMG": "",
     "Vision Info": "",
-    "is EV?": "",
+    "is EV?": "false",
     "thread": ""
   },
   {
     "UniqueID": "T50745",
     "DB Name": "Pininfarina_B95_2025",
-    "Ingame Name": "Pininfarina",
+    "Ingame Name": "Pininfarina B95",
     "Un": "T5",
     "★": "5 Purple Stars",
     "IMG": "",
     "Vision Info": "",
-    "is EV?": "",
+    "is EV?": "true",
     "thread": ""
   },
   {
     "UniqueID": "T50746",
     "DB Name": "Zenvo_TSRGTReward_2023",
-    "Ingame Name": "Zenvo",
+    "Ingame Name": "Zenvo TSR-GT",
     "Un": "T5",
     "★": "5 Gold Stars",
     "IMG": "",
     "Vision Info": "",
-    "is EV?": "",
+    "is EV?": "false",
     "thread": ""
   },
   {
     "UniqueID": "T50747",
     "DB Name": "Zenvo_TSRGTRewardRecycled_2023",
-    "Ingame Name": "Zenvo",
+    "Ingame Name": "Zenvo TSR-GT",
     "Un": "T5",
     "★": "5 Purple Stars",
     "IMG": "",
     "Vision Info": "",
-    "is EV?": "",
+    "is EV?": "false",
     "thread": ""
   }
 ]
