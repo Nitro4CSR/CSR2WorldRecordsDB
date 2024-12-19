@@ -15979,5 +15979,26 @@
     "Tires": "8.960",
     "Trans": "8.941",
     "is EV?": "false"
+  },
+  {
+    "UniqueID": "T50746",
+    "DB Name": "Zenvo_TSRGTReward_2023",
+    "Ingame Name": "Zenvo TSR-GT",
+    "Un": "T5",
+    "★": "5 Gold Stars",
+    "S5 - PP": 696,
+    "S5 - EVO": 2101,
+    "S5 - NOS": "150/2.0",
+    "S5 - FD": "2.11",
+    "S5 - TIRES": "0/100",
+    "S5 - DYNO": "8.652",
+    "Engine": "8.503",
+    "Turbo": "8.611",
+    "Intake": "8.620",
+    "NOS": "8.543",
+    "Body": "8.123",
+    "Tires": "8.321",
+    "Trans": "8.452",
+    "is EV?": "false"
   }
 ]
