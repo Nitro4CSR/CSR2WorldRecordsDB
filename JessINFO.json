@@ -10522,7 +10522,7 @@
     "Un": "<:T5:1331668428318183467>",
     "★": "<:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359>",
     "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/main/2.Purple%20Star/Pagani/Pagani%20Zonda%20Cinque/Pagani%20Zonda%20Cinque%20(Bianco%20Benny).jpg",
-    "Vision Info": "Added into the game in Update 3.4.0 and released in Season 138 (September 30, 2021 - October 14, 2021) as a Showdown Trophy Milestone Prize car, which was featured in the European Series: Province of Speed event.",
+    "Vision Info": "Added into the game in Update 3.4.0 and released in Season 138 (September 30, 2021 - October 14, 2021) as a ShowDown Trophy Milestone Prize car, which was featured in the European Series: Province of Speed event.",
     "is EV?": "false",
     "thread": "1123020633211674674"
   },
@@ -10621,7 +10621,7 @@
     "Un": "<:T5:1331668428318183467>",
     "★": "<:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359>",
     "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/refs/heads/main/2.Purple%20Star/Pininfarina/Pininfarina%20B95/Pininfarina%20B95%20(GrigioAntonelliano).jpg",
-    "Vision Info": "Added into the game in OTA2 Update 5.4.0 and released in Season 223 (January 9, 2025 - January January 12, 2025) as a Showdown Trophy Milestone Prize car, which was featured in the European Series: Province of Speed event.",
+    "Vision Info": "Added into the game in OTA2 Update 5.4.0 and released in Season 223 (January 9, 2025 - January January 12, 2025) as a as a Showdown Trophy Milestone Prize car in the Hypercar Fury ShowDown.",
     "is EV?": "true",
     "thread": "1323355790031065118"
   },
@@ -12139,8 +12139,8 @@
     "Un": "<:T5:1331668428318183467>",
     "★": "<:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359>",
     "IMG": "",
-    "Vision Info": "",
-    "is EV?": "",
+    "Vision Info": "Added into the game in OTA1 Update 5.5.0 and released in Season 226 (February 18, 2025- February 25, 2025) as a paid Flash event car.",
+    "is EV?": "false",
     "thread": ""
   },
   {
@@ -12150,19 +12150,19 @@
     "Un": "<:T5:1331668428318183467>",
     "★": "<:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359>",
     "IMG": "",
-    "Vision Info": "",
-    "is EV?": "",
+    "Vision Info": "Added into the game in OTA1 Update 5.5.0 and released in Season 226 (February 12, 2025 - February 19, 2025) as a prize car in the Cutting Edge Pursuit event.",
+    "is EV?": "false",
     "thread": ""
   },
   {
     "UniqueID": "T50748",
     "DB Name": "Lamborghini_Autentica_2023",
-    "Ingame Name": "Lamborghini Autentica",
+    "Ingame Name": "Lamborghini Auténtica",
     "Un": "<:T5:1331668428318183467>",
     "★": "<:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359>",
     "IMG": "",
-    "Vision Info": "",
-    "is EV?": "",
+    "Vision Info": "Added into the game in OTA1 Update 5.5.0 and released in Season 227 (March 2, 2025 - March 10, 2025)  Prize car for the V12 Encore event.",
+    "is EV?": "false",
     "thread": ""
   },
   {
@@ -12172,8 +12172,8 @@
     "Un": "<:T5:1331668428318183467>",
     "★": "<:GS:1331668334726610994><:GS:1331668334726610994><:GS:1331668334726610994><:GS:1331668334726610994><:GS:1331668334726610994>",
     "IMG": "",
-    "Vision Info": "",
-    "is EV?": "",
+    "Vision Info": "Added into the game in OTA1 Update 5.5.0 and released in Season 227 (February 27, 2025 - March 13, 2025) as a Crew Milestone car at 20M Crew RP.",
+    "is EV?": "false",
     "thread": ""
   },
   {
@@ -12183,8 +12183,8 @@
     "Un": "<:T5:1331668428318183467>",
     "★": "<:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359>",
     "IMG": "",
-    "Vision Info": "",
-    "is EV?": "",
+    "Vision Info": "Added into the game in OTA1 Update 5.5.0 and released in Season 227 (February 27, 2025 - March 13, 2025) as a Crew Milestone car at 135M Crew RP.",
+    "is EV?": "false",
     "thread": ""
   },
   {
@@ -12194,8 +12194,8 @@
     "Un": "<:T5:1331668428318183467>",
     "★": "<:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359>",
     "IMG": "",
-    "Vision Info": "",
-    "is EV?": "",
+    "Vision Info": "Added into the game in OTA2 Update 5.4.0 and released in Season 223 (January 9, 2025 - January January 12, 2025) as a as a Showdown Trophy Milestone Prize car in the Hypercar Blitz ShowDown.",
+    "is EV?": "false",
     "thread": ""
   },
   {
@@ -12205,8 +12205,8 @@
     "Un": "<:T5:1331668428318183467>",
     "★": "<:GS:1331668334726610994><:GS:1331668334726610994><:GS:1331668334726610994><:GS:1331668334726610994><:GS:1331668334726610994>",
     "IMG": "",
-    "Vision Info": "",
-    "is EV?": "",
+    "Vision Info": "Added into the game in OTA1 Update 5.5.0 and released in Season 226 (February 13, 2025 - February 27, 2025) as a Crew Milestone car at 20M Crew RP.",
+    "is EV?": "false",
     "thread": ""
   },
   {
@@ -12216,8 +12216,8 @@
     "Un": "<:T5:1331668428318183467>",
     "★": "<:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359>",
     "IMG": "",
-    "Vision Info": "",
-    "is EV?": "",
+    "Vision Info": "Added into the game in OTA1 Update 5.5.0 and released in Season 226 (February 13, 2025 - February 27, 2025) as a Crew Milestone car at 135M Crew RP.",
+    "is EV?": "false",
     "thread": ""
   },
   {
@@ -12227,8 +12227,8 @@
     "Un": "<:T5:1331668428318183467>",
     "★": "<:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359>",
     "IMG": "",
-    "Vision Info": "",
-    "is EV?": "",
+    "Vision Info": "Added into the game in OTA1 Update 5.5.0 and released in Season 226 (February 24, 2025 - March 7, 2025) as a prize car in the Hypercar Blitz event.",
+    "is EV?": "false",
     "thread": ""
   }
 ]
