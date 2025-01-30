@@ -5259,25 +5259,25 @@
   },
   {
     "UniqueID": "T50121",
-    "DB Name": "Bugatti_Divo_2019",
-    "Ingame Name": "Bugatti Divo",
-    "Un": "<:T5:1331668428318183467>",
-    "★": "<:GS:1331668334726610994><:GS:1331668334726610994><:GS:1331668334726610994><:GS:1331668334726610994><:GS:1331668334726610994>",
-    "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/main/2.Purple%20Star/Bugatti/Bugatti%20Divo/Bugatti%20Divo%20(DivoTitaniumSilver).jpg",
-    "Vision Info": "Added into the game in Update 1.22.0 and released in Season 59 (September 20, 2018 - October 4, 2018) as a Flash event car.",
-    "is EV?": "false",
-    "thread": "1122967829822582904"
-  },
-  {
-    "UniqueID": "T50122",
     "DB Name": "Bugatti_DivoGold_2019",
     "Ingame Name": "Bugatti Divo",
     "Un": "<:T5:1331668428318183467>",
-    "★": "<:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359>",
+    "★": "<:GS:1331668334726610994><:GS:1331668334726610994><:GS:1331668334726610994><:GS:1331668334726610994><:GS:1331668334726610994>",
     "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/main/1.Gold%20Star/Bugatti/Bugatti%20Divo/Bugatti%20Divo%20(FrenchRacingBlue).jpg",
     "Vision Info": "Added into the game in Update 2.17.0 and released in Season 117 (December 10, 2020 - December 24, 2020) as a featured gold star car in the Supercar Science: Bugatti event.",
     "is EV?": "false",
     "thread": "1122829864211329074"
+  },
+  {
+    "UniqueID": "T50122",
+    "DB Name": "Bugatti_Divo_2019",
+    "Ingame Name": "Bugatti Divo",
+    "Un": "<:T5:1331668428318183467>",
+    "★": "<:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359>",
+    "IMG": "https://raw.githubusercontent.com/Nitro4CSR/CSR2-Specs-Catalog/main/2.Purple%20Star/Bugatti/Bugatti%20Divo/Bugatti%20Divo%20(DivoTitaniumSilver).jpg",
+    "Vision Info": "Added into the game in Update 1.22.0 and released in Season 59 (September 20, 2018 - October 4, 2018) as a Flash event car.",
+    "is EV?": "false",
+    "thread": "1122967829822582904"
   },
   {
     "UniqueID": "T50123",
