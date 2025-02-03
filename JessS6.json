@@ -18312,6 +18312,27 @@
     "is EV?": "false"
   },
   {
+    "UniqueID": "T50750",
+    "DB Name": "McLaren_750SReward_2023",
+    "Ingame Name": "McLaren 750S",
+    "Un": "<:T5:1331668428318183467>",
+    "★": "<:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359><:PS:1331668354238517359>",
+    "S5 - PP": 698,
+    "S5 - EVO": 1608,
+    "S5 - NOS": "325/2.4",
+    "S5 - FD": "3.07",
+    "S5 - TIRES": "0/100",
+    "S5 - DYNO": "9.662",
+    "Engine": "9.476",
+    "Turbo": "9.630",
+    "Intake": "9.583",
+    "NOS": "9.257",
+    "Body": "9.202",
+    "Tires": "9.446",
+    "Trans": "8.904",
+    "is EV?": "false"
+  },
+  {
     "UniqueID": "T50751",
     "DB Name": "Pagani_UtopiaRoadster_2024",
     "Ingame Name": "Pagani Utopia Roadster",
