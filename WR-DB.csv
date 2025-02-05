@@ -157,8 +157,8 @@ Audi_LBR8V10PlusCoupeElite_2014,Ruby Rose's Audi LB R8 V10 plus Coupé,,P5,,,,Na
 Audi_R8V10PlusCoupe_2014,Audi 2014 R8 V10 plus Coupé,,3,673,591,226/4.8,4.21,18/82,12.563,12.436,INFO,https://www.youtube.com/watch?v=I7LiBmsUw2c,疯狂的卡拉恰
 Audi_ABTRS6RRewardRecycled_2020,Audi ABT RS6-R,,5,673,1709,188/4.0,2.69,0/100,10.281,9.934,,https://www.youtube.com/watch?v=CH4GSkJSO0U&t=75s,
 Audi_ABTRS6RReward_2020,Audi ABT RS6-R,,P5,673,1744,188/4.0,2.70,0/100,10.210,9.870,INFO,https://www.youtube.com/watch?v=CH4GSkJSO0U,_ 丹_ㄗ口ㄗ∞  ¹²
-Audi_RS6AvantGTRewardRecycled_2024,Audi RS 6 Avant GT,,P5,673,1910,188/4.0,2.00,0/100,9.900,NaN,,,
-Audi_RS6AvantGTReward_2024,Audi RS 6 Avant GT,,5,673,1879,188/4.0,2.00,0/100,9.961,NaN,,,
+Audi_RS6AvantGTRewardRecycled_2024,Audi RS 6 Avant GT,,P5,673,1852,188/4.0,2.61,0/100,10.016,9.553,,https://www.youtube.com/watch?v=Nr2VZqBHo3k&t=52s,
+Audi_RS6AvantGTReward_2024,Audi RS 6 Avant GT,,5,673,1880,188/4.0,2.62,0/100,9.959,9.500,,https://www.youtube.com/watch?v=3WH27rgL5O4,
 Audi_RS7SportbackRewardRecycled_2020,Audi RS 7 Sportback,,5,673,1572,188/4.0,2.67,0/100,10.554,10.172,INFO,https://www.youtube.com/watch?v=93GNRHrXW9o&t=89s,_ 丹_ㄗ口ㄗ∞  ¹²
 Audi_RS7SportbackReward_2020,Audi RS 7 Sportback,,P5,673,1598,188/4.0,2.68,0/100,10.502,10.125,INFO,https://www.youtube.com/watch?v=ZYhTpl4t_Jg,Ѕᴄᴀɴᴛᴇʀ
 Audi_RS6AvantRewardRecycled_2020,Audi RS6 Avant,,5,673,1572,188/4.0,2.73,0/100,10.555,10.175,INFO,https://www.youtube.com/watch?v=5q1aCu3Fcxc,_ 丹_ㄗ口ㄗ∞  ¹²
@@ -289,7 +289,7 @@ Mazda_RBRX8_2004,Mazda Rocket Bunny RX-8 (Easter IV),,P5,673,1792,188/4.0,2.50,5
 Mazda_RX7RewardRecycled_1993,Mazda RX-7 Rocket Bunny (E.C. Level 0),,5,669,1281,355/5.1,2.00,0/100,11.282,10.482,INFO,https://www.youtube.com/watch?v=HbF_UHq5Euc,BISBIS ☯
 Mazda_RX7RewardRecycled_1993_EC,Mazda RX-7 Rocket Bunny (E.C. Level 50),,5,669,1788,367/4.7,2.00,0/100,10.266,9.659,INFO,https://www.youtube.com/watch?v=wh4EfZGhFvQ,sǝpɐlqメ逆刄
 Mazda_RX7Reward_1993,Mazda RX-7 Rocket Bunny,,P5,669,1230,365/5.1,2.00,0/100,11.383,10.571,INFO,https://www.youtube.com/watch?v=UeexWwIsKO0,ƊąɧƖıą
-Mazda_RX7RewardEaster_1993,Mazda RX-7 Rocket Bunny (Easter),,P5,669,1520,363/5.2,3.66,6/94,10.803,10.596,INFO,https://www.youtube.com/watch?v=FQaXA8MxDuE,ƊąɧƖıą
+Mazda_RX7RewardEaster_1993,Mazda RX-7 Rocket Bunny (Easter I),,P5,669,1520,363/5.2,3.66,6/94,10.803,10.596,INFO,https://www.youtube.com/watch?v=FQaXA8MxDuE,ƊąɧƖıą
 Mazda_RX7F1_1993,Dom Toretto's Mazda Veilside RX-7 (FnF),,P5,669,1658,222/4.0,2.39,53/47,10.540,10.276,INFO,https://www.youtube.com/watch?v=diMSg8jSGGw,Ѕᴄᴀɴᴛᴇʀ
 Mazda_RX8F3_2004,Neela's Mazda Veilside ''VSD1-GT'' RX-8 (FnF),,P5,673,1792,188/4.0,2.50,53/47,10.108,9.769,INFO,https://www.youtube.com/watch?v=H89qt8g3kNk,eLGeZoOo
 MercedesAMG_G63SUVRewardRecycled_2020,Mercedes-AMG G 63,,5,674,1408,188/4.0,2.01,0/100,10.865,10.696,INFO,https://www.youtube.com/watch?v=PB5QLXpGxvk&t=83s,eLGeZoOo
@@ -381,20 +381,20 @@ AstonMartin_DBSVolanteReward_2020,Aston Martin DBS Superleggera Volante,,P5,714,
 AstonMartin_One77RewardRecycled_2010,Aston Martin One-77,,5,713,1519,654/7.0,2.10,0/100,8.883,8.140,INFO,https://www.youtube.com/watch?v=twW6PHVFcng,_ 丹_ㄗ口ㄗ∞  ¹²
 AstonMartin_One77Reward_2010,Aston Martin One-77,,P5,713,1547,683/7.1,2.08,0/100,8.828,8.069,INFO,https://www.youtube.com/watch?v=VZAFSVhsTPE,Ѕᴄᴀɴᴛᴇʀ
 AstonMartin_V12Speedster_2021,Aston Martin V12 Speedster,,5,713,2291,188/4.5,2.00,0/100,7.347,7.215,INFO,https://www.youtube.com/watch?v=GeUuaB8b5fA,eLGeZoOo
-AstonMartin_V12SpeedsterDBR1_2021,Aston Martin V12 Speedster 'DBR1' (SCS),,P5,713,2343,188/4.0,2.00,0/100,7.242,7.174,INFO,https://www.youtube.com/watch?v=14ztslFuySI,Ѕᴄᴀɴᴛᴇʀ
+AstonMartin_V12SpeedsterDBR1_2021,Aston Martin V12 Speedster 'DBR1',,P5,713,2343,188/4.0,2.00,0/100,7.242,7.174,INFO,https://www.youtube.com/watch?v=14ztslFuySI,Ѕᴄᴀɴᴛᴇʀ
 AstonMartin_V12Vantage_2023,Aston Martin V12 Vantage,,P5,713,2292,188/4.0,2.00,0/100,7.306,7.233,INFO,https://www.youtube.com/watch?v=A0q9noSPsXw,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
 AstonMartin_ValhallaGold_2020,Aston Martin Valhalla Concept,,5,714,2327,188/4.0,2.00,0/100,7.153,7.067,INFO,https://www.youtube.com/watch?v=oS0P2dHRNxo,Ѕᴄᴀɴᴛᴇʀ
 AstonMartin_Valhalla_2020,Aston Martin Valhalla Concept,,P5,714,2418,251/4.0,2.00,0/100,7.020,7.009,INFO,https://www.youtube.com/watch?v=oP4KQGggXc4,EPR1-GXR
 AstonMartin_Valkyrie_2020,Aston Martin Valkyrie,,5,713,2356,63/12.0,2.67,0/100,7.130,6.930,INFO,https://www.youtube.com/watch?v=1S4Z3ix5GH4,[s]↼∝-ৡвιαɔк★αdαm🔄⇀
 AstonMartin_ValkyrieAMRPro_2022,Aston Martin Valkyrie AMR Pro,,P5,713,2503,188/4.0,2.75,0/100,6.923,6.750,INFO,https://www.youtube.com/watch?v=FrhMb4AWcuE,eLGeZoOo
 AstonMartin_ValkyrieAMRProConcept_2020,Aston Martin Valkyrie AMR Pro Concept,,P5,713,2452,63/12.0,2.00,0/100,7.025,6.809,INFO,https://www.youtube.com/watch?v=uRvI7COVcM4,🃏JOKER86
-AstonMartin_ValkyrieSpider_2022,Aston Martin Valkyrie Spider,,P5,713,2409,63/12.0,2.67,0/100,7.112,NaN,,,
+AstonMartin_ValkyrieSpider_2022,Aston Martin Valkyrie Spider,(Valkyrie Spirit),P5,713,2409,63/12.0,2.65,0/100,7.111,6.913,,,
 AstonMartin_ValkyrieSpirit_2020,Aston Martin Valkyrie 'Spirit - Designer Spec',,P5,713,2409,63/12.0,2.65,0/100,7.111,6.913,INFO,https://www.youtube.com/watch?v=RQkIMaOnIrM,eLGeZoOo
-AstonMartin_ValkyrieTrackPack_2020,Aston Martin Valkyrie 'Track Pack' (SCS: AM 1.0),,P5,713,2442,63/12.0,2.67,0/100,7.044,6.850,INFO,https://www.youtube.com/watch?v=-FGggvHbqCU,🃏JOKER86
-AstonMartin_ValkyrieTrackPackAMR_2020,Aston Martin Valkyrie 'Track Pack',,P5,713,2442,63/12.0,2.67,0/100,7.044,6.850,INFO,https://www.youtube.com/watch?v=9kYhtyCS5tk,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
+AstonMartin_ValkyrieTrackPack_2020,Aston Martin Valkyrie 'Track Pack' (Green),,P5,713,2442,63/12.0,2.67,0/100,7.044,6.850,INFO,https://www.youtube.com/watch?v=-FGggvHbqCU,🃏JOKER86
+AstonMartin_ValkyrieTrackPackAMR_2020,Aston Martin Valkyrie 'Track Pack' (Lime),,P5,713,2442,63/12.0,2.67,0/100,7.044,6.850,INFO,https://www.youtube.com/watch?v=9kYhtyCS5tk,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
 AstonMartin_ValourRewardRecycled_2024,Aston Martin Valour,,5,713,2502,188/4.0,2.00,0/100,6.888,6.720,,https://www.youtube.com/watch?v=b10OwJs5bnc&t=69s,
-AstonMartin_ValourReward_2024,Aston Martin Valour,,P5,713,2528,188/4.0,2.00,0/100,6.836,6.672,INFO,https://www.youtube.com/watch?v=DKtSi0WBobs,_ 丹_ㄗ口ㄗ∞  ¹²
-AstonMartin_Valour_2024,Aston Martin Valour (Black),,P5,713,2528,188/4.0,2.00,0/100,6.836,6.672,INFO,https://www.youtube.com/watch?v=5Pl0yCuu--o,Ѕᴄᴀɴᴛᴇʀ
+AstonMartin_ValourReward_2024,Aston Martin Valour (Fluorescent),,P5,713,2528,188/4.0,2.00,0/100,6.836,6.672,INFO,https://www.youtube.com/watch?v=DKtSi0WBobs,_ 丹_ㄗ口ㄗ∞  ¹²
+AstonMartin_Valour_2024,Aston Martin Valour (Green),,P5,713,2528,188/4.0,2.00,0/100,6.836,6.672,INFO,https://www.youtube.com/watch?v=5Pl0yCuu--o,Ѕᴄᴀɴᴛᴇʀ
 AstonMartin_VantageGTE_2020,Aston Martin Vantage GTE,,P5,713,2450,188/4.0,2.38,0/100,6.990,6.947,INFO,https://www.youtube.com/watch?v=Xvp3wuCiPPA,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
 AstonMartin_VanquishZagatoRewardRecycled_2017,Aston Martin Vanquish Zagato Coupé,,5,714,1862,377/5.6,2.05,0/100,8.124,8.077,INFO,https://www.youtube.com/watch?v=bh8zRwBPFYs,ৡ ͜͡LAVEGA⇅
 AstonMartin_VanquishZagatoReward_2017,Aston Martin Vanquish Zagato Coupé,,P5,714,1901,395/5.6,2.00,0/100,8.047,7.993,INFO,https://www.youtube.com/watch?v=sj3DS4VdhCE,ꀤ rꀡひʍ ʍ▲n
@@ -460,7 +460,7 @@ Brabham_BT62RReward_2020,Brabham BT62R,,P5,714,2232,188/4.0,2.00,34/66,7.386,6.9
 BTTF_TimeMachine1_1985,BTTF 'Time Machine',,P5,713,2637,188/4.0,2.00,0/100,6.658,NaN,,,
 Bugatti_AtlanticConceptRewardRecycled_2015,Bugatti Atlantic Concept,,5,715,2323,188/4.0,2.00,0/100,7.145,7.139,INFO,https://www.youtube.com/watch?v=mEph_sfQkOM,Ѕᴄᴀɴᴛᴇʀ
 Bugatti_AtlanticConceptReward_2015,Bugatti Atlantic Concept,,P5,715,2352,188/4.0,2.00,2/98,7.087,7.085,,https://www.youtube.com/watch?v=-fiylIIrFpM,
-Bugatti_AtlanticConcept_2015,Bugatti Atlantic Concept (ESS),,P5,713,2352,188/4.0,2.00,2/98,7.089,7.084,INFO,https://www.youtube.com/watch?v=ydjI7z-__6I,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
+Bugatti_AtlanticConcept_2015,Bugatti Atlantic Concept (Black),,P5,713,2352,188/4.0,2.00,2/98,7.089,7.084,INFO,https://www.youtube.com/watch?v=ydjI7z-__6I,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
 Bugatti_X16_2024,Bugatti Bolide (Blue),,P5,715,2417,242/5.0,2.00,0/100,6.912,6.797,INFO,https://www.youtube.com/watch?v=StLminnPL7E,🃏JOKER86
 Bugatti_X16Gold_2024,Bugatti Bolide (Green),,P5,715,2417,242/5.0,2.00,0/100,6.912,6.797,INFO,https://www.youtube.com/watch?v=StLminnPL7E,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
 Bugatti_EB110HomageMS_2019,Bugatti Centodieci (White),,P5,715,2197,473/4.0,2.00,0/100,7.395,7.069,INFO,https://www.youtube.com/watch?v=SsYFgraCnPM,Ѕᴄᴀɴᴛᴇʀ
@@ -607,7 +607,7 @@ Ferrari_812SuperfastRewardRecycled_2018,Ferrari 812 Superfast,,5,714,1835,447/6.
 Ferrari_812SuperfastReward_2018,Ferrari 812 Superfast,,P5,714,1870,467/6.7,2.51,52/48,8.100,7.954,INFO,https://www.youtube.com/watch?v=-XoVHy_PWzs,Gᴏᴅ OF Tʜᴜɴᴅᴇʀ ƊƑ
 Ferrari_DaytonaSP3_2022,Ferrari Daytona SP3,,P5,713,2553,188/4.0,2.00,0/100,6.786,6.773,INFO,https://www.youtube.com/watch?v=aqEZrSoRUOk,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
 Ferrari_EnzoGold_2002,Ferrari Enzo,,5,713,2192,188/4.0,2.12,53/47,7.543,7.357,INFO,https://www.youtube.com/watch?v=o0YPYwCtIL0,eLGeZoOo
-Ferrari_Enzo_2002,Ferrari Enzo (ESS),,P5,713,2247,188/4.0,2.23,53/47,7.434,7.288,INFO,https://www.youtube.com/watch?v=AUkZkc1htOM,eLGeZoOo
+Ferrari_Enzo_2002,Ferrari Enzo,,P5,713,2247,188/4.0,2.23,53/47,7.434,7.288,INFO,https://www.youtube.com/watch?v=AUkZkc1htOM,eLGeZoOo
 Ferrari_F12berlinetta_2014,Ferrari F12berlinetta,,3,714,1123,398/5.6,2.51,23/77,9.609,8.789,INFO,https://www.youtube.com/watch?v=6QPY-1nUftM,ƊąɧƖıą
 Ferrari_F12berlinetta70thAnniversary_2014,Ferrari F12berlinetta ''70th Anniversary'',,P5,714,1458,473/5.6,2.37,0/100,8.935,8.099,INFO,https://www.youtube.com/watch?v=HDdSt3ypW9E,ᎪᴅʀᴇɴᴀᏞ⁸⁸⁸
 Ferrari_F12tdfRewardRecycled_2016,Ferrari F12tdf,,5,715,1768,500/7.0,2.08,0/100,8.246,8.085,INFO,https://www.youtube.com/watch?v=DKTazQZEVpM&t=73s,Дѕѕетто Согѕд
@@ -680,7 +680,7 @@ Ford_WeaverCustomsModelAMS_1931,Ford Weaver Customs ''Twisted Mistress'' (Bronze
 Ford_WeaverCustomsModelALB_1931,Ford Weaver Customs ''Twisted Mistress'' (USA),,P5,713,2321,242/8.0,2.00,0/100,7.293,7.249,INFO,https://www.youtube.com/watch?v=AsqhCZt9-Rs,₸₹☆ηι̇яναηα
 Ford_WeaverCustomsModelAElite_1931,Priest's Ford Weaver Customs ''Twisted Mistress'',,P5,,,,NaN,,NaN,NaN,,,
 Ginetta_AkulaGold_2019,Ginetta Akula,,5,713,2236,223/4.3,2.05,52/48,7.454,7.315,INFO,https://www.youtube.com/watch?v=qbotrUJkvhE,ƊąɧƖıą
-Ginetta_Akula_2019,Ginetta Akula (BoB),,P5,713,2284,473/5.6,2.00,0/100,7.362,7.266,INFO,https://www.youtube.com/watch?v=8frHdiB_zHM,Altos974
+Ginetta_Akula_2019,Ginetta Akula,,P5,713,2284,473/5.6,2.00,0/100,7.362,7.266,INFO,https://www.youtube.com/watch?v=8frHdiB_zHM,Altos974
 GTA_SpanoCrewRecycled_2015,GTA Motor Spania GTA Spano,,4,716,1164,442/5.7,2.79,0/100,9.378,9.289,INFO,https://www.youtube.com/watch?v=InXQ0zy3ZBg,ƊąɧƖıą
 GTA_SpanoCrew_2015,GTA Motor Larry's Spania GTA Spano,,P5,716,942,473/5.6,3.02,0/100,9.822,9.736,INFO,https://www.youtube.com/watch?v=vM0B41WLr14,ƊąɧƖıą
 Hennessey_VenomF5_2021,Hennessey 2022 Venom F5,,P5,713,2430,188/4.0,2.00,0/100,7.021,6.792,INFO,https://www.youtube.com/watch?v=Fv4WoKb917E,Smilee® w/l
@@ -755,11 +755,11 @@ Lamborghini_CentenarioRoadsterAndroid_2017,Lamborghini Centenario Roadster (Silv
 Lamborghini_CentenarioRoadsteriOS_2017,Lamborghini Centenario Roadster (Yellow),,P5,714,2083,169/5.2,2.14,0/100,7.702,7.605,INFO,https://www.youtube.com/watch?v=jcKvhlwwb2s,Ѕᴄᴀɴᴛᴇʀ
 Lamborghini_CentenarioRoadsterAdPersonam_2017,Lamborghini Centenario Roadster Ad Personam,,P5,714,2078,330/4.6,2.23,0/100,7.703,7.613,INFO,https://www.youtube.com/watch?v=sRh3v7fjdWA,Ѕᴄᴀɴᴛᴇʀ
 Lamborghini_CountachLPI8004RewardRecycled_2022,Lamborghini Countach LPI 800-4,,5,715,2319,63/12.0,2.00,0/100,7.100,6.986,INFO,https://www.youtube.com/watch?v=i2qWjMKAErI,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
-Lamborghini_CountachLPI8004Reward_2022,Lamborghini Countach LPI 800-4,,P5,715,2348,63/12.0,2.00,0/100,7.042,6.931,INFO,https://www.youtube.com/watch?v=ev85wSUC9V8,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
-Lamborghini_CountachLPI8004_2022,Lamborghini Countach LPI 800-4 (Italian SCS),,P5,715,2348,63/12.0,2.00,0/100,7.042,6.931,INFO,https://www.youtube.com/watch?v=ev85wSUC9V8,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
+Lamborghini_CountachLPI8004Reward_2022,Lamborghini Countach LPI 800-4 (Green),,P5,715,2348,63/12.0,2.00,0/100,7.042,6.931,INFO,https://www.youtube.com/watch?v=ev85wSUC9V8,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
+Lamborghini_CountachLPI8004_2022,Lamborghini Countach LPI 800-4 (White),,P5,715,2348,63/12.0,2.00,0/100,7.042,6.931,INFO,https://www.youtube.com/watch?v=EIPQFsl4Yd8,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
 Lamborghini_DiabloSV_1997,Lamborghini Diablo SV,,P5,713,2237,188/4.0,2.00,0/100,7.443,7.373,INFO,https://www.youtube.com/watch?v=0hvHlLT8jpc,_ 丹_ㄗ口ㄗ∞  ¹²
-Lamborghini_EssenzaSCV12_2021,Lamborghini Essenza SCV12,,P5,713,2485,188/4.0,2.00,0/100,6.966,6.868,INFO,https://www.youtube.com/watch?v=evU1cImT8GQ,eLGeZoOo
-Lamborghini_EssenzaSCV12Nero_2021,Lamborghini Essenza SCV12 (SCS),,P5,713,2485,188/4.0,2.00,0/100,6.966,6.868,INFO,https://www.youtube.com/watch?v=1FYPqM7LNUE,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
+Lamborghini_EssenzaSCV12_2021,Lamborghini Essenza SCV12 (Green),,P5,713,2485,188/4.0,2.00,0/100,6.966,6.868,INFO,https://www.youtube.com/watch?v=1FYPqM7LNUE,eLGeZoOo
+Lamborghini_EssenzaSCV12Nero_2021,Lamborghini Essenza SCV12 (Black),,P5,713,2485,188/4.0,2.00,0/100,6.966,6.868,INFO,https://www.youtube.com/watch?v=evU1cImT8GQ,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
 Lamborghini_EssenzaSCV12Monterey_2021,Lamborghini Essenza SCV12 'Bianco Asopo',,P5,713,2485,188/4.0,2.00,0/100,6.966,6.868,,https://www.youtube.com/watch?v=9R1voVJf-Ys,
 Lamborghini_HuracanLP6104_2014,Lamborghini Huracán Coupé (E.C. Level 0),,3,713,1799,479/5.6,3.57,34/66,8.276,8.274,,https://www.youtube.com/watch?v=B7Sy0j3UagY,疯狂的卡拉恰
 Lamborghini_HuracanLP6104_2014_EC,Lamborghini Huracán Coupé (E.C. Level 50),,5,713,1989,545/5.6,3.37,38/62,7.896,7.893,INFO,https://www.youtube.com/watch?v=wjW7mwgNmSw,wტlfαѕt⓱ᴵᵀᴬ
@@ -803,12 +803,12 @@ Lamborghini_SC63LMDH_2024,Lamborghini SC63,,P5,713,2611,188/4.0,2.09,0/100,6.696
 Lamborghini_SestoElementoCrewRecycled_2012,Lamborghini Sesto Elemento,,4,716,1972,380/4.0,2.00,54/46,7.772,7.461,INFO,https://www.youtube.com/watch?v=Nvg9LSiLsvA,ᎪᴅʀᴇɴᴀᏞ⁸⁸⁸
 Lamborghini_SestoElementoCrew_2012,Harkness's Lamborghini Sesto Elemento,,P5,716,2023,395/4.0,2.00,54/46,7.670,7.379,INFO,https://www.youtube.com/watch?v=woVlWFkEPAY,ᎪᴅʀᴇɴᴀᏞ⁸⁸⁸
 Lamborghini_FewOff_2020,Lamborghini Sián FKP 37,,P5,715,2271,158/16.8,2.00,0/100,7.195,7.063,INFO,https://www.youtube.com/watch?v=VMc70Sed508,Gᴏᴅ OF Tʜᴜɴᴅᴇʀ ƊƑ
-Lamborghini_FewOffAdPersonam_2020,Lamborghini Sián FKP 37 Ad Personam,,P5,715,2271,158/16.8,2.00,0/100,7.195,NaN,,,
+Lamborghini_FewOffAdPersonam_2020,Lamborghini Sián FKP 37 Ad Personam,(matches Sián FKP 37),P5,715,2271,158/16.8,2.00,0/100,7.195,7.063,,,
 Lamborghini_SianRoadster_2021,Lamborghini Sián Roadster,,P5,715,2275,63/12.0,2.00,0/100,7.184,7.071,INFO,https://www.youtube.com/watch?v=kFJ-lzAPZJA,Ѕᴄᴀɴᴛᴇʀ
 Lamborghini_LB634_2024,Lamborghini Temerario,,P5,713,2214,188/4.0,2.00,0/100,7.454,7.267,INFO,https://www.youtube.com/watch?v=YMxl5frDFjY,_ 丹_ㄗ口ㄗ∞  ¹²
 Lamborghini_TerzoMillennio_2017,Lamborghini Terzo Millennio,,P5,713,2550,188/4.9,2.00,0/100,6.777,6.748,,https://www.youtube.com/watch?v=25BMtnV0XJg,
 Lamborghini_VenenoGold_2013,Lamborghini Veneno,,5,714,2152,338/4.0,2.14,0/100,7.549,7.384,INFO,https://www.youtube.com/watch?v=xQYk0R_t40M,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
-Lamborghini_Veneno_2013,Lamborghini Veneno (Formula Italia),,P5,714,2218,340/4.2,2.36,0/100,7.416,7.384,INFO,https://www.youtube.com/watch?v=w5sOV6i01a0,Ѕᴄᴀɴᴛᴇʀ
+Lamborghini_Veneno_2013,Lamborghini Veneno,,P5,714,2218,340/4.2,2.36,0/100,7.416,7.384,INFO,https://www.youtube.com/watch?v=w5sOV6i01a0,Ѕᴄᴀɴᴛᴇʀ
 Lamborghini_VenenoRoadsterGold_2014,Lamborghini Veneno Roadster,,5,714,2151,338/4.0,2.14,0/100,7.549,7.386,INFO,https://www.youtube.com/watch?v=MoINfY1nWZE,Ѕᴄᴀɴᴛᴇʀ
 Lamborghini_VenenoRoadster_2014,Lamborghini Veneno Roadster,,P5,714,2194,340/4.2,2.00,0/100,7.462,7.354,INFO,https://www.youtube.com/watch?v=rihRJVr1rVk,Ѕᴄᴀɴᴛᴇʀ
 Lancia_DeltaHFIntegraleEvo2_1994,Lancia Delta HF Integrale Evo 2,,P5,713,2016,188/4.0,2.00,0/100,7.895,7.746,INFO,https://www.youtube.com/watch?v=O_GBHCO7Lsk,eLGeZoOo
@@ -832,7 +832,7 @@ Mazda_RX7TNR_1993_EC,Mazda RX-7 (E.C. Level 35),,P5,713,1982,188/4.0,2.21,0/100,
 Mazda_LBSuperSilhouetteRX7SE_1993,Mazda Special Effect LB Silhouette RX-7,,P5,713,2001,395/4.0,2.00,31/69,7.909,7.622,,https://www.youtube.com/watch?v=0I6URjo07P4,
 Mazda_RX7F3_1993,Han's Mazda Veilside Fortune RX-7 (FnF),,P5,713,2001,395/4.0,2.00,31/69,7.909,7.621,INFO,https://www.youtube.com/watch?v=o34wbgKpPiI,ᎪᴅʀᴇɴᴀᏞ⁸⁸⁸
 Mazzanti_EvantraMillecavalliGold_2019,Mazzanti Evantra Millecavalli,,5,713,2348,235/5.0,2.00,0/100,7.202,7.075,INFO,https://www.youtube.com/watch?v=ywPmgeI16S8,🃏JOKER86
-Mazzanti_EvantraMillecavalli_2019,Mazzanti Evantra Millecavalli (Flash),,P5,714,2339,395/5.6,2.00,51/49,7.180,7.014,INFO,https://www.youtube.com/watch?v=Nn47pckZ3gI,ᎪᴅʀᴇɴᴀᏞ⁸⁸⁸
+Mazzanti_EvantraMillecavalli_2019,Mazzanti Evantra Millecavalli,,P5,714,2339,395/5.6,2.00,51/49,7.180,7.014,INFO,https://www.youtube.com/watch?v=Nn47pckZ3gI,ᎪᴅʀᴇɴᴀᏞ⁸⁸⁸
 McLaren_570S_2016,McLaren 570S,,3,713,1249,406/5.3,3.06,0/100,9.402,9.123,INFO,https://www.youtube.com/watch?v=FvWvPxr2BM0,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
 McLaren_600LTRewardRecycled_2019,McLaren 600LT,,5,714,1992,406/4.0,2.81,0/100,7.827,7.613,INFO,https://www.youtube.com/watch?v=D-KEQQjG_Rg,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
 McLaren_600LTReward_2019,McLaren 600LT,,P5,714,2025,425/4.0,2.79,0/100,7.766,7.553,INFO,https://www.youtube.com/watch?v=sa7tzpHOQFw,_ 丹_ㄗ口ㄗ∞  ¹²
@@ -860,7 +860,7 @@ McLaren_ArturaReward_2022,McLaren Artura,,P5,713,2068,188/4.0,2.00,53/47,7.798,7
 McLaren_ArturaSpiderRewardRecycled_2024,McLaren Artura Spider,,5,713,2042,188/4.0,2.00,53/47,7.848,7.736,,https://www.youtube.com/watch?v=T3svKZ_QlgA&t=72,
 McLaren_ArturaSpiderReward_2024,McLaren Artura Spider,,P5,713,2068,188/4.0,2.00,53/47,7.798,7.689,,https://www.youtube.com/watch?v=o8w19JZGxzI,
 McLaren_ElvaGold_2021,McLaren 2020 Elva,,5,715,2289,323/4.8,2.58,0/100,7.153,7.117,INFO,https://www.youtube.com/watch?v=O0L5RVDPeIc,Ѕᴄᴀɴᴛᴇʀ
-McLaren_Elva_2021,McLaren 2020 Elva (SCS),,P5,715,2319,323/4.9,2.56,0/100,7.094,7.069,INFO,https://www.youtube.com/watch?v=wu95K7dRW9s,ꀤ rꀡひʍ ʍ▲n
+McLaren_Elva_2021,McLaren 2020 Elva,,P5,715,2319,323/4.9,2.56,0/100,7.094,7.069,INFO,https://www.youtube.com/watch?v=wu95K7dRW9s,ꀤ rꀡひʍ ʍ▲n
 McLaren_ElvaWindscreenRewardRecycled_2021,McLaren 2021 Elva,,5,713,2289,323/4.8,2.56,0/100,7.152,7.115,INFO,https://youtu.be/zqneT2S4ZVI?si=wuH_hGzdx2hA1D9k,ৡ ͜͡LAVEGA⇅
 McLaren_ElvaWindscreenReward_2021,McLaren 2021 Elva,,P5,713,2319,323/4.9,2.56,0/100,7.094,7.070,INFO,https://youtu.be/w6A60I07MG8?si=j05hHBUkdj8vBxo0,_ 丹_ㄗ口ㄗ∞  ¹²
 McLaren_ElvaGOSH_2021,McLaren 2020 Elva GOSH Edition,,P5,715,2319,323/4.9,2.56,0/100,7.094,7.069,,https://www.youtube.com/watch?v=XHPwx_wunrI,
@@ -956,11 +956,11 @@ Pagani_HuayraBCRoadsterLS_2019,Pagani Huayra Roadster BC 'Drago Viola Edition',,
 Pagani_HuayraBCRoadsterPB_2019,Pagani Huayra Roadster BC 'Launch Edition',,P5,714,2125,395/5.6,2.37,0/100,7.605,7.600,INFO,https://www.youtube.com/watch?v=P3c0CSfME-0,ᏃooᏨar
 Pagani_ImolaGold_2021,Pagani Imola (Blue),,P5,713,2342,63/12.0,2.00,0/100,7.193,7.171,,https://www.youtube.com/watch?v=TnNy7DC_rg4,
 Pagani_Imola_2021,Pagani Imola (Orange),,P5,713,2342,63/12.0,2.00,0/100,7.193,7.171,INFO,https://www.youtube.com/watch?v=TnNy7DC_rg4,Dei69
-Pagani_ImolaRoadster_2023,Pagani Imola Roadster,,P5,713,2342,63/12.0,2.00,0/100,7.193,NaN,,,
+Pagani_ImolaRoadster_2023,Pagani Imola Roadster,(matches Imola (B/O)),P5,713,2342,63/12.0,2.00,0/100,7.193,7.171,,,
 Pagani_C10_2023,Pagani Utopia,,P5,713,2544,188/4.0,2.00,0/100,6.808,6.780,INFO,https://www.youtube.com/watch?v=EpZoo16neWM,_ 丹_ㄗ口ㄗ∞  ¹²
 Pagani_C10RewardRecycled_2023,Pagani Utopia,,5,713,2521,188/4.0,2.00,0/100,6.855,6.825,INFO,https://www.youtube.com/watch?v=L_qWX26r6I0&t=71s,_ 丹_ㄗ口ㄗ∞  ¹²
-Pagani_C10Reward_2023,Pagani Utopia 'Carbon Edition',,P5,713,2544,188/4.0,2.00,0/100,6.808,6.779,INFO,https://www.youtube.com/watch?v=L_qWX26r6I0,_ 丹_ㄗ口ㄗ∞  ¹²
-Pagani_UtopiaRoadster_2024,Pagani Utopia Roadster,,P5,713,2544,188/4.0,2.00,0/100,6.808,NaN,,,
+Pagani_C10Reward_2023,Pagani Utopia 'Carbon Edition',(matches Utopia (PS)),P5,713,2544,188/4.0,2.00,0/100,6.808,6.779,INFO,https://www.youtube.com/watch?v=L_qWX26r6I0,_ 丹_ㄗ口ㄗ∞  ¹²
+Pagani_UtopiaRoadster_2024,Pagani Utopia Roadster,,P5,713,2544,188/4.0,2.00,0/100,6.808,6.779,,,
 Pagani_ZondaCinqueCoupe_2009,Pagani Zonda Cinque,,P5,713,2278,188/4.0,2.55,53/47,7.349,7.147,INFO,https://www.youtube.com/watch?v=rDiXF-MowO0,Rafy
 Pagani_ZondaCinqueCoupeRewardRecycled_2009,Pagani Zonda Cinque Coupé,,5,713,2251,188/4.0,2.54,53/47,7.403,7.193,INFO,https://www.youtube.com/watch?v=yWnQOCJ8i0A,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
 Pagani_ZondaCinqueCoupeReward_2009,Pagani Zonda Cinque Coupé,,P5,713,2278,188/4.0,2.55,53/47,7.349,7.147,INFO,https://www.youtube.com/watch?v=bebfFsUnJHw,_ 丹_ㄗ口ㄗ∞  ¹²
@@ -974,10 +974,10 @@ Pininfarina_B95_2025,Pininfarina B95,,P5,713,2516,225/4.0,2.00,0/100,6.891,6.845
 Pininfarina_Battista_2020,Pininfarina Battista,,P5,713,2568,225/4.0,2.00,0/100,6.792,6.790,INFO,https://www.youtube.com/watch?v=vBK0er2nLlY,eLGeZoOo
 Pininfarina_BattistaRewardRecycled_2022,Pininfarina Battista,,5,713,2544,225/4.0,2.00,0/100,6.841,6.836,INFO,https://www.youtube.com/watch?v=q_I59qHiwmc,ᴾᴿᴼکúρҽɾ کαιყαʝιɳ  
 Pininfarina_BattistaReward_2022,Pininfarina Battista Anniversario,,P5,713,2568,225/4.0,2.00,0/100,6.792,6.792,,https://www.youtube.com/watch?v=PpiGevSYShs,
-Pininfarina_BattistaNinoFarina_2023,Pininfarina Battista Edizione Nino Farina,,P5,713,2568,225/4.0,2.00,0/100,6.792,NaN,,,
+Pininfarina_BattistaNinoFarina_2023,Pininfarina Battista Edizione Nino Farina,(matches Battista),P5,713,2568,225/4.0,2.00,0/100,6.792,6.790,,,
 Plymouth_WeaverCustomsCudaTorcRewardRecycled_2016,Plymouth 'Cuda ''TorC'' Weaver Customs,,5,714,1946,479/5.0,2.23,40/60,7.936,7.926,INFO,https://www.youtube.com/watch?v=FYEFAH7Ko04,ST.ANGER
-Plymouth_WeaverCustomsCudaTorcReward_2016,Plymouth 'Cuda ''TorC'' Weaver Customs,,P5,714,1959,430/5.0,2.18,29/71,7.920,7.900,INFO,https://www.youtube.com/watch?v=oBbRN_ODMZM,Bioface
-Plymouth_WeaverCustomsCudaTorcReward4thJuly_2016,Plymouth 'Cuda ''TorC'' Weaver Customs (MIA I),,P5,714,1967,421/5.0,2.17,33/67,7.911,7.856,INFO,https://www.youtube.com/watch?v=qkYOQZpvi94,Bioface
+Plymouth_WeaverCustomsCudaTorcReward_2016,Plymouth 'Cuda ''TorC'' Weaver Customs (Lime accents),,P5,714,1959,430/5.0,2.18,29/71,7.920,7.900,INFO,https://www.youtube.com/watch?v=oBbRN_ODMZM,Bioface
+Plymouth_WeaverCustomsCudaTorcReward4thJuly_2016,Plymouth 'Cuda ''TorC'' Weaver Customs (Red accents),,P5,714,1967,421/5.0,2.17,33/67,7.911,7.856,INFO,https://www.youtube.com/watch?v=qkYOQZpvi94,Bioface
 Plymouth_FormulaSBarracuda_1968,Plymouth Garret's Rod Shop Barracuda ''Hemi-S'',,5,712,2286,235/5.0,2.18,0/100,7.403,7.335,INFO,https://www.youtube.com/watch?v=ZPXCHIzGmy0,тD!ĢλȘɱΘɴκεϓ
 Plymouth_FormulaSBarracudaElite_1968,Lau's Plymouth Garret's Rod Shop Barracuda ''Hemi-S'',,P5,,,,NaN,,NaN,NaN,,,
 Plymouth_RidesByKamBarracuda_1970,Plymouth Rides by Kam Barracuda 'Notorious',,P5,713,2250,188/4.0,2.00,0/100,7.385,7.158,INFO,https://www.youtube.com/watch?v=3DlvU2mePwU,ӇƦƖƧƬƖAƝ
