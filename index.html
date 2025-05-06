@@ -27,9 +27,22 @@
 
       // Sort by UN ascending, then WR-BEST ET ascending
       data.sort((a, b) => {
-        if (a.UN !== b.UN) return a.UN.localeCompare(b.UN);
-        return parseFloat(a["WR-BEST ET"]) - parseFloat(b["WR-BEST ET"]);
-      });
+      const unCompare = a.UN.localeCompare(b.UN);
+      if (unCompare !== 0) return unCompare;
+
+      const etA = parseFloat(a["WR-BEST ET"]);
+      const etB = parseFloat(b["WR-BEST ET"]);
+
+      // Treat 0.000 as a special case: it should be last
+      const isZeroA = etA === 0;
+      const isZeroB = etB === 0;
+
+      if (isZeroA && !isZeroB) return 1;
+      if (!isZeroA && isZeroB) return -1;
+
+      return etA - etB;
+    });
+
 
       const tableHead = document.getElementById('header-row');
       const tableBody = document.getElementById('table-body');
