@@ -1,9 +1,60 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Jess WR Table</title>
+  <style>
+    body { font-family: sans-serif; margin: 2em; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background: #f4f4f4; }
+  </style>
+</head>
 <body>
+  <h1>Jess WR Table</h1>
+  <table id="data-table">
+    <thead>
+      <tr id="header-row"></tr>
+    </thead>
+    <tbody id="table-body"></tbody>
+  </table>
 
-<h1>test</h1>
-<p>of testing shit</p>
+  <script>
+    async function loadAndRenderTable() {
+      const response = await fetch('JessWR.json');
+      const data = await response.json();
 
-<\html>
-<\body>
+      // Sort by UN ascending, then WR-BEST ET ascending
+      data.sort((a, b) => {
+        if (a.UN !== b.UN) return a.UN.localeCompare(b.UN);
+        return parseFloat(a["WR-BEST ET"]) - parseFloat(b["WR-BEST ET"]);
+      });
+
+      const tableHead = document.getElementById('header-row');
+      const tableBody = document.getElementById('table-body');
+
+      // Create table headers from keys
+      const headers = Object.keys(data[0]);
+      headers.forEach(header => {
+        const th = document.createElement('th');
+        th.textContent = header;
+        tableHead.appendChild(th);
+      });
+
+      // Fill table rows
+      data.forEach(row => {
+        const tr = document.createElement('tr');
+        headers.forEach(header => {
+          const td = document.createElement('td');
+          td.textContent = row[header];
+          tr.appendChild(td);
+        });
+        tableBody.appendChild(tr);
+      });
+    }
+
+    loadAndRenderTable();
+  </script>
+</body>
+</html>
